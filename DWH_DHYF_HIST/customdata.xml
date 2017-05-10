@@ -1,0 +1,2555 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:152</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid0_ya - Datos Fiscales Actas Iva]
+	dx=312,208
+	expanded=t
+	parent=IVA
+	x=3624,1740
+[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
+	dx=312,208
+	expanded=t
+	parent=IVA
+	x=3654,1770
+[Staging].[YA - tbn1pid0_ya - Datos Fiscales Actas Iva]
+	dx=344,208
+	expanded=t
+	parent=IVA
+	x=3684,1800
+[Staging].[PENDIENTES (revisar nombres campos) - tbn1_tmp_dcfi - Tabla temporal que contiene las liquidaciones NO IRPF (D4)]
+	dx=656,208
+	expanded=t
+	parent=IVA
+	x=3744,1860
+[Staging].[PENDIENTE (revisar nombres campos)- tbn1_tmp_dafi - Tabla temporal que contiene las autoliquidaciones (D2)]
+	dx=620,208
+	expanded=t
+	parent=IVA
+	x=3714,1830
+[Staging].[SI - tbn1moap_si - Modelo.Period.Aplicac.]
+	dx=306,208
+	expanded=t
+	parent=IVA
+	x=3594,1710
+[Staging].[IVA]
+	c=89c6fd
+	dx=4410,2078
+	expanded=t
+	parent=Staging
+	x=10,1853
+[Staging].[I4 - tbn1agru_l4 - Agrupaciones modelo 140]
+	dx=316,208
+	expanded=t
+	parent=LROE
+	x=10,762
+[Staging].[I4 - tbn1bien_l4 - Bienes modelo 140]
+	dx=380,208
+	expanded=t
+	parent=LROE
+	x=10,527
+[Staging].[I4 - tbn1dcte_l4 - Declarantes modelo 140]
+	dx=381,208
+	expanded=t
+	parent=LROE
+	x=451,292
+[Staging].[I4 - tbn1gast_l4 - Gastos modelo 140]
+	dx=401,208
+	expanded=t
+	parent=LROE
+	x=10,292
+[Staging].[I4 - tbn1oper_l4 - Operaciones intracomunitarias modelo 140]
+	dx=416,208
+	expanded=t
+	parent=LROE
+	x=10,57
+[Staging].[LROE]
+	c=89c6fd
+	dx=887,980
+	expanded=t
+	parent=Staging
+	x=3784,3743
+[Staging].[AF - tbn120da_af - Declarados Modelo 192 Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=466,2877
+[Staging].[AF - tbn1270d_af - Declarados modelo 270]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=20,42
+[Staging].[AF - tbn1270i_af - Importes modelo 270]
+	dx=183,190
+	expanded=t
+	parent=Modelos Informativos
+	x=50,72
+[Staging].[AF - tbn12xpe_af - Declarados Modelo 192 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=80,102
+[Staging].[AF - tbn130op_af - Operaciones Modelo 193 Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=110,132
+[Staging].[AF - tbn130pe_af - Declarados Modelo 193 Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=140,162
+[Staging].[AF - tbn13xop_af - Operaciones Modelo 193 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=170,192
+[Staging].[AF - tbn13xpe_af - Declarados Modelo 193 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=200,222
+[Staging].[AF - tbn140op_af - Operaciones Modelo 194 Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=230,252
+[Staging].[AF - tbn140pe_af - Declarados Modelo 194 Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=20,101
+[Staging].[AF - tbn14xop_af - Operaciones Modelo 194 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=50,131
+[Staging].[AF - tbn14xpe_af - Declarados Modelo 194 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=80,161
+[Staging].[AF - tbn160au_af - Autorizados Bizkaia]
+	dx=288,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4014,3926
+[Staging].[AF - tbn160da_af - Declarados Modelo 196 Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=140,221
+[Staging].[AF - tbn160im_af - Importes Modelo 196 Bizkaia]
+	dx=187,190
+	expanded=t
+	parent=Modelos Informativos
+	x=170,251
+[Staging].[AF - tbn160nd_af - Saldos Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=200,281
+[Staging].[AF - tbn16xau_af - Autorizados otras admones]
+	dx=333,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4044,3956
+[Staging].[AF - tbn16xim_af - Importes Modelo 196 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=50,190
+[Staging].[AF - tbn16xnd_af Saldos Otras Admones]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=80,220
+[Staging].[AF - tbn16xpe_af - Declarados Modelo 196 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=110,250
+[Staging].[AF - tbn187im_af - Importes Modelo 187 Bizkaia]
+	dx=187,190
+	expanded=t
+	parent=Modelos Informativos
+	x=140,339
+[Staging].[AF - tbn187pe_af - Declarados Modelo 187 Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=170,369
+[Staging].[AF - tbn187xi_af - Importes Modelo 187 Externo]
+	dx=183,208
+	expanded=t
+	parent=Modelos Informativos
+	x=200,399
+[Staging].[AF - tbn187xp_af - Declarados Modelo 187 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=230,429
+[Staging].[AF - tbn188im_af - Importes Modelo 188 Bizkaia]
+	dx=187,190
+	expanded=t
+	parent=Modelos Informativos
+	x=260,459
+[Staging].[AF - tbn188pe_af - Declarados Modelo 188 Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=290,489
+[Staging].[AF - tbn188xi_af - Importes Modelo 188 Externo]
+	dx=183,208
+	expanded=t
+	parent=Modelos Informativos
+	x=320,519
+[Staging].[AF - tbn188xp_af - Declarados Modelo 188 Externo]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=350,549
+[Staging].[AF - tbn1cabe_af - Declarantes de Activos Bizkaia]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=261,466
+[Staging].[AF - tbn1hcab_af - Histórico declarantes Bizkaia]
+	dx=343,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4074,3986
+[Staging].[AF - tbn1hxca_af - Declarantes externos histórico]
+	dx=351,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4104,4016
+[Staging].[AF - tbn1i3ca_af - Declarantes Activos Externos]
+	dx=183,208
+	expanded=t
+	parent=Modelos Informativos
+	x=291,496
+[Staging].[AF - tbn1pres_af - Presentadores Colectivos Bizkaia]
+	dx=366,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4134,4046
+[Staging].[BC - tbn190hr_bc - Histórico retenedores mod.190]
+	dx=355,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4164,4076
+[Staging].[BC - tbn190pe_bc - Perceptores Modelo 190]
+	dx=482,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4194,4106
+[Staging].[BC - tbn190rt_bc - Retenedores Modelo 190]
+	dx=185,208
+	expanded=t
+	parent=Modelos Informativos
+	x=50,308
+[Staging].[BC - tbn1i3hr_bc - Histórico retenedores 190 ext.]
+	dx=346,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4224,4136
+[Staging].[BC - tbn1i3pe_bc - Perceptores del 190 Externos]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=321,526
+[Staging].[BC - tbn1i3rt_bc - Retenedores Externos]
+	dx=181,208
+	expanded=t
+	parent=Modelos Informativos
+	x=351,556
+[Staging].[BU - tbn1arre_bu - Arrendadores Modelo 180]
+	dx=186,208
+	expanded=t
+	parent=Modelos Informativos
+	x=2070,3642
+[Staging].[BU - tbn1decl_bu - Declaraciones Modelo 180]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=381,586
+[Staging].[BU - tbn1hide_bu - Histórico declaraciones mod180]
+	dx=363,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4254,4166
+[Staging].[BW - tbn1ddos_bw - Declarados modelo 781]
+	dx=320,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4284,4196
+[Staging].[BW - tbn1decl_bw - Declaraciones modelos 181/781]
+	dx=190,208
+	expanded=t
+	parent=Modelos Informativos
+	x=411,616
+[Staging].[BW - tbn1i3de_bw - Declaraciones modelos 181/781 externos]
+	dx=190,208
+	expanded=t
+	parent=Modelos Informativos
+	x=441,646
+[Staging].[BW - tbn1i3do_bw - Declarados modelo 781 externo]
+	dx=441,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4314,4226
+[Staging].[BW - tbn1pres_bw - Declarados Modelo 181]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=471,676
+[Staging].[BW - tbn1rhvi_bw - Rehabilitación vivienda modelo 781]
+	dx=503,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4344,4256
+[Staging].[FP - tbn1ddos_fp - Declarados Modelo 345]
+	dx=189,208
+	expanded=t
+	parent=Modelos Informativos
+	x=501,706
+[Staging].[FP - tbn1decl_fp - Declaraciones Modelo 345]
+	dx=184,208
+	expanded=t
+	parent=Modelos Informativos
+	x=531,736
+[Staging].[IA - tbn1voca_ia - Volumen operaciones 848 cabecera]
+	dx=375,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4374,4286
+[Staging].[IA - tbn1vode_ia - Volumen operaciones 848 detalle]
+	dx=362,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4404,4316
+[Staging].[IA - tbn1vodi_ia - Datos relacionados no identificados]
+	dx=375,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4434,4346
+[Staging].[ID - tbn1ampl_id - Datos ampliados en ID-Detica]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,3642
+[Staging].[ID - tbn1deta_id - Detalle de no identificados]
+	dx=184,208
+	expanded=t
+	parent=Modelos Informativos
+	x=561,766
+[Staging].[ID - tbn1detd_id - Detalle de no identificados]
+	dx=185,208
+	expanded=t
+	parent=Modelos Informativos
+	x=591,796
+[Staging].[IP - tbn1arre_ip - Arrendamientos Modelo 347]
+	dx=182,208
+	expanded=t
+	parent=Modelos Informativos
+	x=679,4112
+[Staging].[IP - tbn1hide_ip - Histórico declaraciones 347]
+	dx=327,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4464,4376
+[Staging].[IP - tbn1i3ar_ip - Arrendamientos Mod.347 Extern]
+	dx=181,208
+	expanded=t
+	parent=Modelos Informativos
+	x=621,826
+[Staging].[IP - tbn1i3hd_ip - Histórico declaraciones 347EXT]
+	dx=351,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4494,4406
+[Staging].[IP - tbn1i3op_ip - Operaciones Mod.347 Externo]
+	dx=184,208
+	expanded=t
+	parent=Modelos Informativos
+	x=651,856
+[Staging].[IP - tbn1oper_ip - Operaciones Modelo 347]
+	dx=185,208
+	expanded=t
+	parent=Modelos Informativos
+	x=681,886
+[Staging].[IP- tbn1i3de_ip - Declaraciones 347 Externo]
+	dx=183,208
+	expanded=t
+	parent=Modelos Informativos
+	x=711,916
+[Staging].[MF - tbn1720b_mf - Bienes modelo 720]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=20,219
+[Staging].[MF - tbn1720c_mf - Cuentas declaradas modelo 720]
+	dx=190,208
+	expanded=t
+	parent=Modelos Informativos
+	x=50,249
+[Staging].[MF - tbn1720d_mf - Declarados modelo 720]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=80,279
+[Staging].[MF - tbn1720v_mf - Valores y acciones modelo 720]
+	dx=190,208
+	expanded=t
+	parent=Modelos Informativos
+	x=110,309
+[Staging].[MF - tbn1cabe_mf - Declarantes Mod.Informativos]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=741,946
+[Staging].[MF - tbn1da99_mf - Declarados Modelo 199]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=771,976
+[Staging].[MF - tbn1de84_mf - Datos económicos modelo 184]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=801,1006
+[Staging].[MF - tbn1decl_mf - Declarantes referencia alfanumérica]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=831,1036
+[Staging].[MF - tbn1hcab_mf - Histórico dcltes.mod.infor.]
+	dx=333,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4524,4436
+[Staging].[MF - tbn1im46_mf - Importes modelo 346]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=861,1066
+[Staging].[MF - tbn1im70_mf - Importes del Modelo 170]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=891,1096
+[Staging].[MF - tbn1im71_mf - Importes del Modelo 171]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=921,1126
+[Staging].[MF - tbn1im82_mf - Importes Modelo 182]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=951,1156
+[Staging].[MF - tbn1im89_mf - Importes del Modelo 189]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=981,1186
+[Staging].[MF - tbn1im99_mf - Declarados Modelo 199]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1011,1216
+[Staging].[MF - tbn1mcab_mf - Más datos del declarante modelo 184]
+	dx=195,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1041,1246
+[Staging].[MF - tbn1pe46_mf - Declarados modelo 346]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1071,1276
+[Staging].[MF - tbn1pe70_mf - Datos del Modelo 170]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1101,1306
+[Staging].[MF - tbn1pe71_mf - Datos del Modelo 171]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1131,1336
+[Staging].[MF - tbn1pe82_mf - Declarados Modelo 182]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1161,1366
+[Staging].[MF - tbn1pe84_mf - Socios del modelo 184]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1191,1396
+[Staging].[MF - tbn1pe89_mf - Datos del Modelo 189]
+	dx=191,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1221,1426
+[Staging].[MF - tbn1pp82_mf - Patrim. Prot. Mod 182 Bizkaia]
+	dx=192,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1251,1456
+[Staging].[MF - tbn1pres_mf - Presen.Colect.Mod.Informativo]
+	dx=356,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4554,4466
+[Staging].[NR - tbn1a296_nr - Anexo modelo 296]
+	dx=187,208
+	expanded=t
+	parent=Modelos Informativos
+	x=2734,3407
+[Staging].[NR - tbn1d296_nr - Declaraciones del modelo 296]
+	dx=188,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1311,1516
+[Staging].[OP - tbn1decl_ip - Declaraciones Mod.347/348]
+	dx=183,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1341,1546
+[Staging].[SD - tbn1domx_sd - Direcciones extranjero]
+	dx=313,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4584,4496
+[Staging].[tbn190pe_bc_tracelog - Perceptores Modelo 190]
+	dx=482,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,352
+[Staging].[tbn1domi_sd_tracelog - Direcciones modelos informativos]
+	dx=405,208
+	expanded=t
+	parent=Modelos Informativos
+	x=532,352
+[Staging].[PENDIENTE (revisar nombre tabla y campos) - tbn1hide_fp - [PRIVADO]] [LOPD-BASICO]] A partir del ejercicio 1999]
+	dx=185,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1461,1666
+[Staging].[PENDIENTE (nombre tabla) - BW - tbn1i3pr_bw - [MASK]] [LOPD-BASICO]] Declarados Mod.181 Externo: Hasta 2008 prestatarios (sólo préstamos vivienda habitual) / Desde 2009 cualquier préstamo, crédito u otras operaciones financieras]
+	dx=1014,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4644,4556
+[Staging].[PENDIENTE (Faltan prop.extendidas) - BW - tbn1hide_bw_tracelog]
+	dx=498,208
+	expanded=t
+	parent=Modelos Informativos
+	x=4614,4526
+[Staging].[Modelos Informativos]
+	c=99b2c7
+	dx=5668,4774
+	expanded=t
+	parent=Staging
+	view=0,0
+	x=10,57
+	zoom=1.000000
+[Staging].[NR - tbn1cenr_nr - Censo de no residentes]
+	dx=186,208
+	expanded=t
+	parent=Modelos Liquidativos
+	x=10,57
+[Staging].[Modelos Liquidativos]
+	c=99b2c7
+	dx=206,275
+	expanded=t
+	parent=Staging
+	x=4684,4643
+[Staging].[AV - tbn1cpto_av - Fichero Codigos Conceptos]
+	dx=337,208
+	expanded=t
+	parent=Recaudación
+	x=1578,527
+[Staging].[AV - tbn1dcto_av - Tabla de Documentos de Fianzas]
+	dx=367,208
+	expanded=t
+	parent=Recaudación
+	x=832,292
+[Staging].[AV - tbn1tipo_av - Fichero Codigos Tipos Fianzas]
+	dx=351,208
+	expanded=t
+	parent=Recaudación
+	x=1633,292
+[Staging].[DZ - tbn1doac_dz - Documentos Activos]
+	dx=297,208
+	expanded=t
+	parent=Recaudación
+	x=1392,1232
+[Staging].[DZ - tbn1dode_dz - Documentos Derivados]
+	dx=313,208
+	expanded=t
+	parent=Recaudación
+	x=369,997
+[Staging].[DZ - tbn1dtac_dz - Documentos por acuerdo]
+	dx=320,208
+	expanded=t
+	parent=Recaudación
+	x=1482,762
+[Staging].[DZ - tbn1expe_dz - Expedientes de Derivacion]
+	dx=331,208
+	expanded=t
+	parent=Recaudación
+	x=10,762
+[Staging].[DZ - tbn1nifd_dz - N.I.F.-S Derivados]
+	dx=273,208
+	expanded=t
+	parent=Recaudación
+	x=664,1467
+[Staging].[YA - tbn1lr12_ya - Datos fiscales actas IRPF 2012]
+	dx=349,208
+	expanded=t
+	parent=IRPF
+	x=1577,997
+[Staging].[YA - tbn1lrdf_ya - Datos fiscales actas IRPF]
+	dx=316,208
+	expanded=t
+	parent=IRPF
+	x=1457,1702
+[Staging].[YA - tbn1ppd0_ya - Datos fiscales actas de patrimonio]
+	dx=415,208
+	expanded=t
+	parent=IRPF
+	x=10,292
+[Staging].[KA - tbn1hexp_ka - Histórico de expedientes]
+	dx=322,208
+	expanded=t
+	parent=Catastro
+	x=376,762
+[Staging].[KA . tbn1parh_ka - Histórico de parcelas]
+	dx=326,208
+	expanded=t
+	parent=Catastro
+	x=1128,527
+[Staging].[KR - tbn1dpsk_kr - Documentos parcelas y subparcelas censo rústico]
+	dx=472,208
+	expanded=t
+	parent=Catastro
+	x=10,57
+[Staging].[CU - tbn1cal1_cu - Callejero de catastro urbano]
+	dx=338,208
+	expanded=t
+	parent=Catastro
+	x=10,527
+[Staging].[CU - tbn1cla2_cu - Nombre clases catastro urbano]
+	dx=356,154
+	expanded=t
+	parent=Catastro
+	x=957,1232
+[Staging].[CU - tbn1comu_cu - Documentos comunes]
+	dx=313,208
+	expanded=t
+	parent=Catastro
+	x=10,997
+[Staging].[CU - tbn1edif_cu - Edificios]
+	dx=329,208
+	expanded=t
+	parent=Catastro
+	x=759,527
+[Staging].[CU - tbn1mod3_cu - Nombre modalidad catastro urbano]
+	dx=389,190
+	expanded=t
+	parent=Catastro
+	x=407,292
+[Staging].[DC - tbn1elta_dc - Elementos de tablas de códigos]
+	dx=357,208
+	expanded=t
+	parent=Catastro
+	x=10,292
+[Staging].[KA - tbn1expe_ka - Expedientes]
+	dx=291,208
+	expanded=t
+	parent=Catastro
+	x=1029,997
+[Staging].[HR - tbn13lp_hr - Cabecera Liq.Provisional]
+	dx=403,208
+	expanded=t
+	parent=IRPF
+	x=457,527
+[Staging].[HR - tbn15arr_hr - Datos Fiscales de Arrendadores]
+	dx=357,208
+	expanded=t
+	parent=IRPF
+	x=1419,762
+[Staging].[HR - tbn15art_hr - Datos Fiscales Arrendatarios]
+	dx=339,208
+	expanded=t
+	parent=IRPF
+	x=1162,1232
+[Staging].[HR - tbn15car_hr - Información Carátula]
+	dx=410,208
+	expanded=t
+	parent=IRPF
+	x=1369,292
+[Staging].[NR - tbn1domi_nr - Domicilios]
+	dx=328,208
+	expanded=t
+	parent=IRPF
+	x=1860,1467
+[Staging].[Z3 - tbn1agen_z3 - Agentes de Recaudacion]
+	dx=318,208
+	expanded=t
+	parent=IRPF
+	x=1099,1702
+[Staging].[CU - tbn1obje_cu - Objetos Tributarios]
+	dx=287,208
+	expanded=t
+	parent=IRPF
+	x=1394,1937
+[Staging].[SI - tbn1rctr_si - Contribuyentes Relacionados]
+	dx=332,208
+	expanded=t
+	parent=IRPF
+	x=10,1467
+[Staging].[tbn1_tmp_fpar_tracelog]
+	dx=201,208
+	expanded=t
+	parent=IRPF
+	x=1463,2407
+[Staging].[TS - tbn1vvma_ts - Valoración mínima atribuible]
+	dx=433,208
+	expanded=t
+	parent=IRPF
+	x=1890,57
+[Staging].[YA - tbn1lpd0_ya - Datos fiscales actas de patrimonio]
+	dx=411,208
+	expanded=t
+	parent=IRPF
+	x=918,292
+[Staging].[YA - tbn1lr11_ya - Datos fiscales actas IRPF 2011]
+	dx=349,208
+	expanded=t
+	parent=IRPF
+	x=1188,997
+[Staging].[KA - tbn1wusp_ka - Usuarios por perfil web]
+	dx=315,172
+	expanded=t
+	parent=IRPF
+	x=10,2172
+[Staging].[KR - tbn1park_kr - Parcelas censo rústico]
+	dx=305,208
+	expanded=t
+	parent=IRPF
+	x=711,1937
+[Staging].[KR - tbn1prok_kr - Propiedades censo rústico]
+	dx=329,208
+	expanded=t
+	parent=IRPF
+	x=1491,1467
+[Staging].[KR - tbn1subk_kr - Subparcelas censo rústico]
+	dx=331,208
+	expanded=t
+	parent=IRPF
+	x=382,1467
+[Staging].[KR - tbn1tabl_kr - Tablas auxiliares del catastro]
+	dx=339,118
+	expanded=t
+	parent=IRPF
+	x=1704,2407
+[Staging].[KR - tbn1titk_kr - Titulares censo rústico]
+	dx=298,208
+	expanded=t
+	parent=IRPF
+	x=1056,1937
+[Staging].[N9 - tbn1cmes_n9 - Componente Estructura]
+	dx=318,208
+	expanded=t
+	parent=IRPF
+	x=741,1702
+[Staging].[N9 - tbn1espm_n9 - Estructura Plantilla Motr.]
+	dx=324,208
+	expanded=t
+	parent=IRPF
+	x=377,1702
+[Staging].[N9 - tbn1motr_n9 - Modelo Tributario]
+	dx=277,136
+	expanded=t
+	parent=IRPF
+	x=2083,2407
+[Staging].[N9 - tbn1nemo_n9 - Mnemotécnico]
+	dx=285,154
+	expanded=t
+	parent=IRPF
+	x=380,2407
+[Staging].[N9 - tbn1plmo_n9 - Plantilla Modelo]
+	dx=286,208
+	expanded=t
+	parent=IRPF
+	x=1721,1937
+[Staging].[NR - tbn1docu_nr - Datos varios de no residentes]
+	dx=590,208
+	expanded=t
+	parent=IRPF
+	x=10,57
+[Staging].[PENDIENTE - tbn1xls_spri_tracelog]
+	dx=269,208
+	expanded=t
+	parent=Catastro
+	x=341,1232
+[Normalizado].[PENDIENTE - tbn1titu_cu_tracelog]
+	dx=263,208
+	expanded=t
+	parent=Normalizado
+	x=20,42
+[Staging].[Catastro]
+	c=9bdfc4
+	dx=1586,1450
+	expanded=t
+	parent=Staging
+	x=274,233
+[Staging].[CU - tbn1num2_cu - Números portal catastro urbano]
+	dx=368,208
+	expanded=t
+	parent=IRPF
+	x=10,762
+[Staging].[CU - tbn1parc_cu - Parcelas]
+	dx=238,208
+	expanded=t
+	parent=IRPF
+	x=704,2172
+[Staging].[CU - tbn1uso1_cu - Nombre usos catastro urbano]
+	dx=352,136
+	expanded=t
+	parent=IRPF
+	x=982,2172
+[Staging].[D4 - tbn1dcfi_d4 - Datos Fiscales Liquidación]
+	dx=184,154
+	expanded=t
+	parent=IRPF
+	x=323,2642
+[Staging].[HR - tbn119n_hr - Anexos Activ. Doc. de Renta]
+	dx=334,208
+	expanded=t
+	parent=IRPF
+	x=1919,1232
+[Staging].[HR - tbn11ap_hr - Relación Entre Mod. 195 y 100]
+	dx=344,136
+	expanded=t
+	parent=IRPF
+	x=1374,2172
+[Staging].[HR - tbn139n_hr - Anexos Activ. Liq. de Renta]
+	dx=329,208
+	expanded=t
+	parent=IRPF
+	x=753,1467
+[Staging].[HR - tbn13adi_hr - Tabla intermedia para TBHR3ADI con el campo adi_informacion transformado en varbinary]
+	dx=706,172
+	expanded=t
+	parent=IRPF
+	x=640,57
+[Staging].[HR - tbn13ap_hr - Relación Entre Mod. 195 y 100]
+	dx=344,136
+	expanded=t
+	parent=IRPF
+	x=1758,2172
+[Staging].[HR - tbn13df_hr - Datos Fiscales Irpf]
+	dx=273,136
+	expanded=t
+	parent=IRPF
+	x=10,2642
+[Staging].[KU - tbn1edif_ku - Histórico de edificios]
+	dx=331,208
+	expanded=t
+	parent=Catastro
+	x=388,527
+[Staging].[KU - tbn1obje_ku - Histórico de objetos]
+	dx=292,208
+	expanded=t
+	parent=Catastro
+	x=697,997
+[Staging].[SU - tbn1nota_su - Notarios]
+	dx=267,208
+	expanded=t
+	parent=Catastro
+	x=650,1232
+[Staging].[TS - tbn1vexp_ts - Valoración de expedientes]
+	dx=326,208
+	expanded=t
+	parent=Catastro
+	x=10,762
+[Staging].[TS - tbn1vibr_ts - Valoración bienes rústicos]
+	dx=322,208
+	expanded=t
+	parent=Catastro
+	x=738,762
+[Staging].[TS - tbn1vide_ts - Identificación bienes valoración]
+	dx=354,208
+	expanded=t
+	parent=Catastro
+	x=836,292
+[Staging].[TS - tbn1vinm_ts - Valoración de inmuebles]
+	dx=316,208
+	expanded=t
+	parent=Catastro
+	x=1100,762
+[Staging].[YC - tbn1ediz_yc - Edificios en zonas]
+	dx=291,208
+	expanded=t
+	parent=Catastro
+	x=10,1232
+[Staging].[YC - tbn1vmar_yc - Carga anual valoración mínima rústica Bizkaia]
+	dx=448,208
+	expanded=t
+	parent=Catastro
+	x=522,57
+[Staging].[YC - tbn1vmas_yc - V.M.A. de Objetos de Bizkaia]
+	dx=346,208
+	expanded=t
+	parent=Catastro
+	x=1230,292
+[Staging].[YC - tbn1vmrs_yc - Carga anual VMA rústica subparcelas]
+	dx=397,208
+	expanded=t
+	parent=Catastro
+	x=1010,57
+[Staging].[YC - tbn1zona_yc - Zonas de un distrito]
+	dx=294,208
+	expanded=t
+	parent=Catastro
+	x=363,997
+[Staging].[HR - tbn15ctr_hr - Información de Control]
+	dx=338,208
+	expanded=t
+	parent=IRPF
+	x=1541,1232
+[Staging].[HR - tbn15dci_hr - CIF o DNI de los datos fiscales de la autoliquidación]
+	dx=477,172
+	expanded=t
+	parent=IRPF
+	x=1339,527
+[Staging].[HR - tbn15dcl_hr - Claves de Datos Fiscales]
+	dx=318,136
+	expanded=t
+	parent=IRPF
+	x=705,2407
+[Staging].[HR - tbn15dfi_hr - Datos Partidas Económicas]
+	dx=330,136
+	expanded=t
+	parent=IRPF
+	x=10,2407
+[Staging].[HR - tbn15dno_hr - Tabla con los nombres de los datos fiscales de la autoliquidación]
+	dx=561,136
+	expanded=t
+	parent=IRPF
+	x=418,762
+[Staging].[HR - tbn15fam_hr - Información Familiares]
+	dx=309,208
+	expanded=t
+	parent=IRPF
+	x=362,1937
+[Staging].[HR - tbn15pro_hr - Propietarios Autoliq.Irpf 1999]
+	dx=344,208
+	expanded=t
+	parent=IRPF
+	x=396,1232
+[Staging].[HR - tbn15seg_hr - Datos Estadísticos I.R.P.F.]
+	dx=329,208
+	expanded=t
+	parent=IRPF
+	x=1122,1467
+[Staging].[HR - tbn15viv_hr - Vivienda Autoliquid. Irpf 1999]
+	dx=342,208
+	expanded=t
+	parent=IRPF
+	x=780,1232
+[Staging].[HT - tbn1anex_ht - Anexos del modelo 714 y ejercicio anterior a 2012]
+	dx=464,208
+	expanded=t
+	parent=IRPF
+	x=1386,57
+[Staging].[I4 - tbn1acti_l4 - Actividades modelo 140]
+	dx=360,208
+	expanded=t
+	parent=IRPF
+	x=1019,762
+[Staging].[I4 - tbn1ingr_l4 - Ingresos modelo 140]
+	dx=399,208
+	expanded=t
+	parent=IRPF
+	x=900,527
+[Staging].[KA - tbn1plan_ka - Plantas de un edificio]
+	dx=299,172
+	expanded=t
+	parent=IRPF
+	x=365,2172
+[Staging].[KA - tbn1relc_ka - Relaciones entre objetos]
+	dx=315,208
+	expanded=t
+	parent=IRPF
+	x=1813,1702
+[Staging].[KA - tbn1tabl_ka - Control asuntos catastro urbano]
+	dx=360,118
+	expanded=t
+	parent=IRPF
+	x=1063,2407
+[Staging].[KA - tbn1tcon_ka - Conceptos constructivos edificios]
+	dx=375,154
+	expanded=t
+	parent=IRPF
+	x=2047,1937
+[Staging].[KA - tbn1valc_ka - Datos valoración de comercio]
+	dx=346,208
+	expanded=t
+	parent=IRPF
+	x=10,1232
+[Staging].[KA - tbn1valg_ka - Valorción especial garajes]
+	dx=327,208
+	expanded=t
+	parent=IRPF
+	x=10,1702
+[Staging].[KA - tbn1wdoe_ka - Documentos de entrada del expediente]
+	dx=408,208
+	expanded=t
+	parent=IRPF
+	x=1819,292
+[Staging].[KA - tbn1wnot_ka - Datos notarios de expedientes]
+	dx=355,208
+	expanded=t
+	parent=IRPF
+	x=1816,762
+[Staging].[KA - tbn1wpla_ka - Actuaciones del planeamiento]
+	dx=352,208
+	expanded=t
+	parent=IRPF
+	x=796,997
+[Staging].[YA - tbn1pr11_ya - Datos fiscales actas IRPF 2011]
+	dx=353,208
+	expanded=t
+	parent=IRPF
+	x=10,997
+[Staging].[YA - tbn1pr12_ya - Datos fiscales actas IRPF 2012]
+	dx=353,208
+	expanded=t
+	parent=IRPF
+	x=403,997
+[Staging].[YA - tbn1PRAC_YA - Información Propuesta de Actas]
+	dx=374,208
+	expanded=t
+	parent=IRPF
+	x=1856,527
+[Staging].[YA - tbn1prdf_ya - Propuesta datos fiscales IRPF]
+	dx=347,208
+	expanded=t
+	parent=IRPF
+	x=1966,997
+[Staging].[YC - tbn1sols_yc - Solicitudes de valoración mínima solares]
+	dx=413,208
+	expanded=t
+	parent=IRPF
+	x=465,292
+[Staging].[YC - tbn1suba_yc - Subáreas de valoración mínima solares]
+	dx=407,208
+	expanded=t
+	parent=IRPF
+	x=10,527
+[Staging].[YC - tbn1tsso_yc - Valoración VMA solares]
+	dx=312,208
+	expanded=t
+	parent=IRPF
+	x=10,1937
+[Staging].[IRPF]
+	c=d8a77d
+	dx=2432,2788
+	expanded=t
+	parent=Staging
+	x=994,953
+[Staging].[D2 - tbn1docu_d2 - Tabla Datos Autoliquidacion]
+	dx=342,208
+	expanded=t
+	parent=IVA
+	x=2964,1080
+[Staging].[D2 - tbn1fact_d2 - Datos Facturas Emi-Re]
+	dx=302,208
+	expanded=t
+	parent=IVA
+	x=2994,1110
+[Staging].[D2 - tbn1iv00_d2_303 - Datos Declaraciones (IVC30309)]
+	dx=385,208
+	expanded=t
+	parent=IVA
+	x=3024,1140
+[Staging].[D2 - tbn1iv00_d2_310 - Datos Declaraciones (D2IVC310)]
+	dx=387,208
+	expanded=t
+	parent=IVA
+	x=3054,1170
+[Staging].[D2 - tbn1iv00_d2_322 - Datos Declaraciones (D2IVC322)]
+	dx=387,208
+	expanded=t
+	parent=IVA
+	x=3084,1200
+[Staging].[D2 - tbn1iv00_d2_353 - Datos Declaraciones (D2IVC353)]
+	dx=387,208
+	expanded=t
+	parent=IVA
+	x=3114,1230
+[Staging].[D2 - tbn1iv00_d2_390 - Datos Declaraciones (D2IVC390)]
+	dx=387,208
+	expanded=t
+	parent=IVA
+	x=3144,1260
+[Staging].[D2 - tbn1iv00_d2_391 - Datos Declaraciones (IVD23910)]
+	dx=385,208
+	expanded=t
+	parent=IVA
+	x=3174,1290
+[Staging].[D2 - tbn1pror_d2 - Prorratas]
+	dx=308,208
+	expanded=t
+	parent=IVA
+	x=3204,1320
+[Staging].[HC - tbn1ccmv_hc - Histórico Mvtos.Reg.Cri.Caja]
+	dx=348,208
+	expanded=t
+	parent=IVA
+	x=3234,1350
+[Staging].[HC - tbn1ccre_hc - Reg.Contrib.Crit.Caja]
+	dx=298,208
+	expanded=t
+	parent=IVA
+	x=3264,1380
+[Staging].[HC - tbn1gcen_hc - Entidades Grupos Consolidados]
+	dx=368,208
+	expanded=t
+	parent=IVA
+	x=3294,1410
+[Staging].[HC - tbn1rdce_hc - Contribuyentes del RDM.]
+	dx=320,208
+	expanded=t
+	parent=IVA
+	x=3324,1440
+[Staging].[HC - tbn1rdmv_hc - Histórico de Movimientos Rdm]
+	dx=359,208
+	expanded=t
+	parent=IVA
+	x=3354,1470
+[Staging].[HC - tbn1roib_hc - Reg. Operadores Intracomunita.]
+	dx=359,208
+	expanded=t
+	parent=IVA
+	x=3384,1500
+[Staging].[HC - tbn1roih_hc - Histórico Censo R.O.I Bizkaia]
+	dx=344,208
+	expanded=t
+	parent=IVA
+	x=3414,1530
+[Staging].[IV - tbn19ope_iv - 349]
+	dx=187,208
+	expanded=t
+	parent=IVA
+	x=20,42
+[Staging].[IV - tbn19pre_iv - Presentación Mod. 349]
+	dx=297,208
+	expanded=t
+	parent=IVA
+	x=3444,1560
+[Staging].[IV - tbn1d2vr_iv_r308 - Datos Variables autoliquidaciones modelo 308, 309]
+	dx=496,208
+	expanded=t
+	parent=IVA
+	x=3474,1590
+[Staging].[IV - tbn1d2vr_iv_r310 - Datos Variables autoliquidaciones modelo 310, 391]
+	dx=496,154
+	expanded=t
+	parent=IVA
+	x=3504,1620
+[Staging].[IV - tbn1d2vr_iv_r341 - Datos Variables autoliquidaciones modelo 341]
+	dx=468,118
+	expanded=t
+	parent=IVA
+	x=3534,1650
+[Staging].[IV - tbn1ivra_iv - Datos Censales IVA Actuales]
+	dx=330,208
+	expanded=t
+	parent=IVA
+	x=3564,1680
+[Staging].[tbn1dlpr_d4_tracelog - Liquidaciones no IRPF]
+	dx=330,208
+	expanded=t
+	parent=IVA
+	x=10,116
+[Staging].[DZ - tbn1tnif_dz - Tipos de NIF]
+	dx=238,136
+	expanded=t
+	parent=Recaudación
+	x=335,2172
+[Staging].[NF - tbn1doac_nf - Documentos Activos]
+	dx=295,208
+	expanded=t
+	parent=Recaudación
+	x=1729,1232
+[Staging].[NF - tbn1expe_nf - Expedientes de Fallidos]
+	dx=312,208
+	expanded=t
+	parent=Recaudación
+	x=722,997
+[Staging].[PE - tbn1eoeo_pe - Estructura Orgánica]
+	dx=309,208
+	expanded=t
+	parent=Recaudación
+	x=1425,997
+[Staging].[Z3 - tbn1actu_z3 - Actuaciones del Expediente]
+	dx=268,208
+	expanded=t
+	parent=Recaudación
+	x=1250,1702
+[Staging].[Z6 - tbn1adax_z6 - Tabla Aux Administradores]
+	dx=271,208
+	expanded=t
+	parent=Recaudación
+	x=1600,1467
+[Staging].[Z6 - tbn1admi_z6 - Administrador Exp.Concursales]
+	dx=271,208
+	expanded=t
+	parent=Recaudación
+	x=1911,1467
+[Staging].[Z6 - tbn1clas_z6 - Clases auxiliares]
+	dx=267,208
+	expanded=t
+	parent=Recaudación
+	x=625,1937
+[Staging].[Z6 - tbn1conv_z6 - Convenio]
+	dx=271,208
+	expanded=t
+	parent=Recaudación
+	x=10,1702
+[Staging].[Z3 - tbn1ctas_z3 - Cuentas de valores]
+	dx=267,208
+	expanded=t
+	parent=Recaudación
+	x=318,1937
+[Staging].[Z6 - tbn1docl_z6 - Documentos por clase]
+	dx=268,208
+	expanded=t
+	parent=Recaudación
+	x=1866,1702
+[Staging].[Z6 - tbn1docu_z6 - Documentos Cargados]
+	dx=272,208
+	expanded=t
+	parent=Recaudación
+	x=977,1467
+[Staging].[Z3 - tbn1dtos_z3 - Documentos de Actuacion]
+	dx=269,208
+	expanded=t
+	parent=Recaudación
+	x=632,1702
+[Staging].[Z3 - tbn1equi_z3 - Equipos de Recaudacion]
+	dx=268,208
+	expanded=t
+	parent=Recaudación
+	x=1558,1702
+[Staging].[Z3 - tbn1expe_z3 - Expedientes Por Nif.]
+	dx=271,208
+	expanded=t
+	parent=Recaudación
+	x=1289,1467
+[Staging].[Z6 - tbn1expe_z6 - Expedientes Concursales]
+	dx=271,208
+	expanded=t
+	parent=Recaudación
+	x=321,1702
+[Staging].[Z3 - tbn1gtos_z3 - Actuaciones que generan gasto]
+	dx=269,208
+	expanded=t
+	parent=Recaudación
+	x=941,1702
+[Staging].[Z3 - tbn1noti_z3 - Notificaciones]
+	dx=262,208
+	expanded=t
+	parent=Recaudación
+	x=1846,1937
+[Staging].[Z6 - tbn1quit_z6 - Quitas]
+	dx=265,208
+	expanded=t
+	parent=Recaudación
+	x=1239,1937
+[Staging].[Z6 - tbn1taux_z6 - Claves (Auxiliar)]
+	dx=268,208
+	expanded=t
+	parent=Recaudación
+	x=10,1937
+[Staging].[PENDIENTE (nombre tabla; hay caption y descrip) Z3 - tbn1valo_z3 - Actuaciones del Expediente --- Valores de los modelos]
+	dx=267,208
+	expanded=t
+	parent=Recaudación
+	x=932,1937
+[Staging].[PENDIENTE (Faltan prop.extendidas) - Z3 - tbn1mode_z3 - Modelos Por Actuacion]
+	dx=542,208
+	expanded=t
+	parent=Recaudación
+	x=721,57
+[Staging].[Z6 - tbn1mpai_z6 - Tabla Informes de Masa Pasiva]
+	dx=354,208
+	expanded=t
+	parent=Recaudación
+	x=1239,292
+[Staging].[PENDIENTE CAMPOS - tbn1_tmp_cont - Tabla temporal de Operaciones Contables de S1 - Recaudacion]
+	dx=671,208
+	expanded=t
+	parent=Recaudación
+	x=10,57
+[Staging].[RD - tbn1expe_rd - Expedientes retención]
+	dx=305,208
+	expanded=t
+	parent=Recaudación
+	x=706,1232
+[Staging].[RD - tbn1fase_rd - Tabla de fases de expedientes]
+	dx=348,208
+	expanded=t
+	parent=Recaudación
+	x=399,527
+[Staging].[RD - tbn1nifs_rd - NIFs expediente]
+	dx=262,208
+	expanded=t
+	parent=Recaudación
+	x=1544,1937
+[Staging].[S1 - tbn1cert_s1 - Certificaciones en contraídos]
+	dx=340,208
+	expanded=t
+	parent=Recaudación
+	x=787,527
+[Staging].[S1 - tbn1liqu_s1 - Gestión Identificación Autor]
+	dx=331,208
+	expanded=t
+	parent=Recaudación
+	x=381,762
+[Staging].[S1 - tbn1nifd_s1 - Responsables de Deuda]
+	dx=309,208
+	expanded=t
+	parent=Recaudación
+	x=1774,997
+[Staging].[S7 - tbn1auxi_s7_r02 - Auxiliar de Códigos de S7 - 02]
+	dx=371,208
+	expanded=t
+	parent=Recaudación
+	x=10,292
+[Staging].[S7 - tbn1auxi_s7_r11 - Auxiliar de Códigos de S7 - 11]
+	dx=371,208
+	expanded=t
+	parent=Recaudación
+	x=421,292
+[Staging].[S7 - tbn1auxi_s7_r12 - tbn1auxi_s7_r12]
+	dx=291,208
+	expanded=t
+	parent=Recaudación
+	x=10,1467
+[Staging].[S7 - tbn1auxi_s7_r13 - Auxiliar de Códigos de S7 - 13]
+	dx=371,190
+	expanded=t
+	parent=Recaudación
+	x=1167,527
+[Staging].[SZ - tbn1pliq_sz - Tabla Liquidacion-Plazo]
+	dx=307,208
+	expanded=t
+	parent=Recaudación
+	x=359,1232
+[Staging].[SZ - tbn1soli_sz - Solicitud de Aplazamiento]
+	dx=319,208
+	expanded=t
+	parent=Recaudación
+	x=1842,762
+[Staging].[SZ - tbn1tisi_sz - Tipos de Situaciones]
+	dx=285,136
+	expanded=t
+	parent=Recaudación
+	x=10,2172
+[Staging].[TB - tbn1aux1_tb_r13 - Tabla de Aplicaciones]
+	dx=327,208
+	expanded=t
+	parent=Recaudación
+	x=752,762
+[Staging].[TB - tbn1aux1_tb_r51 - Tabla de Secciones]
+	dx=311,208
+	expanded=t
+	parent=Recaudación
+	x=1074,997
+[Staging].[TB - tbn1ctr1_tb_r23 - Descr Fases y Situaciones Dcto]
+	dx=378,208
+	expanded=t
+	parent=Recaudación
+	x=1303,57
+[Staging].[TI - tbn1actu_ti - Actuaciones del Expediente]
+	dx=323,208
+	expanded=t
+	parent=Recaudación
+	x=1119,762
+[Staging].[TI - tbn1ccon_ti - Tabla de Claves Contables]
+	dx=319,208
+	expanded=t
+	parent=Recaudación
+	x=10,997
+[Staging].[TI - tbn1oper_ti - Codigos de Operacion Contable]
+	dx=349,208
+	expanded=t
+	parent=Recaudación
+	x=10,527
+[Staging].[TI - tbn1ting_ti - Codigos de Tipo Ingreso]
+	dx=301,208
+	expanded=t
+	parent=Recaudación
+	x=1051,1232
+[Staging].[Z1 - tbn1cenv_z1 - Control de envíos]
+	dx=283,208
+	expanded=t
+	parent=Recaudación
+	x=341,1467
+[Staging].[Z1 - tbn1denv_z1 - Detalle del envío de ayuntamientos]
+	dx=377,208
+	expanded=t
+	parent=Recaudación
+	x=1721,57
+[Staging].[Z3 - tbn1text_z3 - Textos para actuaciones]
+	dx=309,208
+	expanded=t
+	parent=Recaudación
+	x=10,1232
+[Staging].[Recaudación]
+	c=bf8cbc
+	dx=2192,2318
+	expanded=t
+	parent=Staging
+	view=0,0
+	x=4744,4703
+	zoom=1.000000
+[Staging].[D4 - tbn1dlpr_d4 - Liquidaciones no IRPF]
+	dx=302,208
+	expanded=t
+	parent=Sociedades
+	x=214,291
+[Staging].[PENDIENTE (revisar nombres campos) - tbn1_tmp_auli - Tabla temporal AULI + nemotecnico]
+	dx=458,208
+	expanded=t
+	parent=Sociedades
+	x=244,321
+[Staging].[PENDIENTE (revisar nombres campos) - tbn1_tmp_auso - Tabla temporal auso]
+	dx=375,208
+	expanded=t
+	parent=Sociedades
+	x=274,351
+[Staging].[PENDIENTE (revisar nombres campos) - tbn1_tmp_audf - Tabla temporal audf]
+	dx=370,208
+	expanded=t
+	parent=Sociedades
+	x=304,381
+[Staging].[PENDIENTE (revisar nombres campos) - tbn1_tmp_fpar - Tabla temporal que contiene la informacion de partidas junto con los nemotecnicos]
+	dx=201,208
+	expanded=t
+	parent=Sociedades
+	x=1228,2290
+[Staging].[SC - tbn1auac_sc - Activo Sociedades]
+	dx=190,172
+	expanded=t
+	parent=Sociedades
+	x=261,289
+[Staging].[SC - tbn1aubu_sc - Buques de Entidades Navieras]
+	dx=356,208
+	expanded=t
+	parent=Sociedades
+	x=10,175
+[Staging].[SC - tbn1auca_sc_1 - Carátulas Sociedades]
+	dx=203,208
+	expanded=t
+	parent=Sociedades
+	x=291,319
+[Staging].[SC - tbn1auca_sc_2 - Tabla Hija Carátulas Sociedades]
+	dx=203,154
+	expanded=t
+	parent=Sociedades
+	x=321,349
+[Staging].[SC - tbn1aucg_sc - Debe, Sociedades]
+	dx=190,172
+	expanded=t
+	parent=Sociedades
+	x=351,379
+[Staging].[SC - tbn1auda_sc - Distribución y Ajuste]
+	dx=190,172
+	expanded=t
+	parent=Sociedades
+	x=381,409
+[Staging].[SC - tbn1audf_sc - Otros Datos Fiscales]
+	dx=187,208
+	expanded=t
+	parent=Sociedades
+	x=411,439
+[Staging].[SC - tbn1audi_sc - D. Fiscales Ded. Inversiones]
+	dx=187,190
+	expanded=t
+	parent=Sociedades
+	x=261,289
+[Staging].[SC - tbn1aui3_sc - Datos Fiscales Página I3]
+	dx=186,190
+	expanded=t
+	parent=Sociedades
+	x=291,319
+[Staging].[SC - tbn1auli_sc - Hoja de Liquidación]
+	dx=183,172
+	expanded=t
+	parent=Sociedades
+	x=321,349
+[Staging].[SC - tbn1aupa_sc - Pasivo, Sociedades]
+	dx=190,172
+	expanded=t
+	parent=Sociedades
+	x=351,379
+[Staging].[SC - tbn1ausa_sc - Régimen Especial de Sociedades]
+	dx=190,208
+	expanded=t
+	parent=Sociedades
+	x=381,409
+[Staging].[SC - tbn1auso_sc_1 - Socios Balance Sociedades]
+	dx=204,208
+	expanded=t
+	parent=Sociedades
+	x=411,439
+[Staging].[SC - tbn1auso_sc_2 - Socios Balance Sociedades]
+	dx=204,190
+	expanded=t
+	parent=Sociedades
+	x=441,469
+[Staging].[SC - tbn1autf_sc - Transparencia Fiscal]
+	dx=184,172
+	expanded=t
+	parent=Sociedades
+	x=471,499
+[Staging].[SC - tbn1auva_sc - Datos Varios Sociedades]
+	dx=190,208
+	expanded=t
+	parent=Sociedades
+	x=501,529
+[Staging].[SC - tbn1auvo_sc - Volumen Operaciones]
+	dx=190,172
+	expanded=t
+	parent=Sociedades
+	x=531,559
+[Staging].[SC - tbn1lpca_sc_1 - Liquidación Provis. Carátula]
+	dx=200,208
+	expanded=t
+	parent=Sociedades
+	x=411,439
+[Staging].[SC - tbn1lpdi_sc - Liquidación Hoja Inversiones]
+	dx=183,190
+	expanded=t
+	parent=Sociedades
+	x=261,289
+[Staging].[SC - tbn1lpi3_sc_2 - Tabla Hija Resolución Mod.I03]
+	dx=196,172
+	expanded=t
+	parent=Sociedades
+	x=291,319
+[Staging].[YA - tbn1lqac_ya - Informac.Liquidaciones Actas]
+	dx=186,208
+	expanded=t
+	parent=Sociedades
+	x=321,349
+[Staging].[YA - tbn1lsd0_ya - Datos Fiscales Actas Sociedad.]
+	dx=186,208
+	expanded=t
+	parent=Sociedades
+	x=351,379
+[Staging].[YA - tbn1psd0_ya - Datos Fiscales Actas Sociedad.]
+	dx=190,208
+	expanded=t
+	parent=Sociedades
+	x=381,409
+[Staging].[Sociedades]
+	c=bf8cbc
+	dx=1439,2508
+	expanded=t
+	parent=Staging
+	view=0,0
+	x=1890,57
+	zoom=1.000000
+[Staging].[PENDIENTE (bloque: hay una SD en MMII) - SD - tbn1domi_sd - Direcciones]
+	dx=512,208
+	expanded=t
+	parent=Staging
+	x=214,173
+[Staging].[PENDIENTE (bloque: IVA o IRPF) - D2 - tbn1dafi_d2 - Tabla de Datos Fiscales]
+	dx=505,136
+	expanded=t
+	parent=Staging
+	x=244,203
+[Staging]
+	c=9bdfc4
+	dx=6946,7031
+	expanded=t
+	parent=DWH_DHYF Historificación (Trace log)
+	view=0,0
+	x=261,171
+	zoom=1.000000
+[Normalizado].[tbn1_detalles_informativos_180_arrendamientos_inmuebles_urbanos]
+	dx=526,208
+	expanded=t
+	parent=Modelos Informativos
+	x=604,57
+[Normalizado].[tbn1_detalles_informativos_182_donaciones]
+	dx=378,208
+	expanded=t
+	parent=Modelos Informativos
+	x=885,762
+[Normalizado].[tbn1_detalles_informativos_187_operaciones_con_acciones]
+	dx=471,208
+	expanded=t
+	parent=Modelos Informativos
+	x=549,292
+[Normalizado].[tbn1_detalles_informativos_188_seguros_vida]
+	dx=389,208
+	expanded=t
+	parent=Modelos Informativos
+	x=456,762
+[Normalizado].[tbn1_detalles_informativos_190_rendimientos_trabajo]
+	dx=435,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,527
+[Normalizado].[tbn1_detalles_informativos_193_capital_mobiliario]
+	dx=415,208
+	expanded=t
+	parent=Modelos Informativos
+	x=942,527
+[Normalizado].[tbn1_detalles_informativos_194_bonos_y_capitales_ajenos]
+	dx=466,208
+	expanded=t
+	parent=Modelos Informativos
+	x=1060,292
+[Normalizado].[tbn1_documentos_informativos_180_arrendamientos_inmuebles_urbanos]
+	dx=554,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Normalizado].[tbn1_documentos_informativos_182_donaciones]
+	dx=406,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,762
+[Normalizado].[tbn1_documentos_informativos_187_operaciones_con_acciones]
+	dx=499,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,292
+[Normalizado].[tbn1_documentos_informativos_188_seguros_vida]
+	dx=417,208
+	expanded=t
+	parent=Modelos Informativos
+	x=485,527
+[Normalizado].[tbn1_documentos_informativos_190_rendimientos_trabajo_tracelog]
+	dx=463,208
+	expanded=t
+	parent=Modelos Informativos
+	x=544,57
+[Normalizado].[tbn1_documentos_informativos_193_capital_mobiliario_tracelog]
+	dx=442,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,292
+[Normalizado].[tbn1_documentos_informativos_194_bonos_y_capitales_ajenos_tracelog]
+	dx=494,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Normalizado].[tbn1_mi_ds_170_tarjetas_credito_debito]
+	dx=299,208
+	expanded=t
+	parent=Modelos Informativos
+	x=330,182
+[Normalizado].[Modelos Informativos]
+	c=99f7ff
+	dx=1536,980
+	expanded=t
+	parent=Normalizado
+	view=0,0
+	x=1641,116
+	zoom=1.000000
+[Normalizado].[Recaudación]
+	c=758698
+	dx=110,37
+	expanded=t
+	parent=Normalizado
+	view=0,0
+	x=950,972
+	zoom=1.000000
+[Normalizado].[tbn1_det_200_anexo_7_datos]
+	dx=290,208
+	expanded=t
+	parent=Sociedades
+	x=20,337
+[Normalizado].[tbn1_det_200_anexo_7_gastos_derivados_vehiculos]
+	dx=431,208
+	expanded=t
+	parent=Sociedades
+	x=10,411
+[Normalizado].[tbn1_det_200_anexo_8_datos]
+	dx=290,208
+	expanded=t
+	parent=Sociedades
+	x=20,278
+[Normalizado].[tbn1_det_200_anexo_8_focaem]
+	dx=300,208
+	expanded=t
+	parent=Sociedades
+	x=20,219
+[Normalizado].[tbn1_det_200_anexo_8_referap]
+	dx=299,208
+	expanded=t
+	parent=Sociedades
+	x=20,160
+[Normalizado].[tbn1_det_200_anexo_8_renive]
+	dx=294,208
+	expanded=t
+	parent=Sociedades
+	x=20,101
+[Normalizado].[tbn1_det_200_buques_afectos]
+	dx=285,172
+	expanded=t
+	parent=Sociedades
+	x=10,997
+[Normalizado].[tbn1_det_200_compromisos_reinversiones]
+	dx=359,208
+	expanded=t
+	parent=Sociedades
+	x=827,881
+[Normalizado].[tbn1_det_200_deducciones_cuenta_corriente]
+	dx=373,208
+	expanded=t
+	parent=Sociedades
+	x=892,646
+[Normalizado].[tbn1_det_200_deducciones_negativas_pendientes]
+	dx=402,172
+	expanded=t
+	parent=Sociedades
+	x=10,1351
+[Normalizado].[tbn1_det_200_integracion_reservas]
+	dx=332,208
+	expanded=t
+	parent=Sociedades
+	x=20,42
+[Normalizado].[tbn1_det_200_operaciones_entidades_vinculadas]
+	dx=399,208
+	expanded=t
+	parent=Sociedades
+	x=943,411
+[Normalizado].[tbn1_det_200_operaciones_paraisos_fiscales]
+	dx=373,208
+	expanded=t
+	parent=Sociedades
+	x=10,881
+[Normalizado].[tbn1_det_200_partic_directas]
+	dx=278,208
+	expanded=t
+	parent=Sociedades
+	x=405,1586
+[Normalizado].[tbn1_det_200_partic_directas_otras_entidades]
+	dx=380,208
+	expanded=t
+	parent=Sociedades
+	x=472,646
+[Normalizado].[tbn1_det_200_perdida_beneficios_fiscales]
+	dx=355,172
+	expanded=t
+	parent=Sociedades
+	x=10,1586
+[Normalizado].[tbn1_det_200_perdida_beneficios_por_reinversion_extraordinarios]
+	dx=518,208
+	expanded=t
+	parent=Sociedades
+	x=50,72
+[Normalizado].[tbn1_det_200_regimen_imputacion_rentas]
+	dx=355,208
+	expanded=t
+	parent=Sociedades
+	x=1226,881
+[Normalizado].[tbn1_det_200_regimenes_especiales]
+	dx=322,208
+	expanded=t
+	parent=Sociedades
+	x=929,1351
+[Normalizado].[tbn1_det_200_reinversion_beneficios_extraordinarios]
+	dx=422,208
+	expanded=t
+	parent=Sociedades
+	x=481,411
+[Normalizado].[tbn1_det_200_relacion_administradores]
+	dx=341,208
+	expanded=t
+	parent=Sociedades
+	x=1174,1116
+[Normalizado].[tbn1_det_200_relacion_establecimientos]
+	dx=345,208
+	expanded=t
+	parent=Sociedades
+	x=789,1116
+[Normalizado].[tbn1_det_200_relacion_socios_fecha_cierre]
+	dx=364,208
+	expanded=t
+	parent=Sociedades
+	x=423,881
+[Normalizado].[tbn1_det_200_tenencia_paraisos_fiscales]
+	dx=351,208
+	expanded=t
+	parent=Sociedades
+	x=10,1116
+[Normalizado].[tbn1_det_200_transparencia_fiscal_internacional_admin]
+	dx=437,154
+	expanded=t
+	parent=Sociedades
+	x=452,1351
+[Normalizado].[tbn1_det_200_transparencia_fiscal_internacional_cab]
+	dx=422,190
+	expanded=t
+	parent=Sociedades
+	x=10,646
+[Normalizado].[tbn1_det_220_anexo_6_datos]
+	dx=297,208
+	expanded=t
+	parent=Sociedades
+	x=80,102
+[Normalizado].[tbn1_det_220_anexo_6_focaem]
+	dx=307,208
+	expanded=t
+	parent=Sociedades
+	x=110,132
+[Normalizado].[tbn1_det_220_anexo_6_referap]
+	dx=306,208
+	expanded=t
+	parent=Sociedades
+	x=140,162
+[Normalizado].[tbn1_det_220_anexo_6_renive]
+	dx=300,208
+	expanded=t
+	parent=Sociedades
+	x=170,192
+[Normalizado].[tbn1_det_220_bases_imponibles_previas]
+	dx=348,208
+	expanded=t
+	parent=Sociedades
+	x=401,1116
+[Normalizado].[tbn1_det_220_bonificaciones_aplicadas]
+	dx=351,208
+	expanded=t
+	parent=Sociedades
+	x=261,171
+[Normalizado].[tbn1_det_220_compromisos_reinversiones]
+	dx=376,208
+	expanded=t
+	parent=Sociedades
+	x=291,201
+[Normalizado].[tbn1_det_220_deducciones_cuenta_corriente]
+	dx=390,208
+	expanded=t
+	parent=Sociedades
+	x=321,231
+[Normalizado].[tbn1_det_220_deducciones_negativas_pendientes]
+	dx=420,208
+	expanded=t
+	parent=Sociedades
+	x=351,261
+[Normalizado].[tbn1_det_220_dividendos_internos_doble_imposicion]
+	dx=441,208
+	expanded=t
+	parent=Sociedades
+	x=381,291
+[Normalizado].[tbn1_det_220_eliminaciones]
+	dx=289,208
+	expanded=t
+	parent=Sociedades
+	x=441,351
+[Normalizado].[tbn1_det_220_eliminaciones_pendientes]
+	dx=362,208
+	expanded=t
+	parent=Sociedades
+	x=411,321
+[Normalizado].[tbn1_det_220_incorporaciones]
+	dx=304,208
+	expanded=t
+	parent=Sociedades
+	x=471,381
+[Normalizado].[tbn1_det_220_integracion_reservas_tracelog]
+	dx=325,208
+	expanded=t
+	parent=Sociedades
+	x=970,886
+[Normalizado].[tbn1_det_220_otras_correciones_bases_imp]
+	dx=386,208
+	expanded=t
+	parent=Sociedades
+	x=531,441
+[Normalizado].[tbn1_det_220_perdida_beneficios_fiscales]
+	dx=373,208
+	expanded=t
+	parent=Sociedades
+	x=561,471
+[Normalizado].[tbn1_det_220_regimen_imputacion_rentas]
+	dx=373,208
+	expanded=t
+	parent=Sociedades
+	x=591,501
+[Normalizado].[tbn1_det_220_regimenes_especiales]
+	dx=339,208
+	expanded=t
+	parent=Sociedades
+	x=621,531
+[Normalizado].[tbn1_det_220_sociedades_dependientes]
+	dx=362,208
+	expanded=t
+	parent=Sociedades
+	x=651,561
+[Normalizado].[tbn1_det_220_volumen_operaciones]
+	dx=331,208
+	expanded=t
+	parent=Sociedades
+	x=261,171
+[Normalizado].[Sociedades]
+	c=73d3ac
+	dx=1591,1804
+	expanded=t
+	parent=Normalizado
+	view=0,0
+	x=10,116
+	zoom=1.000000
+[Normalizado].[tbn1_censo_criterio_caja_tracelog]
+	dx=263,208
+	expanded=t
+	parent=Normalizado
+	x=50,72
+[Normalizado].[tbn1_censo_entidades_grupos_tracelog]
+	dx=297,208
+	expanded=t
+	parent=Normalizado
+	x=80,102
+[Normalizado].[tbn1_censo_rdm_tracelog]
+	dx=214,208
+	expanded=t
+	parent=Normalizado
+	x=110,132
+[Normalizado].[tbn1_censo_roi_tracelog]
+	dx=206,208
+	expanded=t
+	parent=Normalizado
+	x=140,162
+[Normalizado].[tbn1_datos_censales_iva_tracelog]
+	dx=264,208
+	expanded=t
+	parent=Normalizado
+	x=170,192
+[Normalizado].[tbn1_datos_variables_308_iva_tracelog]
+	dx=293,208
+	expanded=t
+	parent=Normalizado
+	x=200,222
+[Normalizado].[tbn1_datos_variables_310_iva_tracelog]
+	dx=293,172
+	expanded=t
+	parent=Normalizado
+	x=230,252
+[Normalizado].[tbn1_datos_variables_341_iva_tracelog]
+	dx=293,136
+	expanded=t
+	parent=Normalizado
+	x=260,282
+[Normalizado].[tbn1_det_220_detalles_por_sociedad_tracelog]
+	dx=334,208
+	expanded=t
+	parent=Normalizado
+	x=290,312
+[Normalizado].[tbn1_detalles_informativos_196_cuentas_corrientes_tracelog]
+	dx=423,208
+	expanded=t
+	parent=Normalizado
+	x=320,342
+[Normalizado].[tbn1_detalles_informativos_345_planes_pensiones_tracelog]
+	dx=417,208
+	expanded=t
+	parent=Normalizado
+	x=350,372
+[Normalizado].[tbn1_detalles_informativos_347_arrendamientos_por_operacion_tracelog]
+	dx=495,208
+	expanded=t
+	parent=Normalizado
+	x=380,402
+[Normalizado].[tbn1_detalles_informativos_347_operaciones_con_terceros_tracelog]
+	dx=467,208
+	expanded=t
+	parent=Normalizado
+	x=410,432
+[Normalizado].[tbn1_detalles_informativos_349_operaciones_intracomunitarias_tracelog]
+	dx=493,208
+	expanded=t
+	parent=Normalizado
+	x=440,462
+[Normalizado].[tbn1_detalles_iva_tracelog]
+	dx=218,190
+	expanded=t
+	parent=Normalizado
+	x=470,492
+[Normalizado].[tbn1_detalles_soc_tracelog]
+	dx=222,190
+	expanded=t
+	parent=Normalizado
+	x=500,522
+[Normalizado].[tbn1_documentos_informativos_196_cuentas_corrientes_tracelog]
+	dx=450,208
+	expanded=t
+	parent=Normalizado
+	x=530,552
+[Normalizado].[tbn1_documentos_informativos_345_planes_pensiones_tracelog]
+	dx=444,208
+	expanded=t
+	parent=Normalizado
+	x=560,582
+[Normalizado].[tbn1_documentos_informativos_347_operaciones_con_terceros_tracelog]
+	dx=495,208
+	expanded=t
+	parent=Normalizado
+	x=590,612
+[Normalizado].[tbn1_documentos_informativos_349_operaciones_intracomunitarias_tracelog]
+	dx=521,208
+	expanded=t
+	parent=Normalizado
+	x=620,642
+[Normalizado].[tbn1_documentos_iva_tracelog]
+	dx=245,208
+	expanded=t
+	parent=Normalizado
+	x=650,672
+[Normalizado].[tbn1_documentos_revisados_tracelog]
+	dx=286,208
+	expanded=t
+	parent=Normalizado
+	x=680,702
+[Normalizado].[tbn1_expedientes_sociedades_tracelog]
+	dx=294,208
+	expanded=t
+	parent=Normalizado
+	x=710,732
+[Normalizado].[tbn1_facturas_iva_tracelog]
+	dx=220,208
+	expanded=t
+	parent=Normalizado
+	x=740,762
+[Normalizado].[tbn1_fraccionamientos_concursales_iva_tracelog]
+	dx=353,172
+	expanded=t
+	parent=Normalizado
+	x=770,792
+[Normalizado].[tbn1_irpf_ds_Anexo_C4_hist]
+	dx=230,208
+	expanded=t
+	parent=Normalizado
+	x=800,822
+[Normalizado].[tbn1_mi_codigos_aplicaciones_iva_tracelog]
+	dx=322,190
+	expanded=t
+	parent=Normalizado
+	x=830,852
+[Normalizado].[tbn1_mi_tipos_factura_iva_tracelog]
+	dx=271,154
+	expanded=t
+	parent=Normalizado
+	x=860,882
+[Normalizado].[tbn1_prorratas_iva_tracelog]
+	dx=226,208
+	expanded=t
+	parent=Normalizado
+	x=890,912
+[Normalizado].[tbn1_spri_tracelog]
+	dx=252,208
+	expanded=t
+	parent=Normalizado
+	x=920,942
+[Normalizado]
+	c=d8a77d
+	dx=3187,1930
+	expanded=t
+	parent=DWH_DHYF Historificación (Trace log)
+	x=291,201
+[Dimensional].[tbn1_dim_ot_av_expedientes_fianza]
+	dx=329,208
+	expanded=t
+	parent=Recaudación
+	x=10,895
+[Dimensional].[tbn1_dim_ot_clases_movimientos]
+	dx=316,208
+	expanded=t
+	parent=Recaudación
+	x=10,1130
+[Dimensional].[tbn1_dim_ot_z3_actuaciones_embargo_tracelog]
+	dx=346,208
+	expanded=t
+	parent=Recaudación
+	x=441,425
+[Dimensional].[tbn1_dim_ot_z3_expedientes_embargo_tracelog]
+	dx=346,190
+	expanded=t
+	parent=Recaudación
+	x=10,660
+[Dimensional].[tbn1_dim_ot_z6_administradores_concursales_tracelog]
+	dx=391,190
+	expanded=t
+	parent=Recaudación
+	x=10,425
+[Dimensional].[tbn1_ssrs_derechos_reconocidos_comparativas]
+	dx=347,208
+	expanded=t
+	parent=Recaudación
+	x=1000,42
+[Dimensional].[tbn1_ot_z3_tipos_unidad_familiar]
+	dx=259,118
+	expanded=t
+	parent=Recaudación
+	x=1030,72
+[Dimensional].[tbn1_ot_z3_tipos_expediente]
+	dx=232,118
+	expanded=t
+	parent=Recaudación
+	x=1060,102
+[Dimensional].[tbn1_ot_z3_tipos_actuacion]
+	dx=269,208
+	expanded=t
+	parent=Recaudación
+	x=1090,132
+[Dimensional].[tbn1_ot_z3_referencias_actuaciones]
+	dx=331,136
+	expanded=t
+	parent=Recaudación
+	x=1120,162
+[Dimensional].[tbn1_ot_z3_organismos_anotacion_preventiva]
+	dx=391,154
+	expanded=t
+	parent=Recaudación
+	x=1150,192
+[Dimensional].[tbn1_ot_z3_agentes]
+	dx=233,154
+	expanded=t
+	parent=Recaudación
+	x=1180,222
+[Dimensional].[Recaudación]
+	c=9bdfc4
+	dx=1551,1348
+	expanded=t
+	parent=Dimensional
+	x=10,1299
+[Dimensional].[tbn1_det_200_anexo_7_datos]
+	dx=290,208
+	expanded=t
+	parent=Sociedades
+	x=50,131
+[Dimensional].[tbn1_det_200_anexo_7_gastos_derivados_vehiculos]
+	dx=431,208
+	expanded=t
+	parent=Sociedades
+	x=10,175
+[Dimensional].[tbn1_det_200_anexo_8_datos]
+	dx=290,208
+	expanded=t
+	parent=Sociedades
+	x=80,161
+[Dimensional].[tbn1_det_200_anexo_8_focaem]
+	dx=300,208
+	expanded=t
+	parent=Sociedades
+	x=110,191
+[Dimensional].[tbn1_det_200_anexo_8_referap]
+	dx=299,208
+	expanded=t
+	parent=Sociedades
+	x=140,221
+[Dimensional].[tbn1_det_200_anexo_8_renive]
+	dx=294,208
+	expanded=t
+	parent=Sociedades
+	x=20,101
+[Dimensional].[tbn1_det_200_buques_afectos]
+	dx=275,172
+	expanded=t
+	parent=Sociedades
+	x=333,997
+[Dimensional].[tbn1_det_200_compromisos_reinversiones]
+	dx=349,208
+	expanded=t
+	parent=Sociedades
+	x=404,645
+[Dimensional].[tbn1_det_200_deducciones_cuenta_corriente]
+	dx=363,208
+	expanded=t
+	parent=Sociedades
+	x=825,410
+[Dimensional].[tbn1_det_200_deducciones_negativas_pendientes]
+	dx=393,172
+	expanded=t
+	parent=Sociedades
+	x=1137,880
+[Dimensional].[tbn1_det_200_integracion_reservas]
+	dx=325,208
+	expanded=t
+	parent=Sociedades
+	x=110,132
+[Dimensional].[tbn1_det_200_operaciones_entidades_vinculadas]
+	dx=389,208
+	expanded=t
+	parent=Sociedades
+	x=934,175
+[Dimensional].[tbn1_det_200_operaciones_paraisos_fiscales]
+	dx=364,208
+	expanded=t
+	parent=Sociedades
+	x=421,410
+[Dimensional].[tbn1_det_200_partic_directas]
+	dx=269,208
+	expanded=t
+	parent=Sociedades
+	x=748,1115
+[Dimensional].[tbn1_det_200_partic_directas_otras_entidades]
+	dx=371,208
+	expanded=t
+	parent=Sociedades
+	x=10,410
+[Dimensional].[tbn1_det_200_perdida_beneficios_fiscales]
+	dx=346,172
+	expanded=t
+	parent=Sociedades
+	x=362,1115
+[Dimensional].[tbn1_det_200_perdida_beneficios_por_reinversion_extraordinarios]
+	dx=511,208
+	expanded=t
+	parent=Sociedades
+	x=80,102
+[Dimensional].[tbn1_det_200_regimen_imputacion_rentas]
+	dx=346,208
+	expanded=t
+	parent=Sociedades
+	x=793,645
+[Dimensional].[tbn1_det_200_regimenes_especiales]
+	dx=312,208
+	expanded=t
+	parent=Sociedades
+	x=10,1115
+[Dimensional].[tbn1_det_200_reinversion_beneficios_extraordinarios]
+	dx=413,208
+	expanded=t
+	parent=Sociedades
+	x=481,175
+[Dimensional].[tbn1_det_200_relacion_administradores]
+	dx=331,208
+	expanded=t
+	parent=Sociedades
+	x=766,880
+[Dimensional].[tbn1_det_200_relacion_establecimientos]
+	dx=335,208
+	expanded=t
+	parent=Sociedades
+	x=391,880
+[Dimensional].[tbn1_det_200_relacion_socios_fecha_cierre]
+	dx=354,208
+	expanded=t
+	parent=Sociedades
+	x=10,645
+[Dimensional].[tbn1_det_200_tenencia_paraisos_fiscales]
+	dx=341,208
+	expanded=t
+	parent=Sociedades
+	x=10,880
+[Dimensional].[tbn1_det_200_transparencia_fiscal_internacional_admin]
+	dx=428,154
+	expanded=t
+	parent=Sociedades
+	x=200,281
+[Dimensional].[tbn1_det_200_transparencia_fiscal_internacional_cab]
+	dx=413,190
+	expanded=t
+	parent=Sociedades
+	x=170,251
+[Dimensional].[tbn1_det_220_anexo_6_datos]
+	dx=290,208
+	expanded=t
+	parent=Sociedades
+	x=50,72
+[Dimensional].[tbn1_det_220_anexo_6_focaem]
+	dx=300,208
+	expanded=t
+	parent=Sociedades
+	x=20,42
+[Dimensional].[tbn1_det_220_anexo_6_referap]
+	dx=299,208
+	expanded=t
+	parent=Sociedades
+	x=261,171
+[Dimensional].[tbn1_det_220_anexo_6_renive]
+	dx=294,208
+	expanded=t
+	parent=Sociedades
+	x=291,201
+[Dimensional].[tbn1_det_220_bases_imponibles_previas]
+	dx=338,208
+	expanded=t
+	parent=Sociedades
+	x=230,311
+[Dimensional].[tbn1_det_220_bonificaciones_aplicadas]
+	dx=351,208
+	expanded=t
+	parent=Sociedades
+	x=321,231
+[Dimensional].[tbn1_det_220_compromisos_reinversiones]
+	dx=369,208
+	expanded=t
+	parent=Sociedades
+	x=381,291
+[Dimensional].[tbn1_det_220_deducciones_cuenta_corriente]
+	dx=383,208
+	expanded=t
+	parent=Sociedades
+	x=411,321
+[Dimensional].[tbn1_det_220_deducciones_negativas_pendientes]
+	dx=413,208
+	expanded=t
+	parent=Sociedades
+	x=441,351
+[Dimensional].[tbn1_det_220_dividendos_internos_doble_imposicion]
+	dx=434,208
+	expanded=t
+	parent=Sociedades
+	x=471,381
+[Dimensional].[tbn1_det_220_eliminaciones]
+	dx=282,208
+	expanded=t
+	parent=Sociedades
+	x=531,441
+[Dimensional].[tbn1_det_220_eliminaciones_pendientes]
+	dx=355,208
+	expanded=t
+	parent=Sociedades
+	x=501,411
+[Dimensional].[tbn1_det_220_incorporaciones]
+	dx=297,208
+	expanded=t
+	parent=Sociedades
+	x=561,471
+[Dimensional].[tbn1_det_220_integracion_reservas]
+	dx=270,208
+	expanded=t
+	parent=Sociedades
+	x=1210,1126
+[Dimensional].[tbn1_det_220_otras_correciones_bases_imp]
+	dx=379,208
+	expanded=t
+	parent=Sociedades
+	x=591,501
+[Dimensional].[tbn1_det_220_perdida_beneficios_fiscales]
+	dx=366,208
+	expanded=t
+	parent=Sociedades
+	x=621,531
+[Dimensional].[tbn1_det_220_regimen_imputacion_rentas]
+	dx=366,208
+	expanded=t
+	parent=Sociedades
+	x=651,561
+[Dimensional].[tbn1_det_220_regimenes_especiales]
+	dx=332,208
+	expanded=t
+	parent=Sociedades
+	x=351,261
+[Dimensional].[tbn1_det_220_sociedades_dependientes]
+	dx=355,208
+	expanded=t
+	parent=Sociedades
+	x=711,621
+[Dimensional].[tbn1_det_220_volumen_operaciones]
+	dx=331,208
+	expanded=t
+	parent=Sociedades
+	x=681,591
+[Dimensional].[tbn1_fact_detalle_ssrs_concepto_nif]
+	dx=332,208
+	expanded=t
+	parent=Sociedades
+	x=830,292
+[Dimensional].[tbn1_fact_detalles]
+	dx=223,208
+	expanded=t
+	parent=Sociedades
+	x=648,997
+[Dimensional].[tbn1_fact_detalles_efecto_gestion]
+	dx=317,208
+	expanded=t
+	parent=Sociedades
+	x=744,527
+[Dimensional].[tbn1_fact_detalles_estudios_tributarios_con_cifra]
+	dx=717,208
+	expanded=t
+	parent=Sociedades
+	x=10,57
+[Dimensional].[tbn1_fact_detalles_sociedad]
+	dx=283,190
+	expanded=t
+	parent=Sociedades
+	x=10,997
+[Dimensional].[tbn1_fact_detalles_ssrs_AFN]
+	dx=287,190
+	expanded=t
+	parent=Sociedades
+	x=745,762
+[Dimensional].[tbn1_fact_detalles_ssrs_bin_efecto_cuota_base]
+	dx=399,208
+	expanded=t
+	parent=Sociedades
+	x=767,57
+[Dimensional].[tbn1_fact_detalles_ssrs_correcciones]
+	dx=339,190
+	expanded=t
+	parent=Sociedades
+	x=366,762
+[Dimensional].[tbn1_fact_detalles_ssrs_correcciones_resumen]
+	dx=398,208
+	expanded=t
+	parent=Sociedades
+	x=10,292
+[Dimensional].[tbn1_fact_detalles_ssrs_credito_fiscal]
+	dx=342,208
+	expanded=t
+	parent=Sociedades
+	x=448,292
+[Dimensional].[Sociedades]
+	c=d8a77d
+	dx=1540,1344
+	expanded=t
+	parent=Dimensional
+	view=0,0
+	x=10,57
+	zoom=1.000000
+[Dimensional]
+	c=89c6fd
+	dx=1571,2657
+	expanded=t
+	parent=DWH_DHYF Historificación (Trace log)
+	x=681,591
+[Dimensional].[PENDIENTE_falta prop.ext.en tablaHISTparaIDdoc pero si esta en BBDD dmr - tbn1_fact_ot_z6_deudas_concursales_tracelog]
+	dx=338,136
+	expanded=t
+	parent=Dimensional
+	x=620,583
+[Dimensional].[tbn1_dim_ot_contribuyentes_tracelog]
+	dx=337,208
+	expanded=t
+	parent=Dimensional
+	x=650,613
+[Dimensional].[tbn1_dim_ot_deudas_tracelog]
+	dx=249,208
+	expanded=t
+	parent=Dimensional
+	x=680,643
+[Dimensional].[tbn1_dim_ot_dz_expedientes_derivacion_tracelog]
+	dx=356,208
+	expanded=t
+	parent=Dimensional
+	x=770,733
+[Dimensional].[tbn1_dim_ot_obligados_tracelog]
+	dx=254,208
+	expanded=t
+	parent=Dimensional
+	x=740,703
+[Dimensional].[tbn1_dim_ot_sz_expedientes_aplazamiento_tracelog]
+	dx=372,208
+	expanded=t
+	parent=Dimensional
+	x=710,673
+[Dimensional].[tbn1_dim_ot_z3_modelos_embargo_tracelog]
+	dx=325,208
+	expanded=t
+	parent=Dimensional
+	x=860,823
+[Dimensional].[tbn1_dim_ot_z6_expedientes_concursales_tracelog]
+	dx=366,208
+	expanded=t
+	parent=Dimensional
+	x=890,853
+[Dimensional].[tbn1_fact_ot_av_deudas_afianzadas_tracelog]
+	dx=329,136
+	expanded=t
+	parent=Dimensional
+	x=830,793
+[Dimensional].[tbn1_fact_ot_dz_deudas_derivadas_tracelog]
+	dx=324,136
+	expanded=t
+	parent=Dimensional
+	x=800,763
+[Dimensional].[tbn1_fact_ot_operaciones_contables_tracelog]
+	dx=333,208
+	expanded=t
+	parent=Dimensional
+	x=950,913
+[Dimensional].[tbn1_fact_ot_sz_deudas_aplazadas_tracelog]
+	dx=324,136
+	expanded=t
+	parent=Dimensional
+	x=980,943
+[Dimensional].[tbn1_fact_ot_z3_deudas_embargadas_tracelog]
+	dx=338,136
+	expanded=t
+	parent=Dimensional
+	x=920,883
+[Staging].[PENDIENTE (revisar nombres campos) - tbn1_tmp_auva - Tabla temporal AUVA + nemotecnico]
+	dx=704,208
+	expanded=t
+	parent=Sociedades
+	x=214,291
+[Staging].[PENDIENTE (revisar nombres campos) - tbn1_tmp_cabeceras - Tabla temporal con los datos de caratula del documento]
+	dx=238,208
+	expanded=t
+	parent=Sociedades
+	x=20,101
+[Staging].[PENDIENTE (nombres campos / bloque: IVA o SOCIEDADES) - tbn1_tmp_dcto - Tabla temporal con la referencia de documento con 22 posiciones]
+	dx=908,208
+	expanded=t
+	parent=Staging
+	x=214,173
+[Staging].[PENDIENTE (no prop.extendidas) - tbn1_tmp_detalles_iva_tracelog]
+	dx=247,208
+	expanded=t
+	parent=IVA
+	x=214,173
+[Staging].[PENDIENTE (revisar nombres campos) - tbn1_tmp_detalles_soc - Tabla temporal detalles_soc]
+	dx=251,208
+	expanded=t
+	parent=Sociedades
+	x=20,42
+[Staging].[PENDIENTE (revisar nombres campos) tbn1_tmp_facturas_iva - Tabla temporal que carga las facturas de IVA]
+	dx=249,208
+	expanded=t
+	parent=IVA
+	x=244,203
+[Staging].[I4 - tbn1pres_l4 - Presentaciones modelo 140]
+	dx=355,208
+	expanded=t
+	parent=LROE
+	x=430,527
+[Staging].[I4 - tbn1prfo_l4 - Provisiones fondos y suplidos modelo 140]
+	dx=411,208
+	expanded=t
+	parent=LROE
+	x=466,57
+[Staging].[PENDIENTE - NO HAY TAREA - tbn1tmp_cont_tracelog]
+	dx=384,208
+	expanded=t
+	parent=Staging
+	x=214,173
+[DWH_DHYF Historificación (Trace log)]
+	view=0,0
+	zoom=1.000000
+[]
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial Narrow
+	lod=33
+	tc=323232
+	viewStyle=2
+]]></property></object></namespace></bmtcustomdata>
