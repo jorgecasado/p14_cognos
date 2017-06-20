@@ -1,273 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:1588</property><property name="BMTFW_Layout"><![CDATA[string:[Fisica].[tbn1_det_220_anexo_6_focaem]
-	dx=245,208
-	expanded=t
-	parent=modelo 220
-	x=10456,2561
-[Fisica].[tbn1_det_220_anexo_6_referap]
-	dx=244,208
-	expanded=t
-	parent=modelo 220
-	x=10741,2561
-[Fisica].[tbn1_det_220_anexo_6_renive]
-	dx=238,190
-	expanded=t
-	parent=modelo 220
-	x=10409,2796
-[Fisica].[tbn1_det_220_integracion_reservas]
-	dx=270,208
-	expanded=t
-	parent=modelo 220
-	x=10711,2326
-[Fisica].[tbn1_det_220_anexo_6_datos]
-	dx=235,208
-	expanded=t
-	parent=modelo 220
-	x=10,42
-[Fisica].[modelo 220]
-	c=d8a77d
-	dx=11481,2996
-	expanded=t
-	parent=Sociedades
-	x=7528,822
-[Fisica].[tbn1_fact_detalles]
-	dx=134,172
-	expanded=f
-	parent=Sociedades
-	x=16787,1783
-[Fisica].[tbn1_dim_actividades_economicas]
-	dx=267,208
-	expanded=t
-	parent=Sociedades
-	x=17164,2761
-[Fisica].[tbn1_dim_actividades_economicas_2]
-	dx=281,208
-	expanded=t
-	parent=Sociedades
-	x=10,1938
-[Fisica].[tbn1_dim_actividades_economicas_3]
-	dx=281,208
-	expanded=t
-	parent=Sociedades
-	x=40,1968
-[Fisica].[tbn1_dim_actividades_economicas_4]
-	dx=281,208
-	expanded=t
-	parent=Sociedades
-	x=70,1998
-[Fisica].[tbn1_mae_sujetos_nr]
-	dx=187,100
-	expanded=t
-	parent=No residentes - Censo
-	x=1099,132
-[Fisica].[tbn1_mae_actua_como_nr]
-	dx=216,100
-	expanded=t
-	parent=No residentes - Censo
-	x=889,58
-[Fisica].[ml_nr_censo_tbn1_dim_contribuyentes]
-	dx=293,208
-	expanded=t
-	parent=No residentes - Censo
-	x=10,643
-[Fisica].[ml_nr_censo_tbn1_dim_municipios]
-	dx=270,136
-	expanded=t
-	parent=No residentes - Censo
-	x=261,1495
-[Fisica].[tbn1_mae_sexos_nr_censo]
-	dx=159,100
-	expanded=t
-	parent=No residentes - Censo
-	x=686,62
-[Fisica].[tbn1_mae_claves_personalidad_nr_censo]
-	dx=246,100
-	expanded=t
-	parent=No residentes - Censo
-	x=470,128
-[Fisica].[tbn1_dim_provincias_nr_censo]
-	dx=183,100
-	expanded=t
-	parent=No residentes - Censo
-	x=481,1724
-[Fisica].[tbn1_dim_paises_nr_censo]
-	dx=160,82
-	expanded=t
-	parent=No residentes - Censo
-	x=687,1758
-[Fisica].[tbn1_dim_mi_administracion_hacienda_nr_censo]
-	dx=291,100
-	expanded=t
-	parent=No residentes - Censo
-	x=258,302
-[Fisica].[No residentes - Censo]
-	c=89c6fd
-	dx=869,1353
-	expanded=t
-	parent=Modelos liquidativos
-	view=0,0
-	x=10,940
-	zoom=0.250000
-[Fisica].[tbn1_ml_nr_dim_datos_caratula]
-	dx=249,190
-	expanded=t
-	parent=No residentes
-	x=768,399
-[Fisica].[tbn1_ml_nr_dim_datos_cuenta]
-	dx=242,190
-	expanded=t
-	parent=No residentes
-	x=560,58
-[Fisica].[tbn1_ml_nr_dim_datos_fiscales]
-	dx=247,100
-	expanded=t
-	parent=No residentes
-	x=273,79
-[Fisica].[tbn1_ml_nr_dim_declarantes]
-	dx=231,64
-	expanded=t
-	parent=No residentes
-	x=75,252
-[Fisica].[tbn1_ml_nr_dim_documentos]
-	dx=236,100
-	expanded=t
-	parent=No residentes
-	x=10,479
-[Fisica].[tbn1_ml_nr_dim_otros_datos]
-	dx=233,208
-	expanded=t
-	parent=No residentes
-	x=226,734
-[Fisica].[tbn1_ml_nr_dim_periodos]
-	dx=214,100
-	expanded=t
-	parent=No residentes
-	x=601,770
-[Fisica].[tbn1_ml_nr_fact]
-	dx=155,190
-	expanded=t
-	parent=No residentes
-	x=432,399
-[Fisica].[tbn1_dim_mi_tipos_soporte_nr]
-	dx=225,82
-	expanded=t
-	parent=No residentes
-	x=40,928
-[Fisica].[tbn1_dim_fases_liquidacion_nr]
-	dx=270,136
-	expanded=t
-	parent=No residentes
-	x=1094,662
-[Fisica].[tbn1_dim_tipos_periodo_nr]
-	dx=267,100
-	expanded=t
-	parent=No residentes
-	x=1169,407
-[Fisica].[tbn1_dim_mi_tipo_presentacion_nr]
-	dx=249,82
-	expanded=t
-	parent=No residentes
-	x=214,1028
-[Fisica].[tbn1_dim_periodos_nr]
-	dx=193,136
-	expanded=t
-	parent=No residentes
-	x=1095,144
-[Fisica].[No residentes]
-	c=99b2c7
-	dx=464,1154
-	expanded=t
-	parent=Modelos liquidativos
-	view=0,0
-	x=919,940
-	zoom=0.421778
-[Fisica].[Modelos liquidativos]
-	c=9bdfc4
-	dx=1393,2303
-	expanded=t
-	parent=Fisica
-	x=90,131
-[Fisica].[190]
-	c=89c6fd
-	dx=838,107
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,4419
-	zoom=1.000000
-[Fisica].[vwn1_mi_192_dim_datos_caratula]
-	dx=263,208
-	expanded=t
-	parent=192
-	x=633,363
-[Fisica].[vwn1_mi_192_dim_declarantes]
-	dx=244,208
-	expanded=t
-	parent=192
-	x=211,58
-[Fisica].[vwn1_mi_192_dim_documentos]
-	dx=249,154
-	expanded=t
-	parent=192
-	x=10,285
-[Fisica].[vwn1_mi_192_dim_marcas]
-	dx=218,172
-	expanded=t
-	parent=192
-	x=49,540
-[Fisica].[tbn1_mi_192_dim_periodos]
-	dx=223,208
-	expanded=t
-	parent=192
-	x=266,680
-[Fisica].[vwn1_mi_192_dim_datos_detalle]
-	dx=254,208
-	expanded=t
-	parent=192
-	x=497,97
-[Fisica].[tbn1_mi_192_fact]
-	dx=163,208
-	expanded=t
-	parent=192
-	x=359,363
-[Fisica].[tbn1_mi_192_dim_declarados]
-	dx=236,154
-	expanded=t
-	parent=192
-	x=522,644
-[Fisica].[192]
-	c=73d3ac
-	dx=811,819
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,12968
-	zoom=0.250000
-[Fisica].[193]
-	c=99b2c7
-	dx=842,115
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=9,0
-	x=6212,4553
-	zoom=0.750000
-[Fisica].[194]
-	c=bf8cbc
-	dx=868,122
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,4695
-	zoom=0.500000
-[Fisica].[196]
-	c=758698
-	dx=850,106
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,4844
-	zoom=0.500000
-[Fisica].[tbn1_mi_198_dim_periodos]
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:1595</property><property name="BMTFW_Layout"><![CDATA[string:[Fisica].[tbn1_mi_198_dim_periodos]
 	dx=215,86
 	expanded=t
 	parent=198
@@ -348,132 +80,6 @@
 	view=0,0
 	x=6212,11354
 	zoom=0.250000
-[Fisica].[tbn1_mi_270_dim_datos_caratula]
-	dx=258,136
-	expanded=t
-	parent=270
-	x=1654,1755
-[Fisica].[tbn1_dim_mi_tipo_presentacion_270]
-	dx=277,100
-	expanded=t
-	parent=270
-	x=2087,1692
-[Fisica].[tbn1_dim_mi_tipo_declaracion_270]
-	dx=269,100
-	expanded=t
-	parent=270
-	x=2057,1962
-[Fisica].[tbn1_dim_mi_administracion_hacienda_270_declarante]
-	dx=388,100
-	expanded=t
-	parent=270
-	x=1721,2202
-[Fisica].[tbn1_mi_270_dim_datos_detalle]
-	dx=249,208
-	expanded=t
-	parent=270
-	x=390,1051
-[Fisica].[tbn1_dim_mi_administracion_hacienda_270_declarado]
-	dx=384,100
-	expanded=t
-	parent=270
-	x=477,753
-[Fisica].[tbn1_dim_paises_270_nacimiento]
-	dx=260,82
-	expanded=t
-	parent=270
-	x=232,761
-[Fisica].[tbn1_dim_paises_270_residencia]
-	dx=256,82
-	expanded=t
-	parent=270
-	x=366,1498
-[Fisica].[tbn1_dim_provincias_270]
-	dx=211,100
-	expanded=t
-	parent=270
-	x=76,914
-[Fisica].[tbn1_dim_mi_tipo_importe_270]
-	dx=245,100
-	expanded=t
-	parent=270
-	x=10,1148
-[Fisica].[tbn1_mae_claves_personalidad_270]
-	dx=274,100
-	expanded=t
-	parent=270
-	x=113,1384
-[Fisica].[tbn1_mi_270_dim_declarados]
-	dx=236,172
-	expanded=t
-	parent=270
-	x=1885,971
-[Fisica].[tbn1_mi_270_dim_declarantes]
-	dx=239,172
-	expanded=t
-	parent=270
-	x=1821,689
-[Fisica].[tbn1_mi_270_dim_documentos]
-	dx=244,82
-	expanded=t
-	parent=270
-	x=1683,476
-[Fisica].[tbn1_mi_270_dim_marcas]
-	dx=214,208
-	expanded=t
-	parent=270
-	x=1529,223
-[Fisica].[tbn1_mi_270_dim_periodos]
-	dx=223,208
-	expanded=t
-	parent=270
-	x=1280,58
-[Fisica].[tbn1_mi_270_fact]
-	dx=163,208
-	expanded=t
-	parent=270
-	x=818,1051
-[Fisica].[tbn1_mae_tipos_perceptor_270]
-	dx=218,100
-	expanded=t
-	parent=270
-	x=619,1424
-[Fisica].[270]
-	c=89c6fd
-	dx=898,750
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,17793
-	zoom=0.250000
-[Fisica].[tbn1_mi_296_dim_declarados_1]
-	dx=249,154
-	expanded=t
-	parent=296
-	x=1162,281
-[Fisica].[tbn1_mi_296_dim_periodos]
-	dx=223,208
-	expanded=t
-	parent=296
-	x=889,1606
-[Fisica].[tbn1_mi_296_fact]
-	dx=195,208
-	expanded=t
-	parent=296
-	x=985,917
-[Fisica].[296]
-	c=bf8cbc
-	dx=518,1985
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,18570
-	zoom=0.250000
-[Fisica].[tbn1_dim_documentos_informativos_340_facturas_iva]
-	dx=383,208
-	expanded=f
-	parent=340
-	x=15,37
 [Fisica].[tbn1_fact_detalles_informativos_340_facturas_IVA]
 	dx=359,208
 	expanded=f
@@ -505,6 +111,221 @@
 	expanded=t
 	parent=346
 	x=10,242
+[Fisica].[193]
+	c=99b2c7
+	dx=842,115
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=9,0
+	x=6212,4553
+	zoom=0.750000
+[Fisica].[194]
+	c=bf8cbc
+	dx=868,122
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,4695
+	zoom=0.500000
+[Fisica].[vwn1_mi_189_dim_datos_caratula]
+	dx=263,208
+	expanded=t
+	parent=189
+	x=502,101
+[Fisica].[vwn1_mi_189_dim_declarantes]
+	dx=244,208
+	expanded=t
+	parent=189
+	x=10,276
+[Fisica].[vwn1_mi_189_dim_documentos]
+	dx=249,118
+	expanded=t
+	parent=189
+	x=54,594
+[Fisica].[vwn1_mi_189_dim_marcas]
+	dx=218,208
+	expanded=t
+	parent=189
+	x=303,685
+[Fisica].[tbn1_mi_189_dim_periodos]
+	dx=223,118
+	expanded=t
+	parent=189
+	x=548,648
+[Fisica].[vwn1_mi_189_dim_datos_detalle]
+	dx=254,208
+	expanded=t
+	parent=189
+	x=207,58
+[Fisica].[vwn1_mi_189_dim_declarados]
+	dx=241,190
+	expanded=t
+	parent=189
+	x=647,372
+[Fisica].[tbn1_mi_189_fact]
+	dx=163,208
+	expanded=t
+	parent=189
+	x=362,363
+[Fisica].[189]
+	c=bf8cbc
+	dx=965,710
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,12231
+	zoom=0.500000
+[Fisica].[190]
+	c=89c6fd
+	dx=838,107
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,4419
+	zoom=1.000000
+[Fisica].[vwn1_mi_192_dim_datos_caratula]
+	dx=263,208
+	expanded=t
+	parent=192
+	x=633,363
+[Fisica].[vwn1_mi_192_dim_declarantes]
+	dx=244,208
+	expanded=t
+	parent=192
+	x=211,58
+[Fisica].[vwn1_mi_192_dim_documentos]
+	dx=249,154
+	expanded=t
+	parent=192
+	x=10,285
+[Fisica].[vwn1_mi_192_dim_marcas]
+	dx=218,172
+	expanded=t
+	parent=192
+	x=49,540
+[Fisica].[tbn1_mi_192_dim_periodos]
+	dx=223,208
+	expanded=t
+	parent=192
+	x=266,680
+[Fisica].[vwn1_mi_192_dim_datos_detalle]
+	dx=254,208
+	expanded=t
+	parent=192
+	x=497,97
+[Fisica].[tbn1_mi_192_fact]
+	dx=163,208
+	expanded=t
+	parent=192
+	x=359,363
+[Fisica].[tbn1_mi_192_dim_declarados]
+	dx=236,154
+	expanded=t
+	parent=192
+	x=522,644
+[Fisica].[192]
+	c=73d3ac
+	dx=811,819
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,12968
+	zoom=0.250000
+[Fisica].[196]
+	c=758698
+	dx=850,106
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,4844
+	zoom=0.500000
+[Fisica].[tbn1_mi_270_dim_declarados]
+	dx=236,172
+	expanded=t
+	parent=270
+	x=1885,971
+[Fisica].[tbn1_mi_270_dim_periodos]
+	dx=223,208
+	expanded=t
+	parent=270
+	x=1280,58
+[Fisica].[tbn1_mi_270_fact]
+	dx=163,208
+	expanded=t
+	parent=270
+	x=818,1051
+[Fisica].[270]
+	c=89c6fd
+	dx=898,750
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,17793
+	zoom=0.250000
+[Fisica].[tbn1_mi_296_dim_declarados_1]
+	dx=249,154
+	expanded=t
+	parent=296
+	x=1162,281
+[Fisica].[tbn1_mi_296_dim_periodos]
+	dx=223,208
+	expanded=t
+	parent=296
+	x=889,1606
+[Fisica].[tbn1_mi_296_fact]
+	dx=195,208
+	expanded=t
+	parent=296
+	x=985,917
+[Fisica].[296]
+	c=bf8cbc
+	dx=518,1985
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,18570
+	zoom=0.250000
+[Fisica].[347]
+	c=568ef6
+	dx=906,302
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=321,0
+	x=6212,4977
+	zoom=0.500000
+[Fisica].[349]
+	c=527ca5
+	dx=984,260
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,6441
+	zoom=0.500000
+[Fisica].[vwn1_mi_720_dim_datos_caratula]
+	dx=263,208
+	expanded=t
+	parent=720
+	x=897,511
+[Fisica].[vwn1_mi_720_dim_datos_detalle_1]
+	dx=268,208
+	expanded=t
+	parent=720
+	x=777,207
+[Fisica].[vwn1_mi_720_dim_datos_detalle_2]
+	dx=280,208
+	expanded=t
+	parent=720
+	x=474,58
+[Fisica].[vwn1_mi_720_dim_declarados]
+	dx=241,208
+	expanded=t
+	parent=720
+	x=183,143
+[Fisica].[vwn1_mi_720_dim_declarantes]
+	dx=244,172
+	expanded=t
+	parent=720
+	x=10,411
 [Fisica].[tbn1_mi_346_dim_documentos]
 	dx=244,82
 	expanded=t
@@ -543,62 +364,6 @@
 	view=0,0
 	x=6212,13814
 	zoom=0.406699
-[Fisica].[347]
-	c=568ef6
-	dx=906,302
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=321,0
-	x=6212,4977
-	zoom=0.500000
-[Fisica].[tbn1_dim_documentos_informativos_349_operaciones_intracomunitarias]
-	dx=495,208
-	expanded=f
-	parent=349
-	x=10,41
-[Fisica].[tbn1_fact_detalles_informativos_349_operaciones_intracomunitarias]
-	dx=467,208
-	expanded=f
-	parent=349
-	x=695,38
-[Fisica].[tbn1_dim_mi_tipo_presentacion_349]
-	dx=277,100
-	expanded=t
-	parent=349
-	x=483,186
-[Fisica].[349]
-	c=527ca5
-	dx=984,260
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,6441
-	zoom=0.500000
-[Fisica].[vwn1_mi_720_dim_datos_caratula]
-	dx=263,208
-	expanded=t
-	parent=720
-	x=897,511
-[Fisica].[vwn1_mi_720_dim_datos_detalle_1]
-	dx=268,208
-	expanded=t
-	parent=720
-	x=777,207
-[Fisica].[vwn1_mi_720_dim_datos_detalle_2]
-	dx=280,208
-	expanded=t
-	parent=720
-	x=474,58
-[Fisica].[vwn1_mi_720_dim_declarados]
-	dx=241,208
-	expanded=t
-	parent=720
-	x=183,143
-[Fisica].[vwn1_mi_720_dim_declarantes]
-	dx=244,172
-	expanded=t
-	parent=720
-	x=10,411
 [Fisica].[vwn1_mi_720_dim_documentos]
 	dx=249,208
 	expanded=t
@@ -680,21 +445,6 @@
 	expanded=t
 	parent=848
 	x=289,486
-[Fisica].[tbn1_mi_848_dim_declarantes]
-	dx=239,82
-	expanded=t
-	parent=848
-	x=18,390
-[Fisica].[tbn1_mi_848_dim_documentos]
-	dx=244,82
-	expanded=t
-	parent=848
-	x=273,27
-[Fisica].[tbn1_mi_848_dim_marcas]
-	dx=214,118
-	expanded=t
-	parent=848
-	x=577,386
 [Fisica].[tbn1_mi_848_dim_periodos]
 	dx=223,208
 	expanded=t
@@ -728,21 +478,11 @@
 	expanded=t
 	parent=Informativos - Liquidativos
 	x=7295,9640
-[Fisica].[tbn1_mae_nemotecnicos]
-	dx=207,208
-	expanded=t
-	parent=Informativos - Liquidativos
-	x=9418,6978
 [Fisica].[tbn1_mae_componentes]
 	dx=205,172
 	expanded=t
 	parent=Informativos - Liquidativos
 	x=9665,6996
-[Fisica].[tbn1_mae_entidades_bancarias_296]
-	dx=247,100
-	expanded=t
-	parent=296
-	x=2644,1119
 [Fisica].[tbn1_mae_clave_donativo]
 	dx=214,136
 	expanded=t
@@ -856,6 +596,304 @@
 	expanded=f
 	parent=Recaudación
 	x=5236,6240
+[Fisica].[tbn1_mi_184_fact]
+	dx=221,208
+	expanded=t
+	parent=184
+	x=678,702
+[Fisica].[184]
+	c=99b2c7
+	dx=632,1932
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,20582
+	zoom=0.250000
+[Fisica].[187]
+	c=9bdfc4
+	dx=895,120
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,4130
+	zoom=0.250000
+[Fisica].[188]
+	c=d8a77d
+	dx=789,115
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=125,0
+	x=6212,4277
+	zoom=0.500000
+[Fisica].[tbn1_det_200_deducciones_cuenta_corriente]
+	dx=328,208
+	expanded=f
+	parent=modelo 200
+	x=10138,1202
+[Fisica].[tbn1_det_200_deducciones_negativas_pendientes]
+	dx=358,154
+	expanded=f
+	parent=modelo 200
+	x=9988,1907
+[Fisica].[tbn1_det_200_operaciones_entidades_vinculadas]
+	dx=354,208
+	expanded=f
+	parent=modelo 200
+	x=9368,1202
+[Fisica].[tbn1_det_200_operaciones_paraisos_fiscales]
+	dx=329,190
+	expanded=f
+	parent=modelo 200
+	x=10059,1437
+[Fisica].[tbn1_det_200_partic_directas]
+	dx=234,208
+	expanded=f
+	parent=modelo 200
+	x=10386,1907
+[Fisica].[tbn1_det_200_partic_directas_otras_entidades]
+	dx=336,208
+	expanded=f
+	parent=modelo 200
+	x=9762,1202
+[Fisica].[tbn1_det_200_perdida_beneficios_fiscales]
+	dx=311,154
+	expanded=f
+	parent=modelo 200
+	x=9646,2142
+[Fisica].[tbn1_det_200_regimen_imputacion_rentas]
+	dx=311,208
+	expanded=f
+	parent=modelo 200
+	x=9708,1437
+[Fisica].[tbn1_det_200_regimenes_especiales]
+	dx=277,208
+	expanded=f
+	parent=modelo 200
+	x=10068,1672
+[Fisica].[tbn1_det_200_reinversion_beneficios_extraordinarios]
+	dx=378,208
+	expanded=f
+	parent=modelo 200
+	x=10296,967
+[Fisica].[tbn1_det_200_relacion_administradores]
+	dx=296,190
+	expanded=t
+	parent=modelo 200
+	x=9368,1907
+[Fisica].[tbn1_det_200_relacion_establecimientos]
+	dx=300,208
+	expanded=f
+	parent=modelo 200
+	x=9368,1437
+[Fisica].[tbn1_det_200_relacion_socios_fecha_cierre]
+	dx=319,208
+	expanded=f
+	parent=modelo 200
+	x=10506,1202
+[Fisica].[tbn1_det_200_tenencia_paraisos_fiscales]
+	dx=306,190
+	expanded=f
+	parent=modelo 200
+	x=9722,1672
+[Fisica].[tbn1_det_200_transparencia_fiscal_internacional_admin]
+	dx=393,136
+	expanded=f
+	parent=modelo 200
+	x=9368,804
+[Fisica].[tbn1_det_200_transparencia_fiscal_internacional_cab]
+	dx=378,172
+	expanded=f
+	parent=modelo 200
+	x=9801,786
+[Fisica].[tbn1_det_200_anexo_8_referap]
+	dx=244,208
+	expanded=t
+	parent=modelo 200
+	x=9704,1907
+[Fisica].[tbn1_dim_contribuyentes]
+	dx=357,216
+	expanded=t
+	parent=Fisica
+	x=2903,622
+[Fisica].[tbn1_dim_expedientes]
+	dx=193,208
+	expanded=t
+	parent=Informativos - Liquidativos
+	x=7295,7513
+[Fisica].[tbn1_dim_documentos]
+	dx=162,208
+	expanded=t
+	parent=Fisica
+	x=6056,504
+[Fisica].[tbn1_dim_fechas]
+	dx=128,136
+	expanded=f
+	parent=Fisica
+	x=4905,393
+[Fisica].[tbn1_dim_nemotecnicos]
+	dx=137,82
+	expanded=f
+	parent=Fisica
+	x=20,42
+[Fisica].[tbn1_det_200_anexo_7_gastos_derivados_vehiculos]
+	dx=392,208
+	expanded=t
+	parent=modelo 200
+	x=9864,967
+[Fisica].[tbn1_det_200_integracion_reservas]
+	dx=270,208
+	expanded=t
+	parent=modelo 200
+	x=10428,1437
+[Fisica].[tbn1_det_200_perdida_beneficios_por_reinversion_extraordinarios]
+	dx=456,190
+	expanded=t
+	parent=modelo 200
+	x=9368,967
+[Fisica].[tbn1_det_200_buques_afectos]
+	dx=240,154
+	expanded=f
+	parent=modelo 200
+	x=9997,2142
+[Fisica].[tbn1_det_200_compromisos_reinversiones]
+	dx=314,190
+	expanded=f
+	parent=modelo 200
+	x=9368,1672
+[Fisica].[tbn1_z6_exp_deudas_dim_marcas_expediente]
+	dx=335,208
+	expanded=t
+	parent=Deudas Z6
+	x=263,2800
+[Fisica].[tbn1_z6_exp_deudas_fact]
+	dx=213,208
+	expanded=t
+	parent=Deudas Z6
+	x=10,1415
+[Fisica].[Atajo a tbn1_mae_expedientes_z6]
+	dx=260,208
+	expanded=t
+	parent=Deudas Z6
+	x=594,1986
+[Fisica].[Atajo a tbn1_dim_contribuyentes]
+	dx=255,208
+	expanded=t
+	parent=Deudas Z6
+	x=612,30
+[Fisica].[Atajo a tbn1_dim_modelos]
+	dx=217,172
+	expanded=t
+	parent=Deudas Z6
+	x=612,265
+[Fisica].[Atajo a tbn1_dim_tipos_periodo]
+	dx=248,100
+	expanded=t
+	parent=Deudas Z6
+	x=643,464
+[Fisica].[Atajo a tbn1_dim_ot_estado_situacion]
+	dx=286,82
+	expanded=t
+	parent=Deudas Z6
+	x=643,591
+[Fisica].[Atajo a tbn1_dim_ot_situaciones]
+	dx=253,118
+	expanded=t
+	parent=Deudas Z6
+	x=643,700
+[Fisica].[Atajo a tbn1_dim_ot_codigos_operacion]
+	dx=298,208
+	expanded=t
+	parent=Deudas Z6
+	x=645,1371
+[Fisica].[tbn1_dim_ot_claves_ingreso]
+	dx=229,136
+	expanded=t
+	parent=Deudas Z6
+	x=645,1208
+[Fisica].[tbn1_dim_ot_tipos_ingreso]
+	dx=221,82
+	expanded=t
+	parent=Deudas Z6
+	x=645,1099
+[Fisica].[Atajo a tbn1_dim_ot_origenes]
+	dx=236,82
+	expanded=t
+	parent=Deudas Z6
+	x=7762,5229
+[Fisica].[Atajo a tbn1_dim_ot_situaciones_detalles_deuda]
+	dx=349,118
+	expanded=t
+	parent=Deudas Z6
+	x=7792,5259
+[Fisica].[tbn1_dim_ot_situaciones_z6]
+	dx=228,118
+	expanded=t
+	parent=Deudas Z6
+	x=7822,5289
+[Fisica].[Atajo a tbn1_dim_modelos_detalles_doc]
+	dx=299,172
+	expanded=t
+	parent=Deudas Z6
+	x=7852,5319
+[Fisica].[Atajo a tbn1_mae_deudas_z6]
+	dx=232,208
+	expanded=t
+	parent=Deudas Z6
+	x=5382,2812
+[Fisica].[Deudas Z6]
+	c=9bdfc4
+	dx=8161,5501
+	expanded=t
+	parent=Recaudación
+	view=0,1878
+	x=2804,3433
+	zoom=0.500000
+[Fisica].[tbn1_z6_masa_pasiva_dim_contribuyentes]
+	dx=314,64
+	expanded=t
+	parent=Masa Pasiva Z6
+	x=268,30
+[Fisica].[tbn1_z6_masa_pasiva_dim_expedientes]
+	dx=297,64
+	expanded=t
+	parent=Masa Pasiva Z6
+	x=268,121
+[Fisica].[tbn1_z6_masa_pasiva_dim_masa_pasiva]
+	dx=302,100
+	expanded=t
+	parent=Masa Pasiva Z6
+	x=268,212
+[Fisica].[tbn1_z6_masa_pasiva_fact]
+	dx=218,208
+	expanded=t
+	parent=Masa Pasiva Z6
+	x=10,67
+[Fisica].[tbn1_mae_tipos_registro]
+	dx=207,100
+	expanded=t
+	parent=Masa Pasiva Z6
+	x=610,212
+[Fisica].[Masa Pasiva Z6]
+	c=9bdfc4
+	dx=827,322
+	expanded=t
+	parent=Recaudación
+	x=5966,4025
+[Fisica].[tbn1_mae_clases_z6]
+	dx=182,118
+	expanded=t
+	parent=Recaudación
+	x=5087,7451
+[Fisica].[tbn1_mae_clases_z6_detalles_documentos_clases]
+	dx=360,118
+	expanded=t
+	parent=Recaudación
+	x=4095,6911
+[Fisica].[tbn1_mae_convenios_z6]
+	dx=232,208
+	expanded=t
+	parent=Recaudación
+	x=3346,7383
 [Fisica].[tbn1_dim_ot_deudas]
 	dx=197,208
 	expanded=f
@@ -899,180 +937,6 @@
 	expanded=f
 	parent=Movimientos de la deuda
 	x=299,56
-[Fisica].[tbn1_dim_ot_grupos_subgrupos_subconceptos]
-	dx=344,208
-	expanded=f
-	parent=Movimientos de la deuda
-	x=536,162
-[Fisica].[tbn1_dim_ot_estado_situacion]
-	dx=241,82
-	expanded=f
-	parent=Movimientos de la deuda
-	x=10,152
-[Fisica].[Movimientos de la deuda]
-	c=758698
-	dx=890,456
-	expanded=t
-	parent=Recaudación
-	view=0,0
-	x=6618,7110
-	zoom=1.000000
-[Fisica].[tbn1_z3_exp_deuda_fact]
-	dx=206,208
-	expanded=f
-	parent=Expedientes Z3
-	x=688,278
-[Fisica].[tbn1_z3_exp_deuda_dim_contribuyentes]
-	dx=302,82
-	expanded=f
-	parent=Expedientes Z3
-	x=182,287
-[Fisica].[tbn1_z3_exp_deuda_dim_detalles_deuda]
-	dx=302,100
-	expanded=f
-	parent=Expedientes Z3
-	x=363,435
-[Fisica].[tbn1_z3_exp_deuda_dim_deudas]
-	dx=256,64
-	expanded=f
-	parent=Expedientes Z3
-	x=751,542
-[Fisica].[tbn1_z3_exp_deuda_dim_expedientes]
-	dx=285,100
-	expanded=f
-	parent=Expedientes Z3
-	x=1022,472
-[Fisica].[tbn1_z3_exp_deuda_dim_detalles_expediente]
-	dx=331,208
-	expanded=f
-	parent=Expedientes Z3
-	x=1091,317
-[Fisica].[tbn1_z3_exp_deuda_dim_fechas]
-	dx=252,136
-	expanded=f
-	parent=Expedientes Z3
-	x=1044,208
-[Fisica].[Atajo dim_contribuyentes Z3 Exp-Deudas]
-	dx=304,208
-	expanded=t
-	parent=Expedientes Z3
-	x=7193,4400
-[Fisica].[Expedientes Z3]
-	c=9bdfc4
-	dx=100,27
-	expanded=f
-	parent=Recaudación
-	x=2803,3692
-[Fisica].[tbn1_z3_actu_fact]
-	dx=167,208
-	expanded=f
-	parent=Actuaciones Z3
-	x=1201,1793
-[Fisica].[tbn1_z3_actu_dim_contribuyentes]
-	dx=262,82
-	expanded=f
-	parent=Actuaciones Z3
-	x=2050,1261
-[Fisica].[tbn1_z3_actu_dim_detalles_actuacion]
-	dx=285,208
-	expanded=f
-	parent=Actuaciones Z3
-	x=1582,811
-[Fisica].[tbn1_z3_actu_dim_deudas]
-	dx=217,64
-	expanded=f
-	parent=Actuaciones Z3
-	x=158,1516
-[Fisica].[tbn1_z3_actu_dim_expedientes]
-	dx=245,82
-	expanded=f
-	parent=Actuaciones Z3
-	x=860,823
-[Fisica].[tbn1_z3_actu_dim_detalles_gastos]
-	dx=267,64
-	expanded=f
-	parent=Actuaciones Z3
-	x=86,2021
-[Fisica].[tbn1_z3_actu_dim_actuaciones]
-	dx=245,208
-	expanded=f
-	parent=Actuaciones Z3
-	x=2239,1793
-[Fisica].[tbn1_z3_actu_dim_fechas]
-	dx=213,154
-	expanded=f
-	parent=Actuaciones Z3
-	x=468,1011
-[Fisica].[tbn1_z3_actu_dim_fechas_gastos]
-	dx=260,136
-	expanded=f
-	parent=Actuaciones Z3
-	x=261,1228
-[Fisica].[tbn1_z3_actu_dim_valores]
-	dx=217,100
-	expanded=f
-	parent=Actuaciones Z3
-	x=104,1748
-[Fisica].[tbn1_z3_actu_dim_cuentas_valores]
-	dx=271,172
-	expanded=t
-	parent=Actuaciones Z3
-	x=1949,2531
-[Fisica].[tbn1_z3_actu_dim_inmuebles]
-	dx=235,64
-	expanded=t
-	parent=Actuaciones Z3
-	x=588,2772
-[Fisica].[tbn1_z3_actu_dim_detalles_expediente]
-	dx=291,208
-	expanded=t
-	parent=Actuaciones Z3
-	x=318,2489
-[Fisica].[tbn1_z3_actu_dim_detalles_deudas]
-	dx=270,100
-	expanded=t
-	parent=Actuaciones Z3
-	x=160,2271
-[Fisica].[tbn1_z3_actu_dim_detalles_inmuebles]
-	dx=288,82
-	expanded=t
-	parent=Actuaciones Z3
-	x=1033,2927
-[Fisica].[tbn1_z3_actu_dim_observaciones_gastos]
-	dx=307,64
-	expanded=t
-	parent=Actuaciones Z3
-	x=1526,2866
-[Fisica].[tbn1_mae_deudas]
-	dx=180,208
-	expanded=t
-	parent=Actuaciones Z3
-	x=10,1387
-[Fisica].[tbn1_mae_expedientes_z3]
-	dx=226,208
-	expanded=t
-	parent=Actuaciones Z3
-	x=789,484
-[Fisica].[tbn1_mae_inmuebles_z3]
-	dx=205,208
-	expanded=t
-	parent=Actuaciones Z3
-	x=500,2862
-[Fisica].[tbn1_ot_z3_organismos_anotacion_preventiva]
-	dx=335,82
-	expanded=f
-	parent=Actuaciones Z3
-	x=1768,700
-[Fisica].[tbn1_ot_z3_tipos_actuacion]
-	dx=285,208
-	expanded=f
-	parent=Actuaciones Z3
-	x=3202,1600
-[Fisica].[tbn1_ot_z3_referencias_actuaciones]
-	dx=276,64
-	expanded=f
-	parent=Actuaciones Z3
-	x=3081,1348
 [Fisica].[tbn1_ot_z3_tipos_unidad_familiar]
 	dx=259,82
 	expanded=t
@@ -1387,261 +1251,6 @@
 	expanded=t
 	parent=Deudas Z6
 	x=263,2583
-[Fisica].[tbn1_z6_exp_deudas_dim_marcas_expediente]
-	dx=335,208
-	expanded=t
-	parent=Deudas Z6
-	x=263,2800
-[Fisica].[tbn1_z6_exp_deudas_fact]
-	dx=213,208
-	expanded=t
-	parent=Deudas Z6
-	x=10,1415
-[Fisica].[Atajo a tbn1_mae_expedientes_z6]
-	dx=260,208
-	expanded=t
-	parent=Deudas Z6
-	x=594,1986
-[Fisica].[Atajo a tbn1_dim_contribuyentes]
-	dx=255,208
-	expanded=t
-	parent=Deudas Z6
-	x=612,30
-[Fisica].[Atajo a tbn1_dim_modelos]
-	dx=217,172
-	expanded=t
-	parent=Deudas Z6
-	x=612,265
-[Fisica].[Atajo a tbn1_dim_tipos_periodo]
-	dx=248,100
-	expanded=t
-	parent=Deudas Z6
-	x=643,464
-[Fisica].[Atajo a tbn1_dim_ot_estado_situacion]
-	dx=286,82
-	expanded=t
-	parent=Deudas Z6
-	x=643,591
-[Fisica].[Atajo a tbn1_dim_ot_situaciones]
-	dx=253,118
-	expanded=t
-	parent=Deudas Z6
-	x=643,700
-[Fisica].[Atajo a tbn1_dim_ot_codigos_operacion]
-	dx=298,208
-	expanded=t
-	parent=Deudas Z6
-	x=645,1371
-[Fisica].[tbn1_dim_ot_claves_ingreso]
-	dx=229,136
-	expanded=t
-	parent=Deudas Z6
-	x=645,1208
-[Fisica].[tbn1_dim_ot_tipos_ingreso]
-	dx=221,82
-	expanded=t
-	parent=Deudas Z6
-	x=645,1099
-[Fisica].[Atajo a tbn1_dim_ot_origenes]
-	dx=236,82
-	expanded=t
-	parent=Deudas Z6
-	x=7762,5229
-[Fisica].[Atajo a tbn1_dim_ot_situaciones_detalles_deuda]
-	dx=349,118
-	expanded=t
-	parent=Deudas Z6
-	x=7792,5259
-[Fisica].[tbn1_dim_ot_situaciones_z6]
-	dx=228,118
-	expanded=t
-	parent=Deudas Z6
-	x=7822,5289
-[Fisica].[Atajo a tbn1_dim_modelos_detalles_doc]
-	dx=299,172
-	expanded=t
-	parent=Deudas Z6
-	x=7852,5319
-[Fisica].[Atajo a tbn1_mae_deudas_z6]
-	dx=232,208
-	expanded=t
-	parent=Deudas Z6
-	x=5382,2812
-[Fisica].[Deudas Z6]
-	c=9bdfc4
-	dx=8161,5501
-	expanded=t
-	parent=Recaudación
-	view=0,1878
-	x=2804,3433
-	zoom=0.500000
-[Fisica].[tbn1_z6_masa_pasiva_dim_contribuyentes]
-	dx=314,64
-	expanded=t
-	parent=Masa Pasiva Z6
-	x=268,30
-[Fisica].[tbn1_z6_masa_pasiva_dim_expedientes]
-	dx=297,64
-	expanded=t
-	parent=Masa Pasiva Z6
-	x=268,121
-[Fisica].[tbn1_z6_masa_pasiva_dim_masa_pasiva]
-	dx=302,100
-	expanded=t
-	parent=Masa Pasiva Z6
-	x=268,212
-[Fisica].[tbn1_z6_masa_pasiva_fact]
-	dx=218,208
-	expanded=t
-	parent=Masa Pasiva Z6
-	x=10,67
-[Fisica].[tbn1_mae_tipos_registro]
-	dx=207,100
-	expanded=t
-	parent=Masa Pasiva Z6
-	x=610,212
-[Fisica].[Masa Pasiva Z6]
-	c=9bdfc4
-	dx=827,322
-	expanded=t
-	parent=Recaudación
-	x=5966,4025
-[Fisica].[tbn1_mae_clases_z6]
-	dx=182,118
-	expanded=t
-	parent=Recaudación
-	x=5087,7451
-[Fisica].[tbn1_mae_clases_z6_detalles_documentos_clases]
-	dx=360,118
-	expanded=t
-	parent=Recaudación
-	x=4095,6911
-[Fisica].[tbn1_mae_convenios_z6]
-	dx=232,208
-	expanded=t
-	parent=Recaudación
-	x=3346,7383
-[Fisica].[tbn1_mae_expedientes_z6]
-	dx=219,208
-	expanded=t
-	parent=Recaudación
-	x=3360,7987
-[Fisica].[tbn1_mae_facultades_patrimoniales_concursado]
-	dx=350,100
-	expanded=t
-	parent=Recaudación
-	x=3238,7637
-[Fisica].[tbn1_mae_fases_concurso]
-	dx=218,100
-	expanded=t
-	parent=Recaudación
-	x=3370,7766
-[Fisica].[tbn1_mae_tipos_conclusion_concurso]
-	dx=289,100
-	expanded=t
-	parent=Recaudación
-	x=5786,3845
-[Fisica].[tbn1_mae_tipos_concurso]
-	dx=216,100
-	expanded=t
-	parent=Recaudación
-	x=5816,3875
-[Fisica].[tbn1_expedientes_rd_dim_asientos]
-	dx=269,100
-	expanded=t
-	parent=RD
-	x=262,30
-[Fisica].[tbn1_expedientes_rd_dim_contribuyentes]
-	dx=308,118
-	expanded=t
-	parent=RD
-	x=262,157
-[Fisica].[tbn1_expedientes_rd_dim_detalles_asiento]
-	dx=316,64
-	expanded=t
-	parent=RD
-	x=262,302
-[Fisica].[tbn1_expedientes_rd_dim_detalles_expediente]
-	dx=337,136
-	expanded=t
-	parent=RD
-	x=262,393
-[Fisica].[tbn1_expedientes_rd_dim_detalles_fase]
-	dx=297,64
-	expanded=t
-	parent=RD
-	x=262,556
-[Fisica].[tbn1_expedientes_rd_dim_expediente]
-	dx=284,82
-	expanded=t
-	parent=RD
-	x=262,710
-[Fisica].[tbn1_expedientes_rd_dim_periodos]
-	dx=271,64
-	expanded=t
-	parent=RD
-	x=262,882
-[Fisica].[tbn1_expedientes_rd_dim_periodos_asiento]
-	dx=322,154
-	expanded=t
-	parent=RD
-	x=262,973
-[Fisica].[tbn1_expedientes_rd_dim_periodos_expediente]
-	dx=343,208
-	expanded=t
-	parent=RD
-	x=262,1154
-[Fisica].[tbn1_expedientes_rd_dim_periodos_expediente2]
-	dx=350,208
-	expanded=t
-	parent=RD
-	x=262,1389
-[Fisica].[tbn1_expedientes_rd_dim_periodos_fase]
-	dx=303,118
-	expanded=t
-	parent=RD
-	x=262,1624
-[Fisica].[tbn1_expedientes_rd_fact]
-	dx=212,208
-	expanded=t
-	parent=RD
-	x=10,782
-[Fisica].[tbn1_mae_expedientes_rd]
-	dx=215,208
-	expanded=t
-	parent=RD
-	x=586,647
-[Fisica].[RD]
-	c=89c6fd
-	dx=811,1752
-	expanded=t
-	parent=Recaudación
-	x=9096,7192
-[Fisica].[tbn1_derivaciones_exp_doc_dim_contribuyentes]
-	dx=350,64
-	expanded=t
-	parent=Documentos DZ
-	x=304,30
-[Fisica].[tbn1_derivaciones_exp_doc_dim_detalles_doc_activos]
-	dx=386,100
-	expanded=t
-	parent=Documentos DZ
-	x=304,121
-[Fisica].[tbn1_derivaciones_exp_doc_dim_detalles_doc_derivados]
-	dx=402,118
-	expanded=t
-	parent=Documentos DZ
-	x=304,248
-[Fisica].[tbn1_derivaciones_exp_doc_dim_detalles_nifs_derivados]
-	dx=402,154
-	expanded=t
-	parent=Documentos DZ
-	x=304,393
-[Fisica].[tbn1_derivaciones_exp_doc_dim_doc_activos]
-	dx=333,82
-	expanded=t
-	parent=Documentos DZ
-	x=304,637
 [Fisica].[tbn1_derivaciones_exp_doc_dim_doc_derivados]
 	dx=349,82
 	expanded=t
@@ -1783,6 +1392,547 @@
 	expanded=t
 	parent=Cobros DZ
 	x=324,2548
+[Fisica].[tbn1_z3_actu_dim_detalles_expediente]
+	dx=291,208
+	expanded=t
+	parent=Actuaciones Z3
+	x=318,2489
+[Fisica].[tbn1_z3_actu_dim_detalles_deudas]
+	dx=270,100
+	expanded=t
+	parent=Actuaciones Z3
+	x=160,2271
+[Fisica].[tbn1_z3_actu_dim_detalles_inmuebles]
+	dx=288,82
+	expanded=t
+	parent=Actuaciones Z3
+	x=1033,2927
+[Fisica].[tbn1_z3_actu_dim_observaciones_gastos]
+	dx=307,64
+	expanded=t
+	parent=Actuaciones Z3
+	x=1526,2866
+[Fisica].[tbn1_mae_deudas]
+	dx=180,208
+	expanded=t
+	parent=Actuaciones Z3
+	x=10,1387
+[Fisica].[tbn1_mae_expedientes_z3]
+	dx=226,208
+	expanded=t
+	parent=Actuaciones Z3
+	x=789,484
+[Fisica].[tbn1_mae_inmuebles_z3]
+	dx=205,208
+	expanded=t
+	parent=Actuaciones Z3
+	x=500,2862
+[Fisica].[tbn1_ot_z3_organismos_anotacion_preventiva]
+	dx=335,82
+	expanded=f
+	parent=Actuaciones Z3
+	x=1768,700
+[Fisica].[tbn1_ot_z3_tipos_actuacion]
+	dx=285,208
+	expanded=f
+	parent=Actuaciones Z3
+	x=3202,1600
+[Fisica].[tbn1_ot_z3_referencias_actuaciones]
+	dx=276,64
+	expanded=f
+	parent=Actuaciones Z3
+	x=3081,1348
+[Fisica].[tbn1_mae_expedientes_z6]
+	dx=219,208
+	expanded=t
+	parent=Recaudación
+	x=3360,7987
+[Fisica].[tbn1_mae_facultades_patrimoniales_concursado]
+	dx=350,100
+	expanded=t
+	parent=Recaudación
+	x=3238,7637
+[Fisica].[tbn1_mae_fases_concurso]
+	dx=218,100
+	expanded=t
+	parent=Recaudación
+	x=3370,7766
+[Fisica].[tbn1_mae_tipos_conclusion_concurso]
+	dx=289,100
+	expanded=t
+	parent=Recaudación
+	x=5786,3845
+[Fisica].[tbn1_mae_tipos_concurso]
+	dx=216,100
+	expanded=t
+	parent=Recaudación
+	x=5816,3875
+[Fisica].[tbn1_expedientes_rd_dim_asientos]
+	dx=269,100
+	expanded=t
+	parent=RD
+	x=262,30
+[Fisica].[tbn1_expedientes_rd_dim_contribuyentes]
+	dx=308,118
+	expanded=t
+	parent=RD
+	x=262,157
+[Fisica].[tbn1_expedientes_rd_dim_detalles_asiento]
+	dx=316,64
+	expanded=t
+	parent=RD
+	x=262,302
+[Fisica].[tbn1_expedientes_rd_dim_detalles_expediente]
+	dx=337,136
+	expanded=t
+	parent=RD
+	x=262,393
+[Fisica].[tbn1_expedientes_rd_dim_detalles_fase]
+	dx=297,64
+	expanded=t
+	parent=RD
+	x=262,556
+[Fisica].[tbn1_expedientes_rd_dim_expediente]
+	dx=284,82
+	expanded=t
+	parent=RD
+	x=262,710
+[Fisica].[tbn1_expedientes_rd_dim_periodos]
+	dx=271,64
+	expanded=t
+	parent=RD
+	x=262,882
+[Fisica].[tbn1_expedientes_rd_dim_periodos_asiento]
+	dx=322,154
+	expanded=t
+	parent=RD
+	x=262,973
+[Fisica].[tbn1_expedientes_rd_dim_periodos_expediente]
+	dx=343,208
+	expanded=t
+	parent=RD
+	x=262,1154
+[Fisica].[tbn1_expedientes_rd_dim_periodos_expediente2]
+	dx=350,208
+	expanded=t
+	parent=RD
+	x=262,1389
+[Fisica].[tbn1_expedientes_rd_dim_periodos_fase]
+	dx=303,118
+	expanded=t
+	parent=RD
+	x=262,1624
+[Fisica].[tbn1_expedientes_rd_fact]
+	dx=212,208
+	expanded=t
+	parent=RD
+	x=10,782
+[Fisica].[tbn1_mae_expedientes_rd]
+	dx=215,208
+	expanded=t
+	parent=RD
+	x=586,647
+[Fisica].[RD]
+	c=89c6fd
+	dx=811,1752
+	expanded=t
+	parent=Recaudación
+	x=9096,7192
+[Fisica].[tbn1_derivaciones_exp_doc_dim_contribuyentes]
+	dx=350,64
+	expanded=t
+	parent=Documentos DZ
+	x=304,30
+[Fisica].[tbn1_derivaciones_exp_doc_dim_detalles_doc_activos]
+	dx=386,100
+	expanded=t
+	parent=Documentos DZ
+	x=304,121
+[Fisica].[tbn1_derivaciones_exp_doc_dim_detalles_doc_derivados]
+	dx=402,118
+	expanded=t
+	parent=Documentos DZ
+	x=304,248
+[Fisica].[tbn1_derivaciones_exp_doc_dim_detalles_nifs_derivados]
+	dx=402,154
+	expanded=t
+	parent=Documentos DZ
+	x=304,393
+[Fisica].[tbn1_derivaciones_exp_doc_dim_doc_activos]
+	dx=333,82
+	expanded=t
+	parent=Documentos DZ
+	x=304,637
+[Fisica].[tbn1_dim_ot_grupos_subgrupos_subconceptos]
+	dx=344,208
+	expanded=f
+	parent=Movimientos de la deuda
+	x=536,162
+[Fisica].[tbn1_dim_ot_estado_situacion]
+	dx=241,82
+	expanded=f
+	parent=Movimientos de la deuda
+	x=10,152
+[Fisica].[Movimientos de la deuda]
+	c=758698
+	dx=890,456
+	expanded=t
+	parent=Recaudación
+	view=0,0
+	x=6618,7110
+	zoom=1.000000
+[Fisica].[tbn1_z3_exp_deuda_fact]
+	dx=206,208
+	expanded=f
+	parent=Expedientes Z3
+	x=688,278
+[Fisica].[tbn1_z3_exp_deuda_dim_contribuyentes]
+	dx=302,82
+	expanded=f
+	parent=Expedientes Z3
+	x=182,287
+[Fisica].[tbn1_z3_exp_deuda_dim_detalles_deuda]
+	dx=302,100
+	expanded=f
+	parent=Expedientes Z3
+	x=363,435
+[Fisica].[tbn1_z3_exp_deuda_dim_deudas]
+	dx=256,64
+	expanded=f
+	parent=Expedientes Z3
+	x=751,542
+[Fisica].[tbn1_z3_exp_deuda_dim_expedientes]
+	dx=285,100
+	expanded=f
+	parent=Expedientes Z3
+	x=1022,472
+[Fisica].[tbn1_z3_exp_deuda_dim_detalles_expediente]
+	dx=331,208
+	expanded=f
+	parent=Expedientes Z3
+	x=1091,317
+[Fisica].[tbn1_z3_exp_deuda_dim_fechas]
+	dx=252,136
+	expanded=f
+	parent=Expedientes Z3
+	x=1044,208
+[Fisica].[Atajo dim_contribuyentes Z3 Exp-Deudas]
+	dx=304,208
+	expanded=t
+	parent=Expedientes Z3
+	x=7193,4400
+[Fisica].[Expedientes Z3]
+	c=9bdfc4
+	dx=100,27
+	expanded=f
+	parent=Recaudación
+	x=2803,3692
+[Fisica].[tbn1_z3_actu_fact]
+	dx=167,208
+	expanded=f
+	parent=Actuaciones Z3
+	x=1201,1793
+[Fisica].[tbn1_z3_actu_dim_contribuyentes]
+	dx=262,82
+	expanded=f
+	parent=Actuaciones Z3
+	x=2050,1261
+[Fisica].[tbn1_z3_actu_dim_detalles_actuacion]
+	dx=285,208
+	expanded=f
+	parent=Actuaciones Z3
+	x=1582,811
+[Fisica].[tbn1_z3_actu_dim_deudas]
+	dx=217,64
+	expanded=f
+	parent=Actuaciones Z3
+	x=158,1516
+[Fisica].[tbn1_z3_actu_dim_expedientes]
+	dx=245,82
+	expanded=f
+	parent=Actuaciones Z3
+	x=860,823
+[Fisica].[tbn1_z3_actu_dim_detalles_gastos]
+	dx=267,64
+	expanded=f
+	parent=Actuaciones Z3
+	x=86,2021
+[Fisica].[tbn1_z3_actu_dim_actuaciones]
+	dx=245,208
+	expanded=f
+	parent=Actuaciones Z3
+	x=2239,1793
+[Fisica].[tbn1_z3_actu_dim_fechas]
+	dx=213,154
+	expanded=f
+	parent=Actuaciones Z3
+	x=468,1011
+[Fisica].[tbn1_z3_actu_dim_fechas_gastos]
+	dx=260,136
+	expanded=f
+	parent=Actuaciones Z3
+	x=261,1228
+[Fisica].[tbn1_z3_actu_dim_valores]
+	dx=217,100
+	expanded=f
+	parent=Actuaciones Z3
+	x=104,1748
+[Fisica].[tbn1_z3_actu_dim_cuentas_valores]
+	dx=271,172
+	expanded=t
+	parent=Actuaciones Z3
+	x=1949,2531
+[Fisica].[tbn1_z3_actu_dim_inmuebles]
+	dx=235,64
+	expanded=t
+	parent=Actuaciones Z3
+	x=588,2772
+[Fisica].[tbn1_kr_fact]
+	dx=209,208
+	expanded=t
+	parent=Vigente R
+	x=1015,515
+[Fisica].[tbn1_kr_mae_clases_cultivo]
+	dx=227,100
+	expanded=t
+	parent=Vigente R
+	x=1697,688
+[Fisica].[tbn1_kr_mae_clases_cultivo_real]
+	dx=256,100
+	expanded=t
+	parent=Vigente R
+	x=1691,468
+[Fisica].[tbn1_kr_mae_parcelas]
+	dx=193,208
+	expanded=t
+	parent=Vigente R
+	x=336,472
+[Fisica].[tbn1_kr_mae_subparcelas]
+	dx=215,208
+	expanded=t
+	parent=Vigente R
+	x=420,772
+[Fisica].[tbn1_dim_municipios]
+	dx=187,136
+	expanded=t
+	parent=Vigente R
+	x=218,58
+[Fisica].[tbn1_kr_dim_datos_documento]
+	dx=247,172
+	expanded=t
+	parent=Vigente R
+	x=1021,1014
+[Fisica].[tbn1_kr_dim_sistemas_explotacion]
+	dx=269,64
+	expanded=t
+	parent=Vigente R
+	x=1305,947
+[Fisica].[tbn1_kr_mae_sistemas_explotacion_parcela]
+	dx=322,100
+	expanded=t
+	parent=Vigente R
+	x=1742,1027
+[Fisica].[Atajo a tbn1_kr_mae_sistemas_explotacion_parcela]
+	dx=367,100
+	expanded=t
+	parent=Vigente R
+	x=10,253
+[Fisica].[Vigente R]
+	c=9bdfc4
+	dx=1460,1599
+	expanded=t
+	parent=Rústico
+	view=0,0
+	x=10,42
+	zoom=0.384906
+[Fisica].[Rústico]
+	c=9bdfc4
+	dx=1480,1651
+	expanded=t
+	parent=Catastro
+	view=0,0
+	x=10,1044
+	zoom=0.500000
+[Fisica].[tbn1_kuh_dim_edificios]
+	dx=201,64
+	expanded=f
+	parent=Histórico
+	x=363,176
+[Fisica].[tbn1_kuh_dim_fechas]
+	dx=223,208
+	expanded=f
+	parent=Histórico
+	x=366,550
+[Fisica].[tbn1_kuh_dim_fechas_vigencia]
+	dx=246,82
+	expanded=f
+	parent=Histórico
+	x=365,442
+[Fisica].[tbn1_kuh_dim_marcas]
+	dx=194,208
+	expanded=f
+	parent=Histórico
+	x=366,499
+[Fisica].[tbn1_kuh_dim_objetos]
+	dx=194,208
+	expanded=f
+	parent=Histórico
+	x=359,318
+[Fisica].[tbn1_kuh_dim_otros_atributos]
+	dx=241,208
+	expanded=f
+	parent=Histórico
+	x=367,617
+[Fisica].[tbn1_kuh_dim_parcelas]
+	dx=201,64
+	expanded=f
+	parent=Histórico
+	x=365,36
+[Fisica].[tbn1_kuh_dim_titulares]
+	dx=210,208
+	expanded=f
+	parent=Histórico
+	x=376,678
+[Fisica].[tbn1_ku_fact]
+	dx=207,208
+	expanded=f
+	parent=Vigente
+	x=64,395
+[Fisica].[tbn1_ku_mae_usos]
+	dx=174,118
+	expanded=f
+	parent=Vigente
+	x=897,500
+[Fisica].[tbn1_ku_mae_usos_edificios]
+	dx=232,118
+	expanded=f
+	parent=Vigente
+	x=895,602
+[Fisica].[tbn1_ku_mae_clases]
+	dx=183,136
+	expanded=f
+	parent=Vigente
+	x=899,535
+[Fisica].[tbn1_ku_mae_clases_edificios]
+	dx=241,136
+	expanded=f
+	parent=Vigente
+	x=894,637
+[Fisica].[tbn1_ku_mae_modalidades]
+	dx=221,172
+	expanded=f
+	parent=Vigente
+	x=894,563
+[Fisica].[ttbn1_ku_mae_modalidades_edificios]
+	dx=282,172
+	expanded=f
+	parent=Vigente
+	x=895,674
+[Fisica].[tbn1_ku_mae_altura_local_rasante_comercial]
+	dx=330,100
+	expanded=f
+	parent=Vigente
+	x=895,776
+[Fisica].[tbn1_ku_mae_altura_libre_local_comercial]
+	dx=312,100
+	expanded=f
+	parent=Vigente
+	x=892,744
+[Fisica].[tbn1_ku_mae_parcelas]
+	dx=196,208
+	expanded=f
+	parent=Vigente
+	x=933,7
+[Fisica].[tbn1_ku_dim_parcelas]
+	dx=193,64
+	expanded=f
+	parent=Vigente
+	x=528,12
+[Fisica].[tbn1_ku_mae_edificios]
+	dx=218,208
+	expanded=f
+	parent=Vigente
+	x=916,150
+[Fisica].[tbn1_ku_mae_calles]
+	dx=180,136
+	expanded=f
+	parent=Vigente
+	x=894,825
+[Fisica].[tbn1_ku_mae_calles_secundaria_1]
+	dx=266,136
+	expanded=f
+	parent=Vigente
+	x=905,933
+[Fisica].[tbn1_ku_mae_calles_secundaria_2]
+	dx=266,136
+	expanded=f
+	parent=Vigente
+	x=893,861
+[Fisica].[tbn1_ku_mae_calles_zaguera]
+	dx=234,136
+	expanded=f
+	parent=Vigente
+	x=898,895
+[Fisica].[tbn1_ku_mae_calle_objetos]
+	dx=224,136
+	expanded=f
+	parent=Vigente
+	x=899,360
+[Fisica].[tbn1_ku_mae_calles_edificios]
+	dx=237,136
+	expanded=f
+	parent=Vigente
+	x=1301,873
+[Fisica].[ttbn1_ku_mae_portales_edificios]
+	dx=255,100
+	expanded=f
+	parent=Vigente
+	x=1303,905
+[Fisica].[tbn1_ku_mae_portales_objetos]
+	dx=245,100
+	expanded=f
+	parent=Vigente
+	x=894,323
+[Fisica].[tbn1_ku_mae_conceptos_edificios - Ascensor]
+	dx=332,136
+	expanded=f
+	parent=Vigente
+	x=1251,92
+[Fisica].[tbn1_ku_mae_conceptos_edificios - Calefacción]
+	dx=345,136
+	expanded=f
+	parent=Vigente
+	x=1282,453
+[Fisica].[tbn1_ku_mae_conceptos_edificios - Baños]
+	dx=313,136
+	expanded=f
+	parent=Vigente
+	x=1297,675
+[Fisica].[tbn1_ku_mae_conceptos_edificios - Amplitud]
+	dx=329,136
+	expanded=f
+	parent=Vigente
+	x=1300,838
+[Fisica].[tbn1_ku_mae_conceptos_edificios - Portero]
+	dx=320,136
+	expanded=f
+	parent=Vigente
+	x=1297,545
+[Fisica].[tbn1_ku_mae_conceptos_edificios - Cerramientos viviendas]
+	dx=415,136
+	expanded=f
+	parent=Vigente
+	x=1251,217
+[Fisica].[tbn1_ku_mae_conceptos_edificios - Cerramientos industrial]
+	dx=415,136
+	expanded=f
+	parent=Vigente
+	x=1248,61
+[Fisica].[tbn1_ku_mae_conceptos_edificios - Suelo]
+	dx=309,136
+	expanded=f
+	parent=Vigente
+	x=1300,749
 [Fisica].[tbn1_derivaciones_exp_cobros_fact]
 	dx=274,208
 	expanded=t
@@ -1986,31 +2136,84 @@
 	view=0,0
 	x=9276,303
 	zoom=0.846029
-[Fisica].[tbn1_fact_censo_rdm]
-	dx=187,136
+[Fisica].[tbn1_piloto_fact_deudas_liquidaciones]
+	dx=291,208
+	expanded=f
+	parent=Piloto
+	x=10086,55
+[Fisica].[tbn1_piloto_fact_epigrafes]
+	dx=217,136
+	expanded=f
+	parent=Piloto
+	x=9895,402
+[Fisica].[tbn1_piloto_fact_obligados_deuda]
+	dx=264,154
+	expanded=f
+	parent=Piloto
+	x=10078,19
+[Fisica].[tbn1_piloto_vma]
+	dx=356,208
+	expanded=f
+	parent=Piloto
+	x=10613,251
+[Fisica].[tbn1_dim_ejercicios]
+	dx=177,100
 	expanded=t
-	parent=Censos
-	x=10,91
-[Fisica].[tbn1_fact_censo_roi]
-	dx=180,136
+	parent=Piloto
+	x=9732,85
+[Fisica].[Atajo a tbn1_piloto_dim_epigrafe]
+	dx=255,100
 	expanded=t
-	parent=Censos
-	x=202,11
-[Fisica].[tbn1_fact_censo_criterio_caja]
-	dx=237,136
+	parent=Piloto
+	x=9527,486
+[Fisica].[Atajo a tbn1_piloto_fact_admin]
+	dx=243,136
 	expanded=t
-	parent=Censos
-	x=225,162
-[Fisica].[tbn1_fact_censo_entidades_grupos]
-	dx=271,136
+	parent=Piloto
+	x=10,1401
+[Fisica].[Piloto]
+	c=9bdfc4
+	dx=11630,1547
 	expanded=t
-	parent=Censos
-	x=444,16
-[Fisica].[tbn1_fact_datos_censales_iva]
-	dx=238,208
+	parent=Fisica
+	view=0,0
+	x=12305,1490
+	zoom=0.750000
+[Fisica].[tbn1_kr_dim_clases_cultivo]
+	dx=225,82
 	expanded=t
-	parent=Censos
-	x=738,55
+	parent=Vigente R
+	x=1489,578
+[Fisica].[tbn1_kr_dim_claves_catastrales]
+	dx=249,136
+	expanded=t
+	parent=Vigente R
+	x=1332,208
+[Fisica].[tbn1_kr_dim_fechas]
+	dx=204,154
+	expanded=t
+	parent=Vigente R
+	x=1111,70
+[Fisica].[tbn1_kr_dim_marcas]
+	dx=215,208
+	expanded=t
+	parent=Vigente R
+	x=827,71
+[Fisica].[tbn1_kr_dim_parcelas]
+	dx=190,64
+	expanded=t
+	parent=Vigente R
+	x=577,408
+[Fisica].[tbn1_kr_dim_subparcelas]
+	dx=212,64
+	expanded=t
+	parent=Vigente R
+	x=571,779
+[Fisica].[tbn1_kr_dim_titulares]
+	dx=188,190
+	expanded=t
+	parent=Vigente R
+	x=771,933
 [Fisica].[Censos]
 	c=9bdfc4
 	dx=986,308
@@ -2019,11 +2222,6 @@
 	view=0,0
 	x=1806,3664
 	zoom=1.000000
-[Fisica].[tbn1_dim_requerimientos]
-	dx=211,208
-	expanded=t
-	parent=Requerimientos
-	x=10,57
 [Fisica].[Requerimientos]
 	c=758698
 	dx=100,27
@@ -2107,190 +2305,6 @@
 	expanded=f
 	parent=Piloto
 	x=10690,43
-[Fisica].[tbn1_piloto_fact_deudas_liquidaciones]
-	dx=291,208
-	expanded=f
-	parent=Piloto
-	x=10086,55
-[Fisica].[tbn1_piloto_fact_epigrafes]
-	dx=217,136
-	expanded=f
-	parent=Piloto
-	x=9895,402
-[Fisica].[tbn1_piloto_fact_obligados_deuda]
-	dx=264,154
-	expanded=f
-	parent=Piloto
-	x=10078,19
-[Fisica].[tbn1_piloto_vma]
-	dx=356,208
-	expanded=f
-	parent=Piloto
-	x=10613,251
-[Fisica].[tbn1_dim_ejercicios]
-	dx=177,100
-	expanded=t
-	parent=Piloto
-	x=9732,85
-[Fisica].[Atajo a tbn1_piloto_dim_epigrafe]
-	dx=255,100
-	expanded=t
-	parent=Piloto
-	x=9527,486
-[Fisica].[Atajo a tbn1_piloto_fact_admin]
-	dx=243,136
-	expanded=t
-	parent=Piloto
-	x=10,1401
-[Fisica].[Piloto]
-	c=9bdfc4
-	dx=11630,1547
-	expanded=t
-	parent=Fisica
-	view=0,0
-	x=12305,1490
-	zoom=0.750000
-[Fisica].[tbn1_kr_dim_clases_cultivo]
-	dx=225,82
-	expanded=t
-	parent=Vigente R
-	x=1489,578
-[Fisica].[tbn1_kr_dim_claves_catastrales]
-	dx=249,136
-	expanded=t
-	parent=Vigente R
-	x=1332,208
-[Fisica].[tbn1_kr_dim_fechas]
-	dx=204,154
-	expanded=t
-	parent=Vigente R
-	x=1111,70
-[Fisica].[tbn1_kr_dim_marcas]
-	dx=215,208
-	expanded=t
-	parent=Vigente R
-	x=827,71
-[Fisica].[tbn1_kr_dim_parcelas]
-	dx=190,64
-	expanded=t
-	parent=Vigente R
-	x=577,408
-[Fisica].[tbn1_kr_dim_subparcelas]
-	dx=212,64
-	expanded=t
-	parent=Vigente R
-	x=571,779
-[Fisica].[tbn1_kr_dim_titulares]
-	dx=188,190
-	expanded=t
-	parent=Vigente R
-	x=771,933
-[Fisica].[tbn1_kr_fact]
-	dx=209,208
-	expanded=t
-	parent=Vigente R
-	x=1015,515
-[Fisica].[tbn1_kr_mae_clases_cultivo]
-	dx=227,100
-	expanded=t
-	parent=Vigente R
-	x=1697,688
-[Fisica].[tbn1_kr_mae_clases_cultivo_real]
-	dx=256,100
-	expanded=t
-	parent=Vigente R
-	x=1691,468
-[Fisica].[tbn1_kr_mae_parcelas]
-	dx=193,208
-	expanded=t
-	parent=Vigente R
-	x=336,472
-[Fisica].[tbn1_kr_mae_subparcelas]
-	dx=215,208
-	expanded=t
-	parent=Vigente R
-	x=420,772
-[Fisica].[tbn1_dim_municipios]
-	dx=187,136
-	expanded=t
-	parent=Vigente R
-	x=218,58
-[Fisica].[tbn1_kr_dim_datos_documento]
-	dx=247,172
-	expanded=t
-	parent=Vigente R
-	x=1021,1014
-[Fisica].[tbn1_kr_dim_sistemas_explotacion]
-	dx=269,64
-	expanded=t
-	parent=Vigente R
-	x=1305,947
-[Fisica].[tbn1_kr_mae_sistemas_explotacion_parcela]
-	dx=322,100
-	expanded=t
-	parent=Vigente R
-	x=1742,1027
-[Fisica].[Atajo a tbn1_kr_mae_sistemas_explotacion_parcela]
-	dx=367,100
-	expanded=t
-	parent=Vigente R
-	x=10,253
-[Fisica].[Vigente R]
-	c=9bdfc4
-	dx=1460,1599
-	expanded=t
-	parent=Rústico
-	view=0,0
-	x=10,42
-	zoom=0.384906
-[Fisica].[Rústico]
-	c=9bdfc4
-	dx=1480,1651
-	expanded=t
-	parent=Catastro
-	view=0,0
-	x=10,1044
-	zoom=0.500000
-[Fisica].[tbn1_kuh_dim_edificios]
-	dx=201,64
-	expanded=f
-	parent=Histórico
-	x=363,176
-[Fisica].[tbn1_kuh_dim_fechas]
-	dx=223,208
-	expanded=f
-	parent=Histórico
-	x=366,550
-[Fisica].[tbn1_kuh_dim_fechas_vigencia]
-	dx=246,82
-	expanded=f
-	parent=Histórico
-	x=365,442
-[Fisica].[tbn1_kuh_dim_marcas]
-	dx=194,208
-	expanded=f
-	parent=Histórico
-	x=366,499
-[Fisica].[tbn1_kuh_dim_objetos]
-	dx=194,208
-	expanded=f
-	parent=Histórico
-	x=359,318
-[Fisica].[tbn1_kuh_dim_otros_atributos]
-	dx=241,208
-	expanded=f
-	parent=Histórico
-	x=367,617
-[Fisica].[tbn1_kuh_dim_parcelas]
-	dx=201,64
-	expanded=f
-	parent=Histórico
-	x=365,36
-[Fisica].[tbn1_kuh_dim_titulares]
-	dx=210,208
-	expanded=f
-	parent=Histórico
-	x=376,678
 [Fisica].[tbn1_kuh_dim_ucm]
 	dx=176,100
 	expanded=t
@@ -2529,146 +2543,144 @@
 	expanded=f
 	parent=Vigente
 	x=532,151
-[Fisica].[tbn1_ku_fact]
-	dx=207,208
-	expanded=f
-	parent=Vigente
-	x=64,395
-[Fisica].[tbn1_ku_mae_usos]
-	dx=174,118
-	expanded=f
-	parent=Vigente
-	x=897,500
-[Fisica].[tbn1_ku_mae_usos_edificios]
-	dx=232,118
-	expanded=f
-	parent=Vigente
-	x=895,602
-[Fisica].[tbn1_ku_mae_clases]
-	dx=183,136
-	expanded=f
-	parent=Vigente
-	x=899,535
-[Fisica].[tbn1_ku_mae_clases_edificios]
-	dx=241,136
-	expanded=f
-	parent=Vigente
-	x=894,637
-[Fisica].[tbn1_ku_mae_modalidades]
-	dx=221,172
-	expanded=f
-	parent=Vigente
-	x=894,563
-[Fisica].[ttbn1_ku_mae_modalidades_edificios]
-	dx=282,172
-	expanded=f
-	parent=Vigente
-	x=895,674
-[Fisica].[tbn1_ku_mae_altura_local_rasante_comercial]
-	dx=330,100
-	expanded=f
-	parent=Vigente
-	x=895,776
-[Fisica].[tbn1_ku_mae_altura_libre_local_comercial]
-	dx=312,100
-	expanded=f
-	parent=Vigente
-	x=892,744
-[Fisica].[tbn1_ku_mae_parcelas]
-	dx=196,208
-	expanded=f
-	parent=Vigente
-	x=933,7
-[Fisica].[tbn1_ku_dim_parcelas]
-	dx=193,64
-	expanded=f
-	parent=Vigente
-	x=528,12
-[Fisica].[tbn1_ku_mae_edificios]
-	dx=218,208
-	expanded=f
-	parent=Vigente
-	x=916,150
-[Fisica].[tbn1_ku_mae_calles]
-	dx=180,136
-	expanded=f
-	parent=Vigente
-	x=894,825
-[Fisica].[tbn1_ku_mae_calles_secundaria_1]
-	dx=266,136
-	expanded=f
-	parent=Vigente
-	x=905,933
-[Fisica].[tbn1_ku_mae_calles_secundaria_2]
-	dx=266,136
-	expanded=f
-	parent=Vigente
-	x=893,861
-[Fisica].[tbn1_ku_mae_calles_zaguera]
-	dx=234,136
-	expanded=f
-	parent=Vigente
-	x=898,895
-[Fisica].[tbn1_ku_mae_calle_objetos]
-	dx=224,136
-	expanded=f
-	parent=Vigente
-	x=899,360
-[Fisica].[tbn1_ku_mae_calles_edificios]
-	dx=237,136
-	expanded=f
-	parent=Vigente
-	x=1301,873
-[Fisica].[ttbn1_ku_mae_portales_edificios]
-	dx=255,100
-	expanded=f
-	parent=Vigente
-	x=1303,905
-[Fisica].[tbn1_ku_mae_portales_objetos]
+[Fisica].[tbn1_ky_fact]
+	dx=189,208
+	expanded=t
+	parent=Valoraciones
+	x=1293,777
+[Fisica].[Atajo (2) a tbn1_dim_municipios]
+	dx=250,136
+	expanded=t
+	parent=Valoraciones
+	x=963,1914
+[Fisica].[Atajo (2) a tbn1_dim_contribuyentes]
+	dx=273,208
+	expanded=t
+	parent=Valoraciones
+	x=319,537
+[Fisica].[Atajo (2) a tbn1_ku_mae_usos]
+	dx=238,118
+	expanded=t
+	parent=Valoraciones
+	x=54,887
+[Fisica].[Atajo (3) a tbn1_ku_mae_usos]
+	dx=238,118
+	expanded=t
+	parent=Valoraciones
+	x=100,1397
+[Fisica].[Atajo (2) a tbn1_ku_mae_clases]
+	dx=247,136
+	expanded=t
+	parent=Valoraciones
+	x=10,1130
+[Fisica].[Atajo (2) a tbn1_ku_mae_modalidades]
+	dx=285,172
+	expanded=t
+	parent=Valoraciones
+	x=261,1550
+[Fisica].[tbn1_mae_ky_naturalezas_bien]
 	dx=245,100
-	expanded=f
-	parent=Vigente
-	x=894,323
-[Fisica].[tbn1_ku_mae_conceptos_edificios - Ascensor]
-	dx=332,136
-	expanded=f
-	parent=Vigente
-	x=1251,92
-[Fisica].[tbn1_ku_mae_conceptos_edificios - Calefacción]
-	dx=345,136
-	expanded=f
-	parent=Vigente
-	x=1282,453
-[Fisica].[tbn1_ku_mae_conceptos_edificios - Baños]
-	dx=313,136
-	expanded=f
-	parent=Vigente
-	x=1297,675
-[Fisica].[tbn1_ku_mae_conceptos_edificios - Amplitud]
-	dx=329,136
-	expanded=f
-	parent=Vigente
-	x=1300,838
-[Fisica].[tbn1_ku_mae_conceptos_edificios - Portero]
-	dx=320,136
-	expanded=f
-	parent=Vigente
-	x=1297,545
-[Fisica].[tbn1_ku_mae_conceptos_edificios - Cerramientos viviendas]
-	dx=415,136
-	expanded=f
-	parent=Vigente
-	x=1251,217
-[Fisica].[tbn1_ku_mae_conceptos_edificios - Cerramientos industrial]
-	dx=415,136
-	expanded=f
-	parent=Vigente
-	x=1248,61
-[Fisica].[tbn1_ku_mae_conceptos_edificios - Suelo]
-	dx=309,136
-	expanded=f
-	parent=Vigente
-	x=1300,749
+	expanded=t
+	parent=Valoraciones
+	x=1938,1550
+[Fisica].[tbn1_mae_ky_origenes_expediente]
+	dx=268,100
+	expanded=t
+	parent=Valoraciones
+	x=1726,1702
+[Fisica].[tbn1_mae_ky_situaciones_expediente]
+	dx=285,100
+	expanded=t
+	parent=Valoraciones
+	x=2113,479
+[Fisica].[tbn1_mae_ky_zonas_valoracion]
+	dx=249,190
+	expanded=t
+	parent=Valoraciones
+	x=723,1727
+[Fisica].[Atajo a tbn1_ku_mae_calles]
+	dx=225,136
+	expanded=t
+	parent=Valoraciones
+	x=1240,1877
+[Fisica].[Valoraciones]
+	c=9bdfc4
+	dx=2408,2060
+	expanded=t
+	parent=Catastro
+	view=672,1474
+	x=2389,936
+	zoom=1.000000
+[Fisica].[tbn1_kw_dim_actuaciones]
+	dx=216,82
+	expanded=t
+	parent=Expedientes
+	x=1842,826
+[Fisica].[tbn1_kw_dim_documentos_adjuntos]
+	dx=277,64
+	expanded=t
+	parent=Expedientes
+	x=1842,935
+[Fisica].[tbn1_kw_dim_expedientes]
+	dx=216,136
+	expanded=t
+	parent=Expedientes
+	x=1842,1026
+[Fisica].[tbn1_kw_dim_fechas]
+	dx=184,154
+	expanded=t
+	parent=Expedientes
+	x=1842,1189
+[Fisica].[tbn1_kw_dim_marcas]
+	dx=188,136
+	expanded=t
+	parent=Expedientes
+	x=1842,1370
+[Fisica].[tbn1_kw_dim_municipios]
+	dx=210,64
+	expanded=t
+	parent=Expedientes
+	x=1842,1533
+[Fisica].[tbn1_kw_dim_otros_atributos]
+	dx=236,208
+	expanded=t
+	parent=Expedientes
+	x=1842,1624
+[Fisica].[tbn1_kw_dim_solicitantes]
+	dx=213,136
+	expanded=t
+	parent=Expedientes
+	x=1842,1859
+[Fisica].[tbn1_kw_dim_titulares]
+	dx=193,100
+	expanded=t
+	parent=Expedientes
+	x=1842,2022
+[Fisica].[vwn_kw_dim_detalles_expediente_IX]
+	dx=279,208
+	expanded=t
+	parent=Expedientes
+	x=1842,544
+[Fisica].[vwn_kw_dim_municipios_IX]
+	dx=227,82
+	expanded=t
+	parent=Expedientes
+	x=1840,408
+[Fisica].[vwn_kw_dim_actuaciones_IX]
+	dx=233,82
+	expanded=t
+	parent=Expedientes
+	x=1838,279
+[Fisica].[tbn1_kw_fact]
+	dx=179,208
+	expanded=t
+	parent=Expedientes
+	x=2870,931
+[Fisica].[tbn1_kwh_dim_acciones]
+	dx=205,82
+	expanded=t
+	parent=Expedientes
+	x=907,616
 [Fisica].[tbn1_ku_mae_conceptos_edificios - Carpintería]
 	dx=341,136
 	expanded=f
@@ -2840,144 +2852,225 @@
 	expanded=t
 	parent=Valoraciones
 	x=1987,1060
-[Fisica].[tbn1_ky_fact]
-	dx=189,208
+[Fisica].[tbn1_irpf_Anexo_A_dim_ubicacion_anexo]
+	dx=309,100
 	expanded=t
-	parent=Valoraciones
-	x=1293,777
-[Fisica].[Atajo (2) a tbn1_dim_municipios]
-	dx=250,136
+	parent=Anexo A - Retenciones del trabajo
+	x=294,1838
+[Fisica].[tbn1_irpf_Anexo_A_fact]
+	dx=244,208
 	expanded=t
-	parent=Valoraciones
-	x=963,1914
-[Fisica].[Atajo (2) a tbn1_dim_contribuyentes]
-	dx=273,208
+	parent=Anexo A - Retenciones del trabajo
+	x=10,880
+[Fisica].[Anexo A - Retenciones del trabajo]
+	c=99b2c7
+	dx=618,1948
 	expanded=t
-	parent=Valoraciones
-	x=319,537
-[Fisica].[Atajo (2) a tbn1_ku_mae_usos]
-	dx=238,118
+	parent=IRPF
+	x=1646,1168
+[Fisica].[vwn1_irpf_Anexo_B_dim_contribuyentes]
+	dx=302,208
 	expanded=t
-	parent=Valoraciones
-	x=54,887
-[Fisica].[Atajo (3) a tbn1_ku_mae_usos]
-	dx=238,118
+	parent=Anexo B - Rendimientos de capital mobiliario
+	x=10,182
+[Fisica].[vwn1_irpf_Anexo_B_dim_declaraciones]
+	dx=296,208
 	expanded=t
-	parent=Valoraciones
-	x=100,1397
-[Fisica].[Atajo (2) a tbn1_ku_mae_clases]
-	dx=247,136
+	parent=Anexo B - Rendimientos de capital mobiliario
+	x=40,212
+[Fisica].[tbn1_irpf_Anexo_B_dim_ubicacion_anexo]
+	dx=309,100
 	expanded=t
-	parent=Valoraciones
-	x=10,1130
-[Fisica].[Atajo (2) a tbn1_ku_mae_modalidades]
-	dx=285,172
+	parent=Anexo B - Rendimientos de capital mobiliario
+	x=594,1838
+[Fisica].[tbn1_irpf_Anexo_B_fact]
+	dx=298,208
 	expanded=t
-	parent=Valoraciones
-	x=261,1550
-[Fisica].[tbn1_mae_ky_naturalezas_bien]
-	dx=245,100
+	parent=Anexo B - Rendimientos de capital mobiliario
+	x=256,880
+[Fisica].[Anexo B - Rendimientos de capital mobiliario]
+	c=bf8cbc
+	dx=5972,6100
 	expanded=t
-	parent=Valoraciones
-	x=1938,1550
-[Fisica].[tbn1_mae_ky_origenes_expediente]
-	dx=268,100
+	parent=IRPF
+	x=1976,1498
+[Fisica].[vwn1_irpf_Anexo_C_dim_contribuyentes]
+	dx=302,190
 	expanded=t
-	parent=Valoraciones
-	x=1726,1702
-[Fisica].[tbn1_mae_ky_situaciones_expediente]
-	dx=285,100
-	expanded=t
-	parent=Valoraciones
-	x=2113,479
-[Fisica].[tbn1_mae_ky_zonas_valoracion]
-	dx=249,190
-	expanded=t
-	parent=Valoraciones
-	x=723,1727
-[Fisica].[Atajo a tbn1_ku_mae_calles]
-	dx=225,136
-	expanded=t
-	parent=Valoraciones
-	x=1240,1877
-[Fisica].[Valoraciones]
+	parent=Anexo C - Rendimientos de capital inmobiliario
+	x=10,42
+[Fisica].[vwn1_irpf_decl_dim_contribuyentes]
+	dx=269,100
+	expanded=f
+	parent=Hoja de liquidacion
+	x=889,472
+[Fisica].[vwn1_irpf_decl_dim_declaraciones]
+	dx=263,208
+	expanded=f
+	parent=Hoja de liquidacion
+	x=779,134
+[Fisica].[tbn1_irpf_decl_fact]
+	dx=194,208
+	expanded=f
+	parent=Hoja de liquidacion
+	x=510,418
+[Fisica].[tbn1_nif_ej_vision_contribuyente_fact]
+	dx=285,208
+	expanded=f
+	parent=DM - Visión NIF-Ejercicio
+	x=819,834
+[Fisica].[DM - Visión NIF-Ejercicio]
 	c=9bdfc4
-	dx=2408,2060
+	dx=1730,1138
 	expanded=t
-	parent=Catastro
-	view=672,1474
-	x=2389,936
+	parent=Visión NIF
+	view=0,0
+	x=303,42
+	zoom=0.527015
+[Fisica].[vwn1_epigrafes_iae_dim_datos_basicos]
+	dx=298,136
+	expanded=t
+	parent=DM - IAE actividades
+	x=10,42
+[Fisica].[tbn1_epigrafes_iae_dim_epigrafes]
+	dx=263,136
+	expanded=t
+	parent=DM - IAE actividades
+	x=377,291
+[Fisica].[tbn1_epigrafes_iae_dim_fechas]
+	dx=247,82
+	expanded=t
+	parent=DM - IAE actividades
+	x=377,454
+[Fisica].[tbn1_epigrafes_iae_fact]
+	dx=201,118
+	expanded=t
+	parent=DM - IAE actividades
+	x=136,291
+[Fisica].[DM - IAE actividades]
+	c=d8a77d
+	dx=650,546
+	expanded=t
+	parent=Visión NIF
+	view=0,0
+	x=333,72
 	zoom=1.000000
-[Fisica].[tbn1_kw_dim_actuaciones]
-	dx=216,82
+[Fisica].[tbn1_epigrafes_irpf_dim_atributos]
+	dx=263,82
 	expanded=t
-	parent=Expedientes
-	x=1842,826
-[Fisica].[tbn1_kw_dim_documentos_adjuntos]
-	dx=277,64
+	parent=DM - IRPF actividades
+	x=657,284
+[Fisica].[vwn1_epigrafes_irpf_dim_datos_basicos]
+	dx=301,136
 	expanded=t
-	parent=Expedientes
-	x=1842,935
-[Fisica].[tbn1_kw_dim_expedientes]
-	dx=216,136
+	parent=DM - IRPF actividades
+	x=10,42
+[Fisica].[tbn1_epigrafes_irpf_dim_epigrafes]
+	dx=265,136
 	expanded=t
-	parent=Expedientes
-	x=1842,1026
-[Fisica].[tbn1_kw_dim_fechas]
-	dx=184,154
+	parent=DM - IRPF actividades
+	x=657,520
+[Fisica].[tbn1_epigrafes_irpf_dim_titulares]
+	dx=258,82
 	expanded=t
-	parent=Expedientes
-	x=1842,1189
-[Fisica].[tbn1_kw_dim_marcas]
-	dx=188,136
+	parent=DM - IRPF actividades
+	x=657,683
+[Fisica].[tbn1_epigrafes_irpf_fact]
+	dx=361,208
 	expanded=t
-	parent=Expedientes
-	x=1842,1370
-[Fisica].[tbn1_kw_dim_municipios]
-	dx=210,64
+	parent=DM - IRPF actividades
+	x=256,420
+[Fisica].[DM - IRPF actividades]
+	c=89c6fd
+	dx=932,775
 	expanded=t
-	parent=Expedientes
-	x=1842,1533
-[Fisica].[tbn1_kw_dim_otros_atributos]
-	dx=236,208
+	parent=Visión NIF
+	view=0,0
+	x=483,222
+	zoom=0.500000
+[Fisica].[tbn1_ht_patrimonio_714_fact]
+	dx=232,136
+	expanded=f
+	parent=Patrimonio datos fiscales
+	x=681,1538
+[Fisica].[vwn1_ht_patrimonio_714_dim_datos_fiscales]
+	dx=251,208
 	expanded=t
-	parent=Expedientes
-	x=1842,1624
-[Fisica].[tbn1_kw_dim_solicitantes]
-	dx=213,136
+	parent=Patrimonio datos fiscales
+	x=70,102
+[Fisica].[Patrimonio datos fiscales]
+	c=9bdfc4
+	dx=923,1666
 	expanded=t
-	parent=Expedientes
-	x=1842,1859
-[Fisica].[tbn1_kw_dim_titulares]
-	dx=193,100
+	parent=Patrimonio
+	view=0,0
+	x=770,686
+	zoom=0.250000
+[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_actividades]
+	dx=265,208
 	expanded=t
-	parent=Expedientes
-	x=1842,2022
-[Fisica].[vwn_kw_dim_detalles_expediente_IX]
-	dx=279,208
+	parent=Patrimonio Anexos
+	x=10,42
+[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_anexo]
+	dx=233,208
 	expanded=t
-	parent=Expedientes
-	x=1842,544
-[Fisica].[vwn_kw_dim_municipios_IX]
-	dx=227,82
+	parent=Patrimonio Anexos
+	x=40,72
+[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_datos_anexo]
+	dx=244,208
 	expanded=t
-	parent=Expedientes
-	x=1840,408
-[Fisica].[vwn_kw_dim_actuaciones_IX]
-	dx=233,82
+	parent=Patrimonio Anexos
+	x=70,102
+[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_declarantes]
+	dx=300,208
 	expanded=t
-	parent=Expedientes
-	x=1838,279
-[Fisica].[tbn1_kw_fact]
-	dx=179,208
+	parent=Patrimonio Anexos
+	x=100,132
+[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_documentos]
+	dx=285,208
 	expanded=t
-	parent=Expedientes
-	x=2870,931
-[Fisica].[tbn1_kwh_dim_acciones]
-	dx=205,82
+	parent=Patrimonio Anexos
+	x=130,162
+[Fisica].[tbn1_ht_patrimonio_714_anexos_fact]
+	dx=281,208
 	expanded=t
-	parent=Expedientes
-	x=907,616
+	parent=Patrimonio Anexos
+	x=4750,3319
+[Fisica].[Patrimonio Anexos]
+	c=d8a77d
+	dx=5041,3537
+	expanded=t
+	parent=Patrimonio
+	x=357,588
+[Fisica].[Patrimonio]
+	c=99b2c7
+	dx=5408,4135
+	expanded=t
+	parent=Fisica
+	view=0,322
+	x=1110,1211
+	zoom=1.000000
+[Fisica].[tbn1_ml_irpf_130_dim_declarantes]
+	dx=266,64
+	expanded=t
+	parent=Modelo 130 - IRPF pago fraccionado
+	x=240,446
+[Fisica].[tbn1_ml_irpf_130_fact]
+	dx=190,136
+	expanded=t
+	parent=Modelo 130 - IRPF pago fraccionado
+	x=10,265
+[Fisica].[Modelo 130 - IRPF pago fraccionado]
+	c=bf8cbc
+	dx=535,647
+	expanded=t
+	parent=IRPF
+	x=990,930
+[Fisica].[tbn1_dim_documentos_mod_100]
+	dx=256,208
+	expanded=f
+	parent=Hoja de liquidacion
+	x=77,930
 [Fisica].[tbn1_kwh_dim_detalles_accion]
 	dx=245,64
 	expanded=t
@@ -3104,85 +3197,6 @@
 	expanded=f
 	parent=DM - Visión NIF-Ejercicio
 	x=1202,1020
-[Fisica].[tbn1_nif_ej_vision_contribuyente_fact]
-	dx=285,208
-	expanded=f
-	parent=DM - Visión NIF-Ejercicio
-	x=819,834
-[Fisica].[nif_ej_ tbn1_dim_contribuyentes]
-	dx=253,208
-	expanded=f
-	parent=DM - Visión NIF-Ejercicio
-	x=4,419
-[Fisica].[DM - Visión NIF-Ejercicio]
-	c=9bdfc4
-	dx=1730,1138
-	expanded=t
-	parent=Visión NIF
-	view=0,0
-	x=303,42
-	zoom=0.527015
-[Fisica].[vwn1_epigrafes_iae_dim_datos_basicos]
-	dx=298,136
-	expanded=t
-	parent=DM - IAE actividades
-	x=10,42
-[Fisica].[tbn1_epigrafes_iae_dim_epigrafes]
-	dx=263,136
-	expanded=t
-	parent=DM - IAE actividades
-	x=377,291
-[Fisica].[tbn1_epigrafes_iae_dim_fechas]
-	dx=247,82
-	expanded=t
-	parent=DM - IAE actividades
-	x=377,454
-[Fisica].[tbn1_epigrafes_iae_fact]
-	dx=201,118
-	expanded=t
-	parent=DM - IAE actividades
-	x=136,291
-[Fisica].[DM - IAE actividades]
-	c=d8a77d
-	dx=650,546
-	expanded=t
-	parent=Visión NIF
-	view=0,0
-	x=333,72
-	zoom=1.000000
-[Fisica].[tbn1_epigrafes_irpf_dim_atributos]
-	dx=263,82
-	expanded=t
-	parent=DM - IRPF actividades
-	x=657,284
-[Fisica].[vwn1_epigrafes_irpf_dim_datos_basicos]
-	dx=301,136
-	expanded=t
-	parent=DM - IRPF actividades
-	x=10,42
-[Fisica].[tbn1_epigrafes_irpf_dim_epigrafes]
-	dx=265,136
-	expanded=t
-	parent=DM - IRPF actividades
-	x=657,520
-[Fisica].[tbn1_epigrafes_irpf_dim_titulares]
-	dx=258,82
-	expanded=t
-	parent=DM - IRPF actividades
-	x=657,683
-[Fisica].[tbn1_epigrafes_irpf_fact]
-	dx=361,208
-	expanded=t
-	parent=DM - IRPF actividades
-	x=256,420
-[Fisica].[DM - IRPF actividades]
-	c=89c6fd
-	dx=932,775
-	expanded=t
-	parent=Visión NIF
-	view=0,0
-	x=483,222
-	zoom=0.500000
 [Fisica].[vwn1_dim_todos_documentos]
 	dx=240,208
 	expanded=t
@@ -3250,129 +3264,6 @@
 	expanded=t
 	parent=Patrimonio datos fiscales
 	x=40,72
-[Fisica].[tbn1_ht_patrimonio_714_fact]
-	dx=232,136
-	expanded=f
-	parent=Patrimonio datos fiscales
-	x=681,1538
-[Fisica].[vwn1_ht_patrimonio_714_dim_datos_fiscales]
-	dx=251,208
-	expanded=t
-	parent=Patrimonio datos fiscales
-	x=70,102
-[Fisica].[Patrimonio datos fiscales]
-	c=9bdfc4
-	dx=923,1666
-	expanded=t
-	parent=Patrimonio
-	view=0,0
-	x=770,686
-	zoom=0.250000
-[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_actividades]
-	dx=265,208
-	expanded=t
-	parent=Patrimonio Anexos
-	x=10,42
-[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_anexo]
-	dx=233,208
-	expanded=t
-	parent=Patrimonio Anexos
-	x=40,72
-[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_datos_anexo]
-	dx=244,208
-	expanded=t
-	parent=Patrimonio Anexos
-	x=70,102
-[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_declarantes]
-	dx=300,208
-	expanded=t
-	parent=Patrimonio Anexos
-	x=100,132
-[Fisica].[vwn1_ht_patrimonio_714_anexos_dim_documentos]
-	dx=285,208
-	expanded=t
-	parent=Patrimonio Anexos
-	x=130,162
-[Fisica].[tbn1_ht_patrimonio_714_anexos_fact]
-	dx=281,208
-	expanded=t
-	parent=Patrimonio Anexos
-	x=4750,3319
-[Fisica].[Patrimonio Anexos]
-	c=d8a77d
-	dx=5041,3537
-	expanded=t
-	parent=Patrimonio
-	x=357,588
-[Fisica].[Patrimonio]
-	c=99b2c7
-	dx=5408,4135
-	expanded=t
-	parent=Fisica
-	view=0,322
-	x=1110,1211
-	zoom=1.000000
-[Fisica].[tbn1_ml_irpf_130_dim_datos_caratula]
-	dx=285,190
-	expanded=t
-	parent=Modelo 130 - IRPF pago fraccionado
-	x=240,30
-[Fisica].[tbn1_ml_irpf_130_dim_documentos]
-	dx=271,100
-	expanded=t
-	parent=Modelo 130 - IRPF pago fraccionado
-	x=240,537
-[Fisica].[tbn1_ml_irpf_130_dim_datos_fiscales]
-	dx=282,172
-	expanded=t
-	parent=Modelo 130 - IRPF pago fraccionado
-	x=240,247
-[Fisica].[tbn1_ml_irpf_130_dim_declarantes]
-	dx=266,64
-	expanded=t
-	parent=Modelo 130 - IRPF pago fraccionado
-	x=240,446
-[Fisica].[tbn1_ml_irpf_130_fact]
-	dx=190,136
-	expanded=t
-	parent=Modelo 130 - IRPF pago fraccionado
-	x=10,265
-[Fisica].[tbn1_ssrs_iva_tipos_resultado_130]
-	dx=286,82
-	expanded=t
-	parent=Modelos liquidativos
-	x=974,430
-[Fisica].[tbn1_dim_periodos_130]
-	dx=174,136
-	expanded=t
-	parent=Informativos - Liquidativos
-	x=9418,7612
-[Fisica].[Modelo 130 - IRPF pago fraccionado]
-	c=bf8cbc
-	dx=535,647
-	expanded=t
-	parent=IRPF
-	x=990,930
-[Fisica].[tbn1_dim_documentos_mod_100]
-	dx=256,208
-	expanded=f
-	parent=Hoja de liquidacion
-	x=77,930
-[Fisica].[vwn1_irpf_decl_dim_contribuyentes]
-	dx=269,100
-	expanded=f
-	parent=Hoja de liquidacion
-	x=889,472
-[Fisica].[vwn1_irpf_decl_dim_declaraciones]
-	dx=263,208
-	expanded=f
-	parent=Hoja de liquidacion
-	x=779,134
-[Fisica].[tbn1_irpf_decl_fact]
-	dx=194,208
-	expanded=f
-	parent=Hoja de liquidacion
-	x=510,418
 [Fisica].[vwn1_irpf_decl_dim_expedientes]
 	dx=364,208
 	expanded=t
@@ -3421,53 +3312,6 @@
 	expanded=t
 	parent=Anexo A - Retenciones del trabajo
 	x=34,452
-[Fisica].[tbn1_irpf_Anexo_A_dim_ubicacion_anexo]
-	dx=309,100
-	expanded=t
-	parent=Anexo A - Retenciones del trabajo
-	x=294,1838
-[Fisica].[tbn1_irpf_Anexo_A_fact]
-	dx=244,208
-	expanded=t
-	parent=Anexo A - Retenciones del trabajo
-	x=10,880
-[Fisica].[Anexo A - Retenciones del trabajo]
-	c=99b2c7
-	dx=618,1948
-	expanded=t
-	parent=IRPF
-	x=1646,1168
-[Fisica].[vwn1_irpf_Anexo_B_dim_contribuyentes]
-	dx=302,208
-	expanded=t
-	parent=Anexo B - Rendimientos de capital mobiliario
-	x=10,182
-[Fisica].[vwn1_irpf_Anexo_B_dim_declaraciones]
-	dx=296,208
-	expanded=t
-	parent=Anexo B - Rendimientos de capital mobiliario
-	x=40,212
-[Fisica].[tbn1_irpf_Anexo_B_dim_ubicacion_anexo]
-	dx=309,100
-	expanded=t
-	parent=Anexo B - Rendimientos de capital mobiliario
-	x=594,1838
-[Fisica].[tbn1_irpf_Anexo_B_fact]
-	dx=298,208
-	expanded=t
-	parent=Anexo B - Rendimientos de capital mobiliario
-	x=256,880
-[Fisica].[Anexo B - Rendimientos de capital mobiliario]
-	c=bf8cbc
-	dx=5972,6100
-	expanded=t
-	parent=IRPF
-	x=1976,1498
-[Fisica].[vwn1_irpf_Anexo_C_dim_contribuyentes]
-	dx=302,190
-	expanded=t
-	parent=Anexo C - Rendimientos de capital inmobiliario
-	x=10,42
 [Fisica].[vwn1_irpf_Anexo_C_dim_declaraciones]
 	dx=296,208
 	expanded=t
@@ -3654,76 +3498,72 @@
 	expanded=t
 	parent=Anexo I - Reducciones
 	x=286,2453
-[Fisica].[vwn1_irpf_Anexo_I_dim_declaraciones]
-	dx=251,208
+[Fisica].[180]
+	c=568ef6
+	dx=1055,263
 	expanded=t
-	parent=Anexo I - Reducciones
-	x=286,2218
-[Fisica].[Anexo I - Reducciones]
-	c=99b2c7
-	dx=876,2671
-	expanded=t
-	parent=IRPF
-	x=4616,4138
-[Fisica].[vwn1_irpf_Anexo_M_dim_contribuyentes]
-	dx=299,118
-	expanded=t
-	parent=M - Importes
-	x=274,265
-[Fisica].[vwn1_irpf_Anexo_M_dim_declaraciones]
-	dx=293,208
-	expanded=t
-	parent=M - Importes
-	x=274,410
-[Fisica].[tbn1_irpf_Anexo_M_fact]
-	dx=224,208
-	expanded=t
-	parent=M - Importes
-	x=10,807
-[Fisica].[M - Importes]
-	c=99f7ff
-	dx=616,1803
-	expanded=t
-	parent=Anexo M - Deducciones
+	parent=Informativos - Liquidativos
 	view=0,0
-	x=1198,2267
-	zoom=1.000000
-[Fisica].[tbn1_irpf_Anexo_M_detalles_dim_bancos]
-	dx=307,208
+	x=6212,5586
+	zoom=0.500000
+[Fisica].[vwn1_mi_181_dim_datos_caratula]
+	dx=263,208
 	expanded=t
-	parent=M - Detalle titulares
-	x=1360,30
-[Fisica].[vwn1_irpf_Anexo_M_detalles_dim_contribuyentes]
-	dx=352,154
+	parent=181
+	x=737,423
+[Fisica].[vwn1_mi_181_dim_datos_detalle]
+	dx=254,208
 	expanded=t
-	parent=M - Detalle titulares
-	x=1360,265
-[Fisica].[vwn1_irpf_Anexo_M_detalles_dim_declaraciones]
-	dx=346,208
+	parent=181
+	x=609,708
+[Fisica].[vwn1_mi_181_dim_declarados]
+	dx=241,172
 	expanded=t
-	parent=M - Detalle titulares
-	x=1360,446
-[Fisica].[tbn1_irpf_Anexo_M_detalles_dim_ubicacion_anexo]
-	dx=364,136
+	parent=181
+	x=626,165
+[Fisica].[vwn1_mi_181_dim_declarantes]
+	dx=244,190
 	expanded=t
-	parent=M - Detalle titulares
-	x=1360,1856
-[Fisica].[tbn1_irpf_Anexo_M_detalles_fact]
-	dx=256,208
+	parent=181
+	x=351,58
+[Fisica].[vwn1_mi_181_dim_documentos]
+	dx=249,100
 	expanded=t
-	parent=M - Detalle titulares
-	x=1064,907
-[Fisica].[M - Detalle titulares]
-	c=73d3ac
-	dx=1755,2002
+	parent=181
+	x=95,222
+[Fisica].[vwn1_mi_181_dim_marcas]
+	dx=218,208
 	expanded=t
-	parent=Anexo M - Deducciones
-	x=1108,57
-[Fisica].[vwn1_irpf_Anexo_M3_dim_contribuyentes]
-	dx=306,100
+	parent=181
+	x=10,425
+[Fisica].[tbn1_mi_181_dim_periodos]
+	dx=223,172
 	expanded=t
-	parent=Anexo M - Deducciones por vivienda
-	x=863,295
+	parent=181
+	x=115,703
+[Fisica].[tbn1_mi_181_dim_prestamistas]
+	dx=247,82
+	expanded=t
+	parent=181
+	x=344,860
+[Fisica].[tbn1_mi_181_fact]
+	dx=197,208
+	expanded=t
+	parent=181
+	x=395,423
+[Fisica].[181]
+	c=99f7ff
+	dx=954,648
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6212,15463
+	zoom=0.250000
+[Logica].[Sociedades - Carátula]
+	dx=411,208
+	expanded=t
+	parent=Sociedades
+	x=1590,1437
 [Fisica].[vwn1_irpf_Anexo_M3_dim_declaraciones]
 	dx=300,208
 	expanded=t
@@ -3794,6 +3634,27 @@
 	expanded=f
 	parent=Persona relacionada
 	x=260,265
+[Fisica].[vwn1_irpf_Anexo_I_dim_declaraciones]
+	dx=251,208
+	expanded=t
+	parent=Anexo I - Reducciones
+	x=286,2218
+[Fisica].[Anexo I - Reducciones]
+	c=99b2c7
+	dx=876,2671
+	expanded=t
+	parent=IRPF
+	x=4616,4138
+[Fisica].[vwn1_irpf_Anexo_M_dim_contribuyentes]
+	dx=299,118
+	expanded=t
+	parent=M - Importes
+	x=274,265
+[Fisica].[vwn1_irpf_Anexo_M_dim_declaraciones]
+	dx=293,208
+	expanded=t
+	parent=M - Importes
+	x=274,410
 [Fisica].[vwn1_irpf_pers_relac_dim_familiares]
 	dx=291,208
 	expanded=f
@@ -3896,31 +3757,55 @@
 	expanded=t
 	parent=Logica
 	x=57,1875
-[Logica].[Sociedades - Carátula]
-	dx=411,208
+[Fisica].[tbn1_irpf_Anexo_M_fact]
+	dx=224,208
 	expanded=t
-	parent=Sociedades
-	x=1590,1437
-[Logica].[Sociedades - Modelo 200]
-	dx=1012,208
+	parent=M - Importes
+	x=10,807
+[Fisica].[M - Importes]
+	c=99f7ff
+	dx=616,1803
 	expanded=t
-	parent=Sociedades, Modelo 200
-	x=10,436
-[Logica].[Sociedades - Modelo 200 - Buques Afectos]
-	dx=312,100
+	parent=Anexo M - Deducciones
+	view=0,0
+	x=1198,2267
+	zoom=1.000000
+[Fisica].[tbn1_irpf_Anexo_M_detalles_dim_bancos]
+	dx=307,208
 	expanded=t
-	parent=Sociedades, Modelo 200
-	x=10,1666
-[Logica].[Sociedades - Modelo 200 - Compromisos Reinversiones]
-	dx=389,136
+	parent=M - Detalle titulares
+	x=1360,30
+[Fisica].[vwn1_irpf_Anexo_M_detalles_dim_contribuyentes]
+	dx=352,154
 	expanded=t
-	parent=Sociedades, Modelo 200
-	x=10,1322
-[Logica].[Sociedades - Modelo 200 - Deducciones Cuenta Corriente]
-	dx=399,208
+	parent=M - Detalle titulares
+	x=1360,265
+[Fisica].[vwn1_irpf_Anexo_M_detalles_dim_declaraciones]
+	dx=346,208
 	expanded=t
-	parent=Sociedades, Modelo 200
-	x=974,671
+	parent=M - Detalle titulares
+	x=1360,446
+[Fisica].[tbn1_irpf_Anexo_M_detalles_dim_ubicacion_anexo]
+	dx=364,136
+	expanded=t
+	parent=M - Detalle titulares
+	x=1360,1856
+[Fisica].[tbn1_irpf_Anexo_M_detalles_fact]
+	dx=256,208
+	expanded=t
+	parent=M - Detalle titulares
+	x=1064,907
+[Fisica].[M - Detalle titulares]
+	c=73d3ac
+	dx=1755,2002
+	expanded=t
+	parent=Anexo M - Deducciones
+	x=1108,57
+[Fisica].[vwn1_irpf_Anexo_M3_dim_contribuyentes]
+	dx=306,100
+	expanded=t
+	parent=Anexo M - Deducciones por vivienda
+	x=863,295
 [Logica].[Sociedades - Modelo 200 - Deducciones / BI negativas pendientes por cambio de normativa]
 	dx=598,100
 	expanded=t
@@ -4032,6 +3917,68 @@
 	expanded=t
 	parent=Anexo 8
 	x=40,72
+[Logica].[Sociedades - Modelo 200]
+	dx=1012,208
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=10,436
+[Logica].[Sociedades - Modelo 200 - Buques Afectos]
+	dx=312,100
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=10,1666
+[Logica].[Sociedades - Modelo 200 - Compromisos Reinversiones]
+	dx=389,136
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=10,1322
+[Logica].[Sociedades - Modelo 200 - Deducciones Cuenta Corriente]
+	dx=399,208
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=974,671
+[Logica].[Sociedades - Modelo 220 - Deducciones Con/Sin Límite y Anexo 4 de Sociedades Dependientes]
+	dx=1018,208
+	expanded=t
+	parent=Sociedades, Modelo 220
+	x=70,977
+[Logica].[Sociedades - Modelo 220 - Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP]
+	dx=1009,154
+	expanded=t
+	parent=Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP
+	x=10,274
+[Logica].[Sociedades - Modelo 220 - Anexo 6 - Compensación para fomentar la capitalización empresarial (art. 51 NF 11/2013)]
+	dx=740,190
+	expanded=t
+	parent=Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP
+	x=10,455
+[Logica].[Sociedades - Modelo 220 - Anexo 6 - Reserva especial para nivelación de beneficios (art. 52 NF 11/2013)]
+	dx=670,154
+	expanded=t
+	parent=Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP
+	x=790,455
+[Logica].[Sociedades - Modelo 220 - Anexo 6 - Reserva especial para el fomento del emprendimiento y el reforzamiento de la actividad productiva (art. 53 NF 11/2013]
+	dx=972,190
+	expanded=t
+	parent=Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP
+	x=10,57
+[Logica].[Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP]
+	c=bf8cbc
+	dx=1470,655
+	expanded=t
+	parent=Sociedades, Modelo 220
+	x=2743,2532
+[Logica].[Sociedades - Modelo 220 - Integración de la reserva para fomentar la capitaliz. empresarial (art. 51 NF 11/2013). Integración de la reserva especial para nivelación de beneficios (art. 52 NF 11/2013). Integración de la reserva especial para fomento del empren]
+	dx=1026,172
+	expanded=t
+	parent=Sociedades, Modelo 220
+	x=2713,2502
+[Logica].[Sociedades, Modelo 220]
+	c=99b2c7
+	dx=4304,3197
+	expanded=t
+	parent=Sociedades
+	x=10,128
 [Logica].[Anexo 8]
 	c=99b2c7
 	dx=2740,2011
@@ -4054,6 +4001,62 @@
 	expanded=t
 	parent=Sociedades
 	x=10,1437
+[Logica].[Modelo 140 - Actividades]
+	dx=377,208
+	expanded=t
+	parent=Modelo 140 - Libro de registros de operaciones económicas
+	x=10,292
+[Logica].[Modelo 140 - Agrupaciones]
+	dx=307,208
+	expanded=t
+	parent=Modelo 140 - Libro de registros de operaciones económicas
+	x=374,762
+[Logica].[Modelo 140 - Ingresos]
+	dx=351,208
+	expanded=t
+	parent=Modelo 140 - Libro de registros de operaciones económicas
+	x=10,527
+[Logica].[Modelo 140 - Gastos]
+	dx=344,208
+	expanded=t
+	parent=Modelo 140 - Libro de registros de operaciones económicas
+	x=401,527
+[Logica].[Estudios Tributarios - Modelo 200 - Volumen de operaciones]
+	dx=964,208
+	expanded=t
+	parent=Sociedades
+	x=30,42
+[Logica].[Sociedades - Maestro de documentos]
+	dx=583,208
+	expanded=t
+	parent=Sociedades
+	x=2363,2270
+[Logica].[Sociedades - Todas las casillas]
+	dx=250,208
+	expanded=t
+	parent=Sociedades
+	x=1163,1070
+[Logica].[Sociedades]
+	c=73d3ac
+	dx=5303,4860
+	expanded=t
+	parent=Logica
+	x=67,160
+[Logica].[Modelos Informativos - Declarados]
+	dx=390,208
+	expanded=t
+	parent=Modelos Informativos
+	x=10,1677
+[Logica].[Visión declarado - Modelos informativos]
+	dx=298,118
+	expanded=t
+	parent=Modelos Informativos
+	x=113,197
+[Logica].[Modelo 140 - Declarantes]
+	dx=366,208
+	expanded=t
+	parent=Modelo 140 - Libro de registros de operaciones económicas
+	x=427,292
 [Logica].[Sociedades - Modelo 220]
 	dx=207,64
 	expanded=t
@@ -4134,104 +4137,6 @@
 	expanded=t
 	parent=Sociedades, Modelo 220
 	x=40,947
-[Logica].[Sociedades - Modelo 220 - Deducciones Con/Sin Límite y Anexo 4 de Sociedades Dependientes]
-	dx=1018,208
-	expanded=t
-	parent=Sociedades, Modelo 220
-	x=70,977
-[Logica].[Sociedades - Modelo 220 - Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP]
-	dx=1009,154
-	expanded=t
-	parent=Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP
-	x=10,274
-[Logica].[Sociedades - Modelo 220 - Anexo 6 - Compensación para fomentar la capitalización empresarial (art. 51 NF 11/2013)]
-	dx=740,190
-	expanded=t
-	parent=Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP
-	x=10,455
-[Logica].[Sociedades - Modelo 220 - Anexo 6 - Reserva especial para nivelación de beneficios (art. 52 NF 11/2013)]
-	dx=670,154
-	expanded=t
-	parent=Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP
-	x=790,455
-[Logica].[Sociedades - Modelo 220 - Anexo 6 - Reserva especial para el fomento del emprendimiento y el reforzamiento de la actividad productiva (art. 53 NF 11/2013]
-	dx=972,190
-	expanded=t
-	parent=Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP
-	x=10,57
-[Logica].[Anexo 6 - Compensación FOCAEM. Reserva RENIBE. Reserva REFERAP]
-	c=bf8cbc
-	dx=1470,655
-	expanded=t
-	parent=Sociedades, Modelo 220
-	x=2743,2532
-[Logica].[Sociedades - Modelo 220 - Integración de la reserva para fomentar la capitaliz. empresarial (art. 51 NF 11/2013). Integración de la reserva especial para nivelación de beneficios (art. 52 NF 11/2013). Integración de la reserva especial para fomento del empren]
-	dx=1026,172
-	expanded=t
-	parent=Sociedades, Modelo 220
-	x=2713,2502
-[Logica].[Sociedades, Modelo 220]
-	c=99b2c7
-	dx=4304,3197
-	expanded=t
-	parent=Sociedades
-	x=10,128
-[Logica].[Estudios Tributarios - Modelo 200 - Volumen de operaciones]
-	dx=964,208
-	expanded=t
-	parent=Sociedades
-	x=30,42
-[Logica].[Sociedades - Maestro de documentos]
-	dx=583,208
-	expanded=t
-	parent=Sociedades
-	x=2363,2270
-[Logica].[Sociedades - Todas las casillas]
-	dx=250,208
-	expanded=t
-	parent=Sociedades
-	x=1163,1070
-[Logica].[Sociedades]
-	c=73d3ac
-	dx=5303,4860
-	expanded=t
-	parent=Logica
-	x=67,160
-[Logica].[Modelos Informativos - Declarados]
-	dx=390,208
-	expanded=t
-	parent=Modelos Informativos
-	x=10,1677
-[Logica].[Visión declarado - Modelos informativos]
-	dx=298,118
-	expanded=t
-	parent=Modelos Informativos
-	x=113,197
-[Logica].[Modelo 140 - Declarantes]
-	dx=366,208
-	expanded=t
-	parent=Modelo 140 - Libro de registros de operaciones económicas
-	x=427,292
-[Logica].[Modelo 140 - Actividades]
-	dx=377,208
-	expanded=t
-	parent=Modelo 140 - Libro de registros de operaciones económicas
-	x=10,292
-[Logica].[Modelo 140 - Agrupaciones]
-	dx=307,208
-	expanded=t
-	parent=Modelo 140 - Libro de registros de operaciones económicas
-	x=374,762
-[Logica].[Modelo 140 - Ingresos]
-	dx=351,208
-	expanded=t
-	parent=Modelo 140 - Libro de registros de operaciones económicas
-	x=10,527
-[Logica].[Modelo 140 - Gastos]
-	dx=344,208
-	expanded=t
-	parent=Modelo 140 - Libro de registros de operaciones económicas
-	x=401,527
 [Logica].[Modelo 140 - Bienes]
 	dx=324,208
 	expanded=t
@@ -4260,6 +4165,64 @@
 	expanded=t
 	parent=Modelo 159 - Declaración anual de consumo de energía eléctrica
 	x=10,57
+[Logica].[Modelo 190 - Carátula]
+	dx=349,208
+	expanded=t
+	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
+	x=10,57
+[Logica].[Modelo 190 - Resumen]
+	dx=529,208
+	expanded=t
+	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
+	x=6839,4130
+[Logica].[Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas]
+	c=758698
+	dx=7378,4348
+	expanded=t
+	parent=Modelos Informativos
+	x=10,771
+[Logica].[Modelo 192 - Carátula]
+	dx=600,208
+	expanded=t
+	parent=Modelo 192 - Declaración anual de operaciones con Letras del Tesoro
+	x=10,57
+[Logica].[Modelo 194 - Detalles]
+	dx=338,208
+	expanded=t
+	parent=Modelo 194 - Capital mobiliario rendimientos implícitos
+	x=10,57
+[Logica].[Modelo 194 - Resumen]
+	dx=471,64
+	expanded=t
+	parent=Modelo 194 - Capital mobiliario rendimientos implícitos
+	x=6134,4190
+[Logica].[Modelo 194 - Capital mobiliario rendimientos implícitos]
+	c=73d3ac
+	dx=6615,4264
+	expanded=t
+	parent=Modelos Informativos
+	x=775,771
+[Logica].[Modelo 196 - Carátula]
+	dx=312,208
+	expanded=t
+	parent=Modelo 196 - Cuentas en instituciones financieras
+	x=10,57
+[Logica].[Modelo 196 - Resumen]
+	dx=374,208
+	expanded=t
+	parent=Modelo 196 - Cuentas en instituciones financieras
+	x=5439,3918
+[Logica].[Modelo 196 - Cuentas en instituciones financieras]
+	c=568ef6
+	dx=5823,4136
+	expanded=t
+	parent=Modelos Informativos
+	x=1500,1073
+[Logica].[Modelo 198 - Carátula]
+	dx=318,208
+	expanded=t
+	parent=Modelo 198 - Activos financieros
+	x=371,57
 [Logica].[Modelo 159 - Detalles]
 	dx=304,208
 	expanded=t
@@ -4339,7 +4302,9 @@
 	dx=6803,4525
 	expanded=t
 	parent=Modelos Informativos
+	view=0,0
 	x=473,498
+	zoom=1.000000
 [Logica].[Modelo 182 - Carátula]
 	dx=262,208
 	expanded=t
@@ -4356,22 +4321,97 @@
 	expanded=t
 	parent=Modelos Informativos
 	x=721,1375
-[Logica].[Modelo 184 - Carátula]
-	dx=997,208
+[Logica].[Modelo 198 - Detalle]
+	dx=321,208
 	expanded=t
-	parent=Modelo 184 - IRPF Sociedades e IRNR
-	x=10,292
-[Logica].[Modelo 184 - Detalles]
-	dx=1007,208
-	expanded=t
-	parent=Modelo 184 - IRPF Sociedades e IRNR
+	parent=Modelo 198 - Activos financieros
 	x=10,57
-[Logica].[Modelo 184 - IRPF Sociedades e IRNR]
-	c=9bdfc4
-	dx=1027,510
+[Logica].[Modelo 198 - Activos financieros]
+	c=99b2c7
+	dx=699,275
 	expanded=t
 	parent=Modelos Informativos
-	x=271,172
+	view=0,0
+	x=413,497
+	zoom=1.000000
+[Logica].[Modelo 199 - Carátula]
+	dx=600,208
+	expanded=t
+	parent=Modelo 199 - Identificación de operaciones en entidades de crédito
+	x=10,57
+[Logica].[Modelo 199 - Detalle]
+	dx=592,208
+	expanded=t
+	parent=Modelo 199 - Identificación de operaciones en entidades de crédito
+	x=10,292
+[Logica].[Modelo 199 - Resumen]
+	dx=477,82
+	expanded=t
+	parent=Modelo 199 - Identificación de operaciones en entidades de crédito
+	x=6316,4343
+[Logica].[Modelo 199 - Identificación de operaciones en entidades de crédito]
+	c=758698
+	dx=6803,4435
+	expanded=t
+	parent=Modelos Informativos
+	x=653,678
+[Logica].[Modelo 270 - Carátula]
+	dx=569,208
+	expanded=t
+	parent=Modelo 270 - Gravament apuestas y loterías
+	x=10,57
+[Logica].[Modelo 270 - Detalles]
+	dx=567,208
+	expanded=t
+	parent=Modelo 270 - Gravament apuestas y loterías
+	x=619,57
+[Logica].[Modelo 349 - Resumen]
+	dx=582,154
+	expanded=t
+	parent=Modelo 349 - Operaciones intracomunitarias
+	x=7009,4921
+[Logica].[Modelo 349 - Operaciones intracomunitarias]
+	c=9bdfc4
+	dx=7601,5085
+	expanded=t
+	parent=Modelos Informativos
+	view=0,0
+	x=20,160
+	zoom=1.000000
+[Logica].[Modelo 720 - Carátula]
+	dx=569,208
+	expanded=t
+	parent=Modelo 720 - Bienes y derechos situados en el extranjero
+	x=10,57
+[Logica].[Modelo 720 - Detalles]
+	dx=562,208
+	expanded=t
+	parent=Modelo 720 - Bienes y derechos situados en el extranjero
+	x=619,57
+[Logica].[Modelo 720 - Bienes y derechos situados en el extranjero]
+	c=73d3ac
+	dx=1191,275
+	expanded=t
+	parent=Modelos Informativos
+	view=0,0
+	x=833,858
+	zoom=1.000000
+[Logica].[Modelo 781 - Carátula]
+	dx=600,208
+	expanded=t
+	parent=Modelo 781 - Declaración informativa de cuentas vivienda
+	x=10,57
+[Logica].[Modelo 781 - Detalles]
+	dx=592,208
+	expanded=t
+	parent=Modelo 781 - Declaración informativa de cuentas vivienda
+	x=10,292
+[Logica].[Modelo 781 - Declaración informativa de cuentas vivienda]
+	c=89c6fd
+	dx=620,510
+	expanded=t
+	parent=Modelos Informativos
+	x=200,281
 [Logica].[Modelo 187 - Carátula]
 	dx=312,208
 	expanded=t
@@ -4420,27 +4460,22 @@
 	expanded=t
 	parent=Modelos Informativos
 	x=323,407
-[Logica].[Modelo 190 - Carátula]
-	dx=349,208
+[Logica].[Modelo 184 - Carátula]
+	dx=997,208
 	expanded=t
-	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
+	parent=Modelo 184 - IRPF Sociedades e IRNR
+	x=10,292
+[Logica].[Modelo 184 - Detalles]
+	dx=1007,208
+	expanded=t
+	parent=Modelo 184 - IRPF Sociedades e IRNR
 	x=10,57
-[Logica].[Modelo 190 - Resumen]
-	dx=529,208
-	expanded=t
-	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
-	x=6839,4130
-[Logica].[Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas]
-	c=758698
-	dx=7378,4348
+[Logica].[Modelo 184 - IRPF Sociedades e IRNR]
+	c=9bdfc4
+	dx=1027,510
 	expanded=t
 	parent=Modelos Informativos
-	x=10,771
-[Logica].[Modelo 192 - Carátula]
-	dx=600,208
-	expanded=t
-	parent=Modelo 192 - Declaración anual de operaciones con Letras del Tesoro
-	x=10,57
+	x=271,172
 [Logica].[Modelo 192 - Detalles]
 	dx=592,208
 	expanded=t
@@ -4473,87 +4508,6 @@
 	expanded=t
 	parent=Modelo 194 - Capital mobiliario rendimientos implícitos
 	x=388,57
-[Logica].[Modelo 194 - Detalles]
-	dx=338,208
-	expanded=t
-	parent=Modelo 194 - Capital mobiliario rendimientos implícitos
-	x=10,57
-[Logica].[Modelo 194 - Resumen]
-	dx=471,64
-	expanded=t
-	parent=Modelo 194 - Capital mobiliario rendimientos implícitos
-	x=6134,4190
-[Logica].[Modelo 194 - Capital mobiliario rendimientos implícitos]
-	c=73d3ac
-	dx=6615,4264
-	expanded=t
-	parent=Modelos Informativos
-	x=775,771
-[Logica].[Modelo 196 - Carátula]
-	dx=312,208
-	expanded=t
-	parent=Modelo 196 - Cuentas en instituciones financieras
-	x=10,57
-[Logica].[Modelo 196 - Resumen]
-	dx=374,208
-	expanded=t
-	parent=Modelo 196 - Cuentas en instituciones financieras
-	x=5439,3918
-[Logica].[Modelo 196 - Cuentas en instituciones financieras]
-	c=568ef6
-	dx=5823,4136
-	expanded=t
-	parent=Modelos Informativos
-	x=1500,1073
-[Logica].[Modelo 198 - Carátula]
-	dx=318,208
-	expanded=t
-	parent=Modelo 198 - Activos financieros
-	x=371,57
-[Logica].[Modelo 198 - Detalle]
-	dx=321,208
-	expanded=t
-	parent=Modelo 198 - Activos financieros
-	x=10,57
-[Logica].[Modelo 198 - Activos financieros]
-	c=99b2c7
-	dx=699,275
-	expanded=t
-	parent=Modelos Informativos
-	view=0,0
-	x=413,497
-	zoom=1.000000
-[Logica].[Modelo 199 - Carátula]
-	dx=600,208
-	expanded=t
-	parent=Modelo 199 - Identificación de operaciones en entidades de crédito
-	x=10,57
-[Logica].[Modelo 199 - Detalle]
-	dx=592,208
-	expanded=t
-	parent=Modelo 199 - Identificación de operaciones en entidades de crédito
-	x=10,292
-[Logica].[Modelo 199 - Resumen]
-	dx=477,82
-	expanded=t
-	parent=Modelo 199 - Identificación de operaciones en entidades de crédito
-	x=6316,4343
-[Logica].[Modelo 199 - Identificación de operaciones en entidades de crédito]
-	c=758698
-	dx=6803,4435
-	expanded=t
-	parent=Modelos Informativos
-	x=653,678
-[Logica].[Modelo 270 - Carátula]
-	dx=569,208
-	expanded=t
-	parent=Modelo 270 - Gravament apuestas y loterías
-	x=10,57
-[Logica].[Modelo 270 - Detalles]
-	dx=567,208
-	expanded=t
-	parent=Modelo 270 - Gravament apuestas y loterías
-	x=619,57
 [Logica].[Modelo 270 - Gravament apuestas y loterías]
 	c=99f7ff
 	dx=1196,275
@@ -4659,53 +4613,6 @@
 	expanded=t
 	parent=Modelo 349 - Operaciones intracomunitarias
 	x=387,190
-[Logica].[Modelo 349 - Resumen]
-	dx=582,154
-	expanded=t
-	parent=Modelo 349 - Operaciones intracomunitarias
-	x=7009,4921
-[Logica].[Modelo 349 - Operaciones intracomunitarias]
-	c=9bdfc4
-	dx=7601,5085
-	expanded=t
-	parent=Modelos Informativos
-	view=0,0
-	x=20,160
-	zoom=1.000000
-[Logica].[Modelo 720 - Carátula]
-	dx=569,208
-	expanded=t
-	parent=Modelo 720 - Bienes y derechos situados en el extranjero
-	x=10,57
-[Logica].[Modelo 720 - Detalles]
-	dx=562,208
-	expanded=t
-	parent=Modelo 720 - Bienes y derechos situados en el extranjero
-	x=619,57
-[Logica].[Modelo 720 - Bienes y derechos situados en el extranjero]
-	c=73d3ac
-	dx=1191,275
-	expanded=t
-	parent=Modelos Informativos
-	view=0,0
-	x=833,858
-	zoom=1.000000
-[Logica].[Modelo 781 - Carátula]
-	dx=600,208
-	expanded=t
-	parent=Modelo 781 - Declaración informativa de cuentas vivienda
-	x=10,57
-[Logica].[Modelo 781 - Detalles]
-	dx=592,208
-	expanded=t
-	parent=Modelo 781 - Declaración informativa de cuentas vivienda
-	x=10,292
-[Logica].[Modelo 781 - Declaración informativa de cuentas vivienda]
-	c=89c6fd
-	dx=620,510
-	expanded=t
-	parent=Modelos Informativos
-	x=200,281
 [Logica].[Modelo 848 - Carátula]
 	dx=390,208
 	expanded=t
@@ -4745,16 +4652,26 @@
 	expanded=t
 	parent=Modelos Liquidativos No residentes
 	x=445,57
-[Logica].[Datos económicos - Detalles]
-	dx=395,208
+[Logica].[Modelo 100 - Carátula]
+	dx=344,208
 	expanded=t
-	parent=Modelos Liquidativos No residentes
-	x=10,57
-[Logica].[Datos económicos - Todas las casillas]
-	dx=324,136
-	expanded=t
-	parent=Modelos Liquidativos No residentes
+	parent=Modelo 100 - IRPF
 	x=10,292
+[Logica].[Anexo E - Ganancias y pérdidas patrimoniales]
+	dx=662,208
+	expanded=t
+	parent=Modelo 100 - IRPF - Anexos
+	x=12483,7158
+[Logica].[Anexo F - Imputación de rentas]
+	dx=462,208
+	expanded=t
+	parent=Modelo 100 - IRPF - Anexos
+	x=130,162
+[Logica].[Anexo I - Reducciones]
+	dx=583,208
+	expanded=t
+	parent=Modelo 100 - IRPF - Anexos
+	x=160,192
 [Logica].[Datos censales]
 	dx=192,208
 	expanded=t
@@ -4771,6 +4688,16 @@
 	expanded=t
 	parent=Retenciones
 	x=434,57
+[Logica].[Datos económicos - Detalles]
+	dx=395,208
+	expanded=t
+	parent=Modelos Liquidativos No residentes
+	x=10,57
+[Logica].[Datos económicos - Todas las casillas]
+	dx=324,136
+	expanded=t
+	parent=Modelos Liquidativos No residentes
+	x=10,292
 [Logica].[Retenciones - Detalles]
 	dx=384,208
 	expanded=t
@@ -4803,11 +4730,6 @@
 	expanded=t
 	parent=IRPF
 	x=287,363
-[Logica].[Modelo 100 - Carátula]
-	dx=344,208
-	expanded=t
-	parent=Modelo 100 - IRPF
-	x=10,292
 [Logica].[Modelo 100 - Detalles]
 	dx=960,208
 	expanded=t
@@ -4853,75 +4775,24 @@
 	expanded=t
 	parent=Modelo 100 - IRPF - Anexos
 	x=12453,7128
-[Logica].[Anexo E - Ganancias y pérdidas patrimoniales]
-	dx=662,208
+[Logica].[Recaudación - Deudas envíos aytos]
+	dx=326,208
 	expanded=t
-	parent=Modelo 100 - IRPF - Anexos
-	x=12483,7158
-[Logica].[Anexo F - Imputación de rentas]
-	dx=462,208
-	expanded=t
-	parent=Modelo 100 - IRPF - Anexos
-	x=130,162
-[Logica].[Anexo I - Reducciones]
-	dx=583,208
-	expanded=t
-	parent=Modelo 100 - IRPF - Anexos
-	x=160,192
-[Logica].[Anexo M - Deducciones]
-	dx=574,208
-	expanded=t
-	parent=Anexo M - Deduciones de la cuota
-	x=10,57
-[Logica].[Anexo M - Deducciones - Detalle por titular]
-	dx=445,208
-	expanded=t
-	parent=Anexo M - Deduciones de la cuota
-	x=585,292
-[Logica].[Anexo M - Deducciones por vivienda]
-	dx=570,208
-	expanded=t
-	parent=Anexo M - Deduciones de la cuota
-	x=624,57
-[Logica].[Anexo M - Deducciones por vivienda detalle]
-	dx=535,208
-	expanded=t
-	parent=Anexo M - Deduciones de la cuota
-	x=10,292
-[Logica].[Anexo M - Deduciones de la cuota]
-	c=758698
-	dx=1204,510
-	expanded=t
-	parent=Modelo 100 - IRPF - Anexos
-	x=190,222
-[Logica].[Modelo 100 - IRPF - Anexos]
-	c=527ca5
-	dx=27913,17074
-	expanded=t
-	parent=Modelo 100 - IRPF
-	x=14646,9228
-[Logica].[Modelo 100 - IRPF]
-	c=d8a77d
-	dx=42569,26312
-	expanded=t
-	parent=IRPF
-	x=10,42
-[Logica].[IRPF]
-	c=bf8cbc
-	dx=42589,26364
+	parent=Recaudación
+	x=830,675
+[Logica].[Recaudación]
+	c=89c6fd
+	dx=14137,10030
 	expanded=t
 	parent=Logica
-	x=777,774
-[Logica].[Recaudación - Deudas]
-	dx=376,208
+	view=0,0
+	x=67,219
+	zoom=1.000000
+[Logica].[Carátula]
+	dx=291,208
 	expanded=t
-	parent=Recaudación
-	x=460,259
-[Logica].[Recaudación - Obligados tributarios]
-	dx=380,208
-	expanded=t
-	parent=Recaudación
-	x=40,259
+	parent=IVA
+	x=582,57
 [Logica].[Recaudación - Desglose de la deuda]
 	dx=316,208
 	expanded=t
@@ -5057,22 +4928,21 @@
 	expanded=t
 	parent=Recaudación
 	x=743,591
-[Logica].[Notificaciones]
-	dx=273,208
+[Logica].[Anexo M - Deducciones]
+	dx=574,208
 	expanded=t
-	parent=Recaudación - Notificaciones
+	parent=Anexo M - Deduciones de la cuota
 	x=10,57
-[Logica].[Recaudación - Notificaciones]
-	c=73d3ac
-	dx=293,275
+[Logica].[Anexo M - Deducciones - Detalle por titular]
+	dx=445,208
 	expanded=t
-	parent=Recaudación
-	x=803,651
-[Logica].[Maestro Expedientes Z6]
-	dx=323,208
+	parent=Anexo M - Deduciones de la cuota
+	x=585,292
+[Logica].[Anexo M - Deducciones por vivienda]
+	dx=570,208
 	expanded=t
-	parent=Recaudación - Expedientes Z6
-	x=6196,4223
+	parent=Anexo M - Deduciones de la cuota
+	x=624,57
 [Logica].[Expedientes Z6]
 	dx=288,208
 	expanded=t
@@ -5094,6 +4964,45 @@
 	expanded=t
 	parent=Recaudación
 	x=1073,921
+[Logica].[Anexo M - Deducciones por vivienda detalle]
+	dx=535,208
+	expanded=t
+	parent=Anexo M - Deduciones de la cuota
+	x=10,292
+[Logica].[Anexo M - Deduciones de la cuota]
+	c=758698
+	dx=1204,510
+	expanded=t
+	parent=Modelo 100 - IRPF - Anexos
+	x=190,222
+[Logica].[Modelo 100 - IRPF - Anexos]
+	c=527ca5
+	dx=27913,17074
+	expanded=t
+	parent=Modelo 100 - IRPF
+	x=14646,9228
+[Logica].[Modelo 100 - IRPF]
+	c=d8a77d
+	dx=42569,26312
+	expanded=t
+	parent=IRPF
+	x=10,42
+[Logica].[IRPF]
+	c=bf8cbc
+	dx=42589,26364
+	expanded=t
+	parent=Logica
+	x=777,774
+[Logica].[Recaudación - Deudas]
+	dx=376,208
+	expanded=t
+	parent=Recaudación
+	x=460,259
+[Logica].[Recaudación - Obligados tributarios]
+	dx=380,208
+	expanded=t
+	parent=Recaudación
+	x=40,259
 [Logica].[RD - Expedientes]
 	dx=238,208
 	expanded=t
@@ -5120,24 +5029,71 @@
 	expanded=t
 	parent=Recaudación
 	x=7329,5204
-[Logica].[Recaudación - Deudas envíos aytos]
-	dx=326,208
+[Logica].[Notificaciones]
+	dx=273,208
+	expanded=t
+	parent=Recaudación - Notificaciones
+	x=10,57
+[Logica].[Recaudación - Notificaciones]
+	c=73d3ac
+	dx=293,275
 	expanded=t
 	parent=Recaudación
-	x=830,675
-[Logica].[Recaudación]
+	x=803,651
+[Logica].[Maestro Expedientes Z6]
+	dx=323,208
+	expanded=t
+	parent=Recaudación - Expedientes Z6
+	x=6196,4223
+[Logica].[Patrimonio - Modelo 714 - Detalles]
+	dx=474,208
+	expanded=t
+	parent=Datos fiscales
+	x=10,57
+[Logica].[Patrimonio - Modelo 714 - Todas las casillas]
+	dx=319,154
+	expanded=t
+	parent=Datos fiscales
+	x=10,292
+[Logica].[Datos fiscales]
+	c=9bdfc4
+	dx=993,456
+	expanded=t
+	parent=Modelo 714
+	x=10,42
+[Logica].[Patrimonio - Modelo 714 - Anexos]
+	dx=371,208
+	expanded=t
+	parent=Anexos
+	x=10,57
+[Logica].[Anexos]
+	c=d8a77d
+	dx=391,275
+	expanded=t
+	parent=Modelo 714
+	x=130,162
+[Logica].[Modelo 714]
+	c=758698
+	dx=1013,508
+	expanded=t
+	parent=Patrimonio
+	x=6266,4385
+[Logica].[Patrimonio]
 	c=89c6fd
-	dx=14137,10030
+	dx=7289,4903
 	expanded=t
 	parent=Logica
-	view=0,0
-	x=67,219
-	zoom=1.000000
-[Logica].[Carátula]
-	dx=291,208
+	x=630,630
+[Logica].[Urbano Histórico]
+	dx=403,208
 	expanded=t
-	parent=IVA
-	x=582,57
+	parent=Catastro
+	x=829,345
+[Logica].[Valoraciones]
+	dx=450,208
+	expanded=t
+	parent=Catastro
+	x=6479,4541
 [Logica].[IVA - Detalles]
 	dx=532,208
 	expanded=t
@@ -5200,26 +5156,16 @@
 	expanded=t
 	parent=Logica
 	x=1177,1211
-[Logica].[Rústico]
-	dx=526,208
-	expanded=t
-	parent=Catastro
-	x=263,345
 [Logica].[Urbano]
 	dx=336,208
 	expanded=t
 	parent=Catastro
 	x=263,580
-[Logica].[Urbano Histórico]
-	dx=403,208
+[Logica].[Rústico]
+	dx=526,208
 	expanded=t
 	parent=Catastro
-	x=829,345
-[Logica].[Valoraciones]
-	dx=450,208
-	expanded=t
-	parent=Catastro
-	x=6479,4541
+	x=263,345
 [Logica].[Expedientes]
 	dx=202,208
 	expanded=t
@@ -5241,45 +5187,6 @@
 	expanded=t
 	parent=Datos fiscales
 	x=524,57
-[Logica].[Patrimonio - Modelo 714 - Detalles]
-	dx=474,208
-	expanded=t
-	parent=Datos fiscales
-	x=10,57
-[Logica].[Patrimonio - Modelo 714 - Todas las casillas]
-	dx=319,154
-	expanded=t
-	parent=Datos fiscales
-	x=10,292
-[Logica].[Datos fiscales]
-	c=9bdfc4
-	dx=993,456
-	expanded=t
-	parent=Modelo 714
-	x=10,42
-[Logica].[Patrimonio - Modelo 714 - Anexos]
-	dx=371,208
-	expanded=t
-	parent=Anexos
-	x=10,57
-[Logica].[Anexos]
-	c=d8a77d
-	dx=391,275
-	expanded=t
-	parent=Modelo 714
-	x=130,162
-[Logica].[Modelo 714]
-	c=758698
-	dx=1013,508
-	expanded=t
-	parent=Patrimonio
-	x=6266,4385
-[Logica].[Patrimonio]
-	c=89c6fd
-	dx=7289,4903
-	expanded=t
-	parent=Logica
-	x=630,630
 [Logica].[Lógica Vision NIF]
 	dx=652,208
 	expanded=t
@@ -5308,6 +5215,56 @@
 	view=0,0
 	x=1163,1400
 	zoom=1.000000
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Carátula]
+	dx=405,208
+	expanded=t
+	parent=Sociedades
+	x=10,3973
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Relación de administradores]
+	dx=387,136
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=3898,1149
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Participaciones de la declarante en otras entidades]
+	dx=519,208
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=3928,1179
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Socios o partícipes de la declarante]
+	dx=428,172
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=3958,1209
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Operaciones paraisos fiscales]
+	dx=396,136
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=3988,1239
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Tenencia paraisos fiscales]
+	dx=375,136
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=4018,1269
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Relación de establecimientos]
+	dx=391,172
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=4048,1299
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Buques]
+	dx=312,100
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=3474,1398
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Operaciones entidades vinculadas]
+	dx=422,208
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=4078,1329
+[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Imputación de rentas - Socios o partícipes de la declarante]
+	dx=564,172
+	expanded=t
+	parent=Sociedades, Modelo 200
+	x=4108,1359
 [Logica].[Conceptos Transversales]
 	dx=502,208
 	expanded=t
@@ -5412,56 +5369,6 @@
 	expanded=t
 	parent=NM Sistema Informacional DHyF - DFB
 	x=20,42
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Carátula]
-	dx=405,208
-	expanded=t
-	parent=Sociedades
-	x=10,3973
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Relación de administradores]
-	dx=387,136
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=3898,1149
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Participaciones de la declarante en otras entidades]
-	dx=519,208
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=3928,1179
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Socios o partícipes de la declarante]
-	dx=428,172
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=3958,1209
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Operaciones paraisos fiscales]
-	dx=396,136
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=3988,1239
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Tenencia paraisos fiscales]
-	dx=375,136
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=4018,1269
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Relación de establecimientos]
-	dx=391,172
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=4048,1299
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Buques]
-	dx=312,100
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=3474,1398
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Operaciones entidades vinculadas]
-	dx=422,208
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=4078,1329
-[NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200 - Imputación de rentas - Socios o partícipes de la declarante]
-	dx=564,172
-	expanded=t
-	parent=Sociedades, Modelo 200
-	x=4108,1359
 [NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 200]
 	dx=1024,208
 	expanded=t
@@ -5869,6 +5776,57 @@
 	expanded=t
 	parent=Sociedades, Modelo 220
 	x=4850,4717
+[NM Sistema Informacional DHyF - DFB].[Cabecera]
+	dx=231,208
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=150,111
+[NM Sistema Informacional DHyF - DFB].[Fianzas]
+	dx=192,190
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=180,141
+[NM Sistema Informacional DHyF - DFB].[Aplazamientos]
+	dx=249,136
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=210,171
+[NM Sistema Informacional DHyF - DFB].[Ejecutiva - OCULTADO, ELIMINAR CUANDO ESTÉ VALIDADO]
+	dx=464,208
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=240,201
+[NM Sistema Informacional DHyF - DFB].[Expedientes - Datos Generales]
+	dx=241,208
+	expanded=t
+	parent=Ejecutiva
+	x=7236,5246
+[NM Sistema Informacional DHyF - DFB].[Expedientes - Importes]
+	dx=196,136
+	expanded=t
+	parent=Ejecutiva
+	x=10,42
+[NM Sistema Informacional DHyF - DFB].[Expedientes - Actuaciones]
+	dx=313,208
+	expanded=t
+	parent=Ejecutiva
+	x=40,72
+[NM Sistema Informacional DHyF - DFB].[Expedientes - Notificaciones]
+	dx=228,208
+	expanded=t
+	parent=Ejecutiva
+	x=70,102
+[NM Sistema Informacional DHyF - DFB].[Ejecutiva]
+	c=568ef6
+	dx=7487,5464
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=510,471
+[NM Sistema Informacional DHyF - DFB].[Concursal - OCULTADO, ELIMINAR CUANDO ESTÉ VALIDADO]
+	dx=430,208
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=7186,5115
 [NM Sistema Informacional DHyF - DFB].[Sociedades - Modelo 220 - Bases imponibles negativas del grupo]
 	dx=444,190
 	expanded=t
@@ -6024,249 +5982,6 @@
 	expanded=t
 	parent=Recaudación
 	x=7156,5156
-[NM Sistema Informacional DHyF - DFB].[Cabecera]
-	dx=231,208
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=150,111
-[NM Sistema Informacional DHyF - DFB].[Fianzas]
-	dx=192,190
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=180,141
-[NM Sistema Informacional DHyF - DFB].[Aplazamientos]
-	dx=249,136
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=210,171
-[NM Sistema Informacional DHyF - DFB].[Ejecutiva - OCULTADO, ELIMINAR CUANDO ESTÉ VALIDADO]
-	dx=464,208
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=240,201
-[NM Sistema Informacional DHyF - DFB].[Expedientes - Datos Generales]
-	dx=241,208
-	expanded=t
-	parent=Ejecutiva
-	x=7236,5246
-[NM Sistema Informacional DHyF - DFB].[Expedientes - Importes]
-	dx=196,136
-	expanded=t
-	parent=Ejecutiva
-	x=10,42
-[NM Sistema Informacional DHyF - DFB].[Expedientes - Actuaciones]
-	dx=313,208
-	expanded=t
-	parent=Ejecutiva
-	x=40,72
-[NM Sistema Informacional DHyF - DFB].[Expedientes - Notificaciones]
-	dx=228,208
-	expanded=t
-	parent=Ejecutiva
-	x=70,102
-[NM Sistema Informacional DHyF - DFB].[Ejecutiva]
-	c=568ef6
-	dx=7487,5464
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=510,471
-[NM Sistema Informacional DHyF - DFB].[Concursal - OCULTADO, ELIMINAR CUANDO ESTÉ VALIDADO]
-	dx=430,208
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=7186,5115
-[NM Sistema Informacional DHyF - DFB].[Atributos de los Expedientes]
-	dx=323,208
-	expanded=t
-	parent=Concursal
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[Concursos - Convenios]
-	dx=311,208
-	expanded=t
-	parent=Concursal
-	x=10,292
-[NM Sistema Informacional DHyF - DFB].[Concursos - Deudas]
-	dx=316,208
-	expanded=t
-	parent=Concursal
-	x=373,57
-[NM Sistema Informacional DHyF - DFB].[Concursos - Masa Pasiva]
-	dx=229,208
-	expanded=t
-	parent=Concursal
-	x=361,292
-[NM Sistema Informacional DHyF - DFB].[Concursal]
-	c=bf8cbc
-	dx=699,510
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=270,231
-[NM Sistema Informacional DHyF - DFB].[Fallidos]
-	dx=222,64
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=300,261
-[NM Sistema Informacional DHyF - DFB].[Derivaciones - OCULTADO, ELIMINAR CUANDO ESTÉ VALIDADO]
-	dx=446,208
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=7216,5145
-[NM Sistema Informacional DHyF - DFB].[Atributos de los Expedientes de Derivaciones]
-	dx=329,208
-	expanded=t
-	parent=Derivaciones
-	x=10,42
-[NM Sistema Informacional DHyF - DFB].[Derivaciones - Documentos]
-	dx=335,208
-	expanded=t
-	parent=Derivaciones
-	x=240,329
-[NM Sistema Informacional DHyF - DFB].[Derivaciones - Cobros]
-	dx=311,208
-	expanded=t
-	parent=Derivaciones
-	x=40,72
-[NM Sistema Informacional DHyF - DFB].[Derivaciones]
-	c=758698
-	dx=585,547
-	expanded=t
-	parent=Recaudación - Expedientes
-	x=330,291
-[NM Sistema Informacional DHyF - DFB].[Recaudación - Expedientes]
-	c=758698
-	dx=8007,5945
-	expanded=t
-	parent=Recaudación
-	view=0,0
-	x=30,101
-	zoom=1.000000
-[NM Sistema Informacional DHyF - DFB].[Retenciones de otros organismos]
-	dx=259,208
-	expanded=t
-	parent=Recaudación
-	x=7186,5186
-[NM Sistema Informacional DHyF - DFB].[Envíos deudas ayuntamientos]
-	dx=318,208
-	expanded=t
-	parent=Recaudación
-	x=1140,1054
-[NM Sistema Informacional DHyF - DFB].[Recaudación]
-	c=d8a77d
-	dx=8047,6056
-	expanded=t
-	parent=NM Sistema Informacional DHyF - DFB
-	view=0,0
-	x=390,476
-	zoom=0.306286
-[NM Sistema Informacional DHyF - DFB].[Modelos Informativos - Declarados (identificados)]
-	dx=390,208
-	expanded=t
-	parent=Modelos Informativos
-	x=436,638
-[NM Sistema Informacional DHyF - DFB].[Visión declarado - Modelos informativos]
-	dx=298,118
-	expanded=t
-	parent=Modelos Informativos
-	x=690,648
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Presentación]
-	dx=347,208
-	expanded=t
-	parent=Modelo 140 - Libros registro de operaciones económicas
-	x=401,527
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Declarantes]
-	dx=366,208
-	expanded=t
-	parent=Modelo 140 - Libros registro de operaciones económicas
-	x=427,292
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Actividades]
-	dx=377,208
-	expanded=t
-	parent=Modelo 140 - Libros registro de operaciones económicas
-	x=10,292
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Ingresos]
-	dx=351,208
-	expanded=t
-	parent=Modelo 140 - Libros registro de operaciones económicas
-	x=10,527
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Gastos]
-	dx=344,208
-	expanded=t
-	parent=Modelo 140 - Libros registro de operaciones económicas
-	x=10,762
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Bienes]
-	dx=324,208
-	expanded=t
-	parent=Modelo 140 - Libros registro de operaciones económicas
-	x=394,762
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Provisiones de fondos y suplidos]
-	dx=548,208
-	expanded=t
-	parent=Modelo 140 - Libros registro de operaciones económicas
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Determinadas operaciones intracomunitarias]
-	dx=464,208
-	expanded=t
-	parent=Modelo 140 - Libros registro de operaciones económicas
-	x=598,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Libros registro de operaciones económicas]
-	c=bf8cbc
-	dx=1072,980
-	expanded=t
-	parent=Modelos Informativos
-	x=5220,5134
-[NM Sistema Informacional DHyF - DFB].[Modelo 159 - Carátula]
-	dx=318,208
-	expanded=t
-	parent=Modelo 159 - Declaración anual de consumo de energía eléctrica
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 159 - Detalles]
-	dx=304,208
-	expanded=t
-	parent=Modelo 159 - Declaración anual de consumo de energía eléctrica
-	x=368,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 159 - Declaración anual de consumo de energía eléctrica]
-	c=758698
-	dx=682,275
-	expanded=t
-	parent=Modelos Informativos
-	x=5250,5164
-[NM Sistema Informacional DHyF - DFB].[Modelo 170 - Carátula]
-	dx=600,208
-	expanded=t
-	parent=Modelo 170 - Operaciones con tarjetas de crédito
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 170 - Detalle]
-	dx=289,208
-	expanded=t
-	parent=Modelo 170 - Operaciones con tarjetas de crédito
-	x=10,292
-[NM Sistema Informacional DHyF - DFB].[Modelo 170 - Operaciones con tarjetas de crédito]
-	c=99f7ff
-	dx=620,510
-	expanded=t
-	parent=Modelos Informativos
-	x=5340,5254
-[NM Sistema Informacional DHyF - DFB].[Modelo 171 - Carátula]
-	dx=600,208
-	expanded=t
-	parent=Modelo 171 - Imposiciones, disposiciones, cobros y pagos
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 171 - Detalle]
-	dx=311,208
-	expanded=t
-	parent=Modelo 171 - Imposiciones, disposiciones, cobros y pagos
-	x=10,292
-[NM Sistema Informacional DHyF - DFB].[Modelo 171 - Resumen]
-	dx=312,100
-	expanded=t
-	parent=Modelo 171 - Imposiciones, disposiciones, cobros y pagos
-	x=361,292
-[NM Sistema Informacional DHyF - DFB].[Modelo 171 - Imposiciones, disposiciones, cobros y pagos]
-	c=73d3ac
-	dx=683,510
-	expanded=t
-	parent=Modelos Informativos
-	x=5430,5344
 [NM Sistema Informacional DHyF - DFB].[Modelo 180 - Carátula]
 	dx=347,208
 	expanded=t
@@ -6322,6 +6037,198 @@
 	view=0,0
 	x=466,668
 	zoom=1.000000
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Presentación]
+	dx=347,208
+	expanded=t
+	parent=Modelo 140 - Libros registro de operaciones económicas
+	x=401,527
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Declarantes]
+	dx=366,208
+	expanded=t
+	parent=Modelo 140 - Libros registro de operaciones económicas
+	x=427,292
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Actividades]
+	dx=377,208
+	expanded=t
+	parent=Modelo 140 - Libros registro de operaciones económicas
+	x=10,292
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Ingresos]
+	dx=351,208
+	expanded=t
+	parent=Modelo 140 - Libros registro de operaciones económicas
+	x=10,527
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Gastos]
+	dx=344,208
+	expanded=t
+	parent=Modelo 140 - Libros registro de operaciones económicas
+	x=10,762
+[NM Sistema Informacional DHyF - DFB].[Atributos de los Expedientes]
+	dx=323,208
+	expanded=t
+	parent=Concursal
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[Concursos - Convenios]
+	dx=311,208
+	expanded=t
+	parent=Concursal
+	x=10,292
+[NM Sistema Informacional DHyF - DFB].[Derivaciones - Cobros]
+	dx=311,208
+	expanded=t
+	parent=Derivaciones
+	x=40,72
+[NM Sistema Informacional DHyF - DFB].[Derivaciones]
+	c=758698
+	dx=585,547
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=330,291
+[NM Sistema Informacional DHyF - DFB].[Recaudación - Expedientes]
+	c=758698
+	dx=8007,5945
+	expanded=t
+	parent=Recaudación
+	view=0,0
+	x=30,101
+	zoom=1.000000
+[NM Sistema Informacional DHyF - DFB].[Retenciones de otros organismos]
+	dx=259,208
+	expanded=t
+	parent=Recaudación
+	x=7186,5186
+[NM Sistema Informacional DHyF - DFB].[Envíos deudas ayuntamientos]
+	dx=318,208
+	expanded=t
+	parent=Recaudación
+	x=1140,1054
+[NM Sistema Informacional DHyF - DFB].[Recaudación]
+	c=d8a77d
+	dx=8047,6056
+	expanded=t
+	parent=NM Sistema Informacional DHyF - DFB
+	view=0,0
+	x=390,476
+	zoom=0.306286
+[NM Sistema Informacional DHyF - DFB].[Modelos Informativos - Declarados (identificados)]
+	dx=390,208
+	expanded=t
+	parent=Modelos Informativos
+	x=436,638
+[NM Sistema Informacional DHyF - DFB].[Visión declarado - Modelos informativos]
+	dx=298,118
+	expanded=t
+	parent=Modelos Informativos
+	x=690,648
+[NM Sistema Informacional DHyF - DFB].[Modelo 159 - Detalles]
+	dx=304,208
+	expanded=t
+	parent=Modelo 159 - Declaración anual de consumo de energía eléctrica
+	x=368,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 159 - Declaración anual de consumo de energía eléctrica]
+	c=758698
+	dx=682,275
+	expanded=t
+	parent=Modelos Informativos
+	x=5250,5164
+[NM Sistema Informacional DHyF - DFB].[Modelo 170 - Carátula]
+	dx=600,208
+	expanded=t
+	parent=Modelo 170 - Operaciones con tarjetas de crédito
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 170 - Detalle]
+	dx=289,208
+	expanded=t
+	parent=Modelo 170 - Operaciones con tarjetas de crédito
+	x=10,292
+[NM Sistema Informacional DHyF - DFB].[Modelo 170 - Operaciones con tarjetas de crédito]
+	c=99f7ff
+	dx=620,510
+	expanded=t
+	parent=Modelos Informativos
+	x=5340,5254
+[NM Sistema Informacional DHyF - DFB].[Modelo 171 - Carátula]
+	dx=600,208
+	expanded=t
+	parent=Modelo 171 - Imposiciones, disposiciones, cobros y pagos
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 171 - Detalle]
+	dx=311,208
+	expanded=t
+	parent=Modelo 171 - Imposiciones, disposiciones, cobros y pagos
+	x=10,292
+[NM Sistema Informacional DHyF - DFB].[Modelo 171 - Resumen]
+	dx=312,100
+	expanded=t
+	parent=Modelo 171 - Imposiciones, disposiciones, cobros y pagos
+	x=361,292
+[NM Sistema Informacional DHyF - DFB].[Modelo 171 - Imposiciones, disposiciones, cobros y pagos]
+	c=73d3ac
+	dx=683,510
+	expanded=t
+	parent=Modelos Informativos
+	x=5430,5344
+[NM Sistema Informacional DHyF - DFB].[Concursos - Deudas]
+	dx=316,208
+	expanded=t
+	parent=Concursal
+	x=373,57
+[NM Sistema Informacional DHyF - DFB].[Concursos - Masa Pasiva]
+	dx=229,208
+	expanded=t
+	parent=Concursal
+	x=361,292
+[NM Sistema Informacional DHyF - DFB].[Concursal]
+	c=bf8cbc
+	dx=699,510
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=270,231
+[NM Sistema Informacional DHyF - DFB].[Fallidos]
+	dx=222,64
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=300,261
+[NM Sistema Informacional DHyF - DFB].[Derivaciones - OCULTADO, ELIMINAR CUANDO ESTÉ VALIDADO]
+	dx=446,208
+	expanded=t
+	parent=Recaudación - Expedientes
+	x=7216,5145
+[NM Sistema Informacional DHyF - DFB].[Atributos de los Expedientes de Derivaciones]
+	dx=329,208
+	expanded=t
+	parent=Derivaciones
+	x=10,42
+[NM Sistema Informacional DHyF - DFB].[Derivaciones - Documentos]
+	dx=335,208
+	expanded=t
+	parent=Derivaciones
+	x=240,329
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Bienes]
+	dx=324,208
+	expanded=t
+	parent=Modelo 140 - Libros registro de operaciones económicas
+	x=394,762
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Provisiones de fondos y suplidos]
+	dx=548,208
+	expanded=t
+	parent=Modelo 140 - Libros registro de operaciones económicas
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Determinadas operaciones intracomunitarias]
+	dx=464,208
+	expanded=t
+	parent=Modelo 140 - Libros registro de operaciones económicas
+	x=598,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 140 - Libros registro de operaciones económicas]
+	c=bf8cbc
+	dx=1072,980
+	expanded=t
+	parent=Modelos Informativos
+	x=5220,5134
+[NM Sistema Informacional DHyF - DFB].[Modelo 159 - Carátula]
+	dx=318,208
+	expanded=t
+	parent=Modelo 159 - Declaración anual de consumo de energía eléctrica
+	x=10,57
 [NM Sistema Informacional DHyF - DFB].[Modelo 184 - Carátula]
 	dx=997,208
 	expanded=t
@@ -6338,6 +6245,43 @@
 	expanded=t
 	parent=Modelos Informativos
 	x=5670,5584
+[NM Sistema Informacional DHyF - DFB].[Modelo 190 - Carátula]
+	dx=349,208
+	expanded=t
+	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 190 - Detalle]
+	dx=374,208
+	expanded=t
+	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
+	x=920,667
+[NM Sistema Informacional DHyF - DFB].[Modelo 190 - Resumen]
+	dx=529,208
+	expanded=t
+	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
+	x=7096,4907
+[NM Sistema Informacional DHyF - DFB].[Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas]
+	c=bf8cbc
+	dx=7635,5125
+	expanded=t
+	parent=Modelos Informativos
+	x=540,670
+[NM Sistema Informacional DHyF - DFB].[Modelo 192 - Carátula]
+	dx=600,208
+	expanded=t
+	parent=Modelo 192 - Operaciones con Letras del tesoro
+	x=5673,5632
+[NM Sistema Informacional DHyF - DFB].[Modelo 192 - Detalles]
+	dx=592,208
+	expanded=t
+	parent=Modelo 192 - Operaciones con Letras del tesoro
+	x=5703,5662
+[NM Sistema Informacional DHyF - DFB].[Modelo 192 - Operaciones con Letras del tesoro]
+	c=bf8cbc
+	dx=6305,5880
+	expanded=t
+	parent=Modelos Informativos
+	x=87,42
 [NM Sistema Informacional DHyF - DFB].[Modelo 187 - Carátula]
 	dx=312,208
 	expanded=t
@@ -6393,43 +6337,6 @@
 	view=0,0
 	x=900,858
 	zoom=1.000000
-[NM Sistema Informacional DHyF - DFB].[Modelo 190 - Carátula]
-	dx=349,208
-	expanded=t
-	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 190 - Detalle]
-	dx=374,208
-	expanded=t
-	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
-	x=920,667
-[NM Sistema Informacional DHyF - DFB].[Modelo 190 - Resumen]
-	dx=529,208
-	expanded=t
-	parent=Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas
-	x=7096,4907
-[NM Sistema Informacional DHyF - DFB].[Modelo 190 - Rendimientos del trabajo y actividades económicas, premios y determinadas ganancias patrimoniales e imputación de rentas]
-	c=bf8cbc
-	dx=7635,5125
-	expanded=t
-	parent=Modelos Informativos
-	x=540,670
-[NM Sistema Informacional DHyF - DFB].[Modelo 192 - Carátula]
-	dx=600,208
-	expanded=t
-	parent=Modelo 192 - Operaciones con Letras del tesoro
-	x=5673,5632
-[NM Sistema Informacional DHyF - DFB].[Modelo 192 - Detalles]
-	dx=592,208
-	expanded=t
-	parent=Modelo 192 - Operaciones con Letras del tesoro
-	x=5703,5662
-[NM Sistema Informacional DHyF - DFB].[Modelo 192 - Operaciones con Letras del tesoro]
-	c=bf8cbc
-	dx=6305,5880
-	expanded=t
-	parent=Modelos Informativos
-	x=87,42
 [NM Sistema Informacional DHyF - DFB].[Modelo 193 - Carátula]
 	dx=312,208
 	expanded=t
@@ -6472,117 +6379,6 @@
 	expanded=t
 	parent=Modelos Informativos
 	x=826,1028
-[NM Sistema Informacional DHyF - DFB].[Modelo 196 - Carátula]
-	dx=312,208
-	expanded=t
-	parent=Modelo 196 - Cuentas en instituciones financieras
-	x=385,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 196 - Detalle]
-	dx=311,208
-	expanded=t
-	parent=Modelo 196 - Cuentas en instituciones financieras
-	x=574,249
-[NM Sistema Informacional DHyF - DFB].[Modelo 196 - Resumen]
-	dx=374,208
-	expanded=t
-	parent=Modelo 196 - Cuentas en instituciones financieras
-	x=6810,4549
-[NM Sistema Informacional DHyF - DFB].[Modelo 196 - Cuentas en instituciones financieras]
-	c=758698
-	dx=7194,4767
-	expanded=t
-	parent=Modelos Informativos
-	x=916,1118
-[NM Sistema Informacional DHyF - DFB].[Modelo 198 - Carátula]
-	dx=318,208
-	expanded=t
-	parent=Modelo 198 - Operaciones con activos financieros
-	x=4830,4786
-[NM Sistema Informacional DHyF - DFB].[Modelo 198 - Detalle]
-	dx=321,208
-	expanded=t
-	parent=Modelo 198 - Operaciones con activos financieros
-	x=4860,4816
-[NM Sistema Informacional DHyF - DFB].[Modelo 198 - Operaciones con activos financieros]
-	c=89c6fd
-	dx=5191,5034
-	expanded=t
-	parent=Modelos Informativos
-	x=990,948
-[NM Sistema Informacional DHyF - DFB].[Modelo 199 - Carátula]
-	dx=600,208
-	expanded=t
-	parent=Modelo 199 - Identificación de operaciones con cheques
-	x=4230,4230
-[NM Sistema Informacional DHyF - DFB].[Modelo 199 - Detalle]
-	dx=301,208
-	expanded=t
-	parent=Modelo 199 - Identificación de operaciones con cheques
-	x=4260,4260
-[NM Sistema Informacional DHyF - DFB].[Modelo 199 - Resumen]
-	dx=477,82
-	expanded=t
-	parent=Modelo 199 - Identificación de operaciones con cheques
-	x=4290,4290
-[NM Sistema Informacional DHyF - DFB].[Modelo 199 - Identificación de operaciones con cheques]
-	c=99b2c7
-	dx=4840,4478
-	expanded=t
-	parent=Modelos Informativos
-	x=1650,1564
-[NM Sistema Informacional DHyF - DFB].[Modelo 270 - Carátula]
-	dx=319,208
-	expanded=t
-	parent=Modelo 270 - Gravamen apuestas y loterías
-	x=385,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 270 - Detalles]
-	dx=335,208
-	expanded=t
-	parent=Modelo 270 - Gravamen apuestas y loterías
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 270 - Gravamen apuestas y loterías]
-	c=9bdfc4
-	dx=714,275
-	expanded=t
-	parent=Modelos Informativos
-	x=1520,1397
-[NM Sistema Informacional DHyF - DFB].[Modelo 296 - Carátula]
-	dx=331,208
-	expanded=t
-	parent=Modelo 296 - Impuesto sobre la Renta de no residentes. No Residentes sin establecimiento permanente.
-	x=5506,5772
-[NM Sistema Informacional DHyF - DFB].[Modelo 296 - Detalle]
-	dx=337,208
-	expanded=t
-	parent=Modelo 296 - Impuesto sobre la Renta de no residentes. No Residentes sin establecimiento permanente.
-	x=5536,5802
-[NM Sistema Informacional DHyF - DFB].[Modelo 296 - Impuesto sobre la Renta de no residentes. No Residentes sin establecimiento permanente.]
-	c=89c6fd
-	dx=5883,6020
-	expanded=t
-	parent=Modelos Informativos
-	x=524,172
-[NM Sistema Informacional DHyF - DFB].[Modelo 340 - Carátula]
-	dx=356,208
-	expanded=t
-	parent=Modelo 340 - Facturas IVA
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[Modelo 340 - Detalle]
-	dx=381,208
-	expanded=t
-	parent=Modelo 340 - Facturas IVA
-	x=1100,1019
-[NM Sistema Informacional DHyF - DFB].[Modelo 340 - Facturas IVA]
-	c=99b2c7
-	dx=1491,1237
-	expanded=t
-	parent=Modelos Informativos
-	x=510,468
-[NM Sistema Informacional DHyF - DFB].[Modelo 345 - Carátula]
-	dx=335,208
-	expanded=t
-	parent=Modelo 345 - Planes de pensiones y EPSV
-	x=439,57
 [NM Sistema Informacional DHyF - DFB].[Modelo 345 - Detalle]
 	dx=389,208
 	expanded=t
@@ -6685,6 +6481,117 @@
 	expanded=t
 	parent=Modelo 781 - Cuentas vivienda y rehabilitaciones
 	x=474,292
+[NM Sistema Informacional DHyF - DFB].[Modelo 296 - Detalle]
+	dx=337,208
+	expanded=t
+	parent=Modelo 296 - Impuesto sobre la Renta de no residentes. No Residentes sin establecimiento permanente.
+	x=5536,5802
+[NM Sistema Informacional DHyF - DFB].[Modelo 296 - Impuesto sobre la Renta de no residentes. No Residentes sin establecimiento permanente.]
+	c=89c6fd
+	dx=5883,6020
+	expanded=t
+	parent=Modelos Informativos
+	x=524,172
+[NM Sistema Informacional DHyF - DFB].[Modelo 340 - Carátula]
+	dx=356,208
+	expanded=t
+	parent=Modelo 340 - Facturas IVA
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 340 - Detalle]
+	dx=381,208
+	expanded=t
+	parent=Modelo 340 - Facturas IVA
+	x=1100,1019
+[NM Sistema Informacional DHyF - DFB].[Modelo 340 - Facturas IVA]
+	c=99b2c7
+	dx=1491,1237
+	expanded=t
+	parent=Modelos Informativos
+	x=510,468
+[NM Sistema Informacional DHyF - DFB].[Modelo 345 - Carátula]
+	dx=335,208
+	expanded=t
+	parent=Modelo 345 - Planes de pensiones y EPSV
+	x=439,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 196 - Carátula]
+	dx=312,208
+	expanded=t
+	parent=Modelo 196 - Cuentas en instituciones financieras
+	x=385,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 196 - Detalle]
+	dx=311,208
+	expanded=t
+	parent=Modelo 196 - Cuentas en instituciones financieras
+	x=574,249
+[NM Sistema Informacional DHyF - DFB].[Modelo 196 - Resumen]
+	dx=374,208
+	expanded=t
+	parent=Modelo 196 - Cuentas en instituciones financieras
+	x=6810,4549
+[NM Sistema Informacional DHyF - DFB].[Modelo 196 - Cuentas en instituciones financieras]
+	c=758698
+	dx=7194,4767
+	expanded=t
+	parent=Modelos Informativos
+	x=916,1118
+[NM Sistema Informacional DHyF - DFB].[Modelo 198 - Carátula]
+	dx=318,208
+	expanded=t
+	parent=Modelo 198 - Operaciones con activos financieros
+	x=4830,4786
+[NM Sistema Informacional DHyF - DFB].[Modelo 198 - Detalle]
+	dx=321,208
+	expanded=t
+	parent=Modelo 198 - Operaciones con activos financieros
+	x=4860,4816
+[NM Sistema Informacional DHyF - DFB].[Modelo 198 - Operaciones con activos financieros]
+	c=89c6fd
+	dx=5191,5034
+	expanded=t
+	parent=Modelos Informativos
+	x=990,948
+[NM Sistema Informacional DHyF - DFB].[Modelo 199 - Carátula]
+	dx=600,208
+	expanded=t
+	parent=Modelo 199 - Identificación de operaciones con cheques
+	x=4230,4230
+[NM Sistema Informacional DHyF - DFB].[Modelo 199 - Detalle]
+	dx=301,208
+	expanded=t
+	parent=Modelo 199 - Identificación de operaciones con cheques
+	x=4260,4260
+[NM Sistema Informacional DHyF - DFB].[Modelo 199 - Resumen]
+	dx=477,82
+	expanded=t
+	parent=Modelo 199 - Identificación de operaciones con cheques
+	x=4290,4290
+[NM Sistema Informacional DHyF - DFB].[Modelo 199 - Identificación de operaciones con cheques]
+	c=99b2c7
+	dx=4840,4478
+	expanded=t
+	parent=Modelos Informativos
+	x=1650,1564
+[NM Sistema Informacional DHyF - DFB].[Modelo 270 - Carátula]
+	dx=319,208
+	expanded=t
+	parent=Modelo 270 - Gravamen apuestas y loterías
+	x=385,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 270 - Detalles]
+	dx=335,208
+	expanded=t
+	parent=Modelo 270 - Gravamen apuestas y loterías
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[Modelo 270 - Gravamen apuestas y loterías]
+	c=9bdfc4
+	dx=714,275
+	expanded=t
+	parent=Modelos Informativos
+	x=1520,1397
+[NM Sistema Informacional DHyF - DFB].[Modelo 296 - Carátula]
+	dx=331,208
+	expanded=t
+	parent=Modelo 296 - Impuesto sobre la Renta de no residentes. No Residentes sin establecimiento permanente.
+	x=5506,5772
 [NM Sistema Informacional DHyF - DFB].[Modelo 781 - Detalle rehabilitaciones]
 	dx=424,208
 	expanded=t
@@ -6735,6 +6642,33 @@
 	expanded=t
 	parent=No residentes
 	x=462,57
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo C - Arrendamientos inmuebles (Arrendatario)]
+	dx=463,208
+	expanded=t
+	parent=IRPF - Anexo C - Rendimiento de capital inmobiliario
+	x=567,57
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo C - Rendimiento de capital inmobiliario]
+	c=527ca5
+	dx=1040,275
+	expanded=t
+	parent=IRPF - Modelo 100 - Anexos
+	x=664,594
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo D - Arrendamientos inmuebles (Arrendador)]
+	dx=446,208
+	expanded=t
+	parent=IRPF - Anexo D - Rendimiento de actividades económicas
+	x=10,292
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo D - Rendimientos netos de actividades económicas]
+	dx=594,208
+	expanded=t
+	parent=IRPF - Anexo D - Rendimiento de actividades económicas
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo D - Rendimiento de actividades económicas]
+	c=9bdfc4
+	dx=614,510
+	expanded=t
+	parent=IRPF - Modelo 100 - Anexos
+	x=10,594
 [NM Sistema Informacional DHyF - DFB].[No residentes - Detalles]
 	dx=412,208
 	expanded=t
@@ -6798,16 +6732,6 @@
 	expanded=t
 	parent=IRPF - Modelo 100
 	x=10,1903
-[NM Sistema Informacional DHyF - DFB].[IRPF - Modelo 100 - Detalles]
-	dx=786,208
-	expanded=t
-	parent=IRPF - Modelo 100
-	x=1764,57
-[NM Sistema Informacional DHyF - DFB].[IRPF - Modelo 100 - Persona relacionada]
-	dx=355,208
-	expanded=t
-	parent=IRPF - Modelo 100
-	x=445,1903
 [NM Sistema Informacional DHyF - DFB].[IRPF - Anexo A - Retenciones del trabajo]
 	dx=498,208
 	expanded=t
@@ -6823,58 +6747,39 @@
 	expanded=t
 	parent=IRPF - Anexo C - Rendimiento de capital inmobiliario
 	x=10,57
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo C - Arrendamientos inmuebles (Arrendatario)]
-	dx=463,208
+[NM Sistema Informacional DHyF - DFB].[Valoraciones]
+	dx=388,208
 	expanded=t
-	parent=IRPF - Anexo C - Rendimiento de capital inmobiliario
-	x=567,57
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo C - Rendimiento de capital inmobiliario]
-	c=527ca5
-	dx=1040,275
+	parent=Catastro
+	x=1620,1617
+[NM Sistema Informacional DHyF - DFB].[Expedientes]
+	dx=267,208
 	expanded=t
-	parent=IRPF - Modelo 100 - Anexos
-	x=664,594
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo D - Arrendamientos inmuebles (Arrendador)]
-	dx=446,208
+	parent=Catastro
+	x=1650,1647
+[NM Sistema Informacional DHyF - DFB].[Historial de actividad]
+	dx=328,208
 	expanded=t
-	parent=IRPF - Anexo D - Rendimiento de actividades económicas
-	x=10,292
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo D - Rendimientos netos de actividades económicas]
-	dx=594,208
+	parent=Catastro
+	x=10,42
+[NM Sistema Informacional DHyF - DFB].[Catastro]
+	c=73d3ac
+	dx=2652,2103
 	expanded=t
-	parent=IRPF - Anexo D - Rendimiento de actividades económicas
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo D - Rendimiento de actividades económicas]
-	c=9bdfc4
-	dx=614,510
+	parent=NM Sistema Informacional DHyF - DFB
+	view=0,0
+	x=2520,2520
+	zoom=1.000000
+[NM Sistema Informacional DHyF - DFB].[IRPF - Modelo 100 - Detalles]
+	dx=786,208
 	expanded=t
-	parent=IRPF - Modelo 100 - Anexos
-	x=10,594
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo E - Ganancias y pérdidas patrimoniales]
-	dx=573,208
+	parent=IRPF - Modelo 100
+	x=1764,57
+[NM Sistema Informacional DHyF - DFB].[IRPF - Modelo 100 - Persona relacionada]
+	dx=355,208
 	expanded=t
-	parent=IRPF - Modelo 100 - Anexos
-	x=10,1366
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo F - Imputación de rentas]
-	dx=462,208
-	expanded=t
-	parent=IRPF - Modelo 100 - Anexos
-	x=10,1601
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo I - Reducciones]
-	dx=583,208
-	expanded=t
-	parent=IRPF - Modelo 100 - Anexos
-	x=748,1131
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo M - Deducciones]
-	dx=842,208
-	expanded=t
-	parent=IRPF - Anexo M - Deducciones de la cuota
-	x=10,57
-[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo M - Deducciones por titular]
-	dx=520,208
-	expanded=t
-	parent=IRPF - Anexo M - Deducciones de la cuota
-	x=10,292
+	parent=IRPF - Modelo 100
+	x=445,1903
 [NM Sistema Informacional DHyF - DFB].[IRPF - Anexo M - Deducciones por vivienda]
 	dx=498,208
 	expanded=t
@@ -6936,6 +6841,16 @@
 	expanded=t
 	parent=Censos
 	x=950,1029
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo M - Deducciones]
+	dx=842,208
+	expanded=t
+	parent=IRPF - Anexo M - Deducciones de la cuota
+	x=10,57
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo M - Deducciones por titular]
+	dx=520,208
+	expanded=t
+	parent=IRPF - Anexo M - Deducciones de la cuota
+	x=10,292
 [NM Sistema Informacional DHyF - DFB].[Datos censales IVA]
 	dx=236,208
 	expanded=t
@@ -6963,6 +6878,21 @@
 	expanded=t
 	parent=Catastro
 	x=1620,1650
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo E - Ganancias y pérdidas patrimoniales]
+	dx=573,208
+	expanded=t
+	parent=IRPF - Modelo 100 - Anexos
+	x=10,1366
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo F - Imputación de rentas]
+	dx=462,208
+	expanded=t
+	parent=IRPF - Modelo 100 - Anexos
+	x=10,1601
+[NM Sistema Informacional DHyF - DFB].[IRPF - Anexo I - Reducciones]
+	dx=583,208
+	expanded=t
+	parent=IRPF - Modelo 100 - Anexos
+	x=748,1131
 [NM Sistema Informacional DHyF - DFB].[Urbano]
 	dx=336,208
 	expanded=t
@@ -6973,179 +6903,6 @@
 	expanded=t
 	parent=Catastro
 	x=2239,1650
-[NM Sistema Informacional DHyF - DFB].[Valoraciones]
-	dx=388,208
-	expanded=t
-	parent=Catastro
-	x=1620,1617
-[NM Sistema Informacional DHyF - DFB].[Expedientes]
-	dx=267,208
-	expanded=t
-	parent=Catastro
-	x=1650,1647
-[NM Sistema Informacional DHyF - DFB].[Historial de actividad]
-	dx=328,208
-	expanded=t
-	parent=Catastro
-	x=10,42
-[NM Sistema Informacional DHyF - DFB].[Catastro]
-	c=73d3ac
-	dx=2652,2103
-	expanded=t
-	parent=NM Sistema Informacional DHyF - DFB
-	view=0,0
-	x=2520,2520
-	zoom=1.000000
-[NM Sistema Informacional DHyF - DFB].[Patrimonio - Modelo 714 - Carátula]
-	dx=459,208
-	expanded=t
-	parent=Modelo 714
-	x=10,42
-[NM Sistema Informacional DHyF - DFB].[Patrimonio - Modelo 714 - Detalles]
-	dx=756,208
-	expanded=t
-	parent=Modelo 714
-	x=40,72
-[NM Sistema Informacional DHyF - DFB].[Patrimonio - Modelo 714 - Anexos]
-	dx=373,208
-	expanded=t
-	parent=Modelo 714
-	x=70,102
-[NM Sistema Informacional DHyF - DFB].[Patrimonio - Modelo 714 - Todas las casillas]
-	dx=319,154
-	expanded=t
-	parent=Modelo 714
-	x=100,132
-[NM Sistema Informacional DHyF - DFB].[Modelo 714]
-	c=bf8cbc
-	dx=806,320
-	expanded=t
-	parent=Patrimonio
-	view=0,0
-	x=4743,2625
-	zoom=1.000000
-[NM Sistema Informacional DHyF - DFB].[Patrimonio]
-	c=bf8cbc
-	dx=5559,2955
-	expanded=t
-	parent=NM Sistema Informacional DHyF - DFB
-	x=2123,2360
-[NM Sistema Informacional DHyF - DFB]
-	c=9bdfc4
-	dx=10999,9091
-	expanded=t
-	parent=DWH_DHYF
-	view=0,0
-	x=10,24
-	zoom=1.000000
-[NM Sistema Informacional DHyF - DFB - Volumen de operaciones].[Estudios Tributarios - Información con cifra]
-	dx=964,208
-	expanded=t
-	parent=NM Sistema Informacional DHyF - DFB - Volumen de operaciones
-	x=10,57
-[NM Sistema Informacional DHyF - DFB - Volumen de operaciones]
-	c=9bdfc4
-	dx=984,275
-	expanded=t
-	parent=DWH_DHYF
-	view=0,0
-	x=10,24
-	zoom=1.000000
-[NM Sistema informacional DHyF - DFB - Resumido].[Contribuyentes]
-	dx=205,208
-	expanded=t
-	parent=NM Sistema informacional DHyF - DFB - Resumido
-	x=288,594
-[NM Sistema informacional DHyF - DFB - Resumido].[Documentos]
-	dx=184,208
-	expanded=t
-	parent=NM Sistema informacional DHyF - DFB - Resumido
-	x=10,896
-[NM Sistema informacional DHyF - DFB - Resumido].[Sociedades - Carátula]
-	dx=218,208
-	expanded=t
-	parent=Carátula
-	x=10,57
-[NM Sistema informacional DHyF - DFB - Resumido].[Requerimientos]
-	dx=254,208
-	expanded=t
-	parent=Carátula
-	x=740,156
-[NM Sistema informacional DHyF - DFB - Resumido].[Carátula]
-	c=89c6fd
-	dx=1004,374
-	expanded=t
-	parent=NM Sistema informacional DHyF - DFB - Resumido
-	x=10,594
-[NM Sistema informacional DHyF - DFB - Resumido].[Sociedades - Modelo 200 - Indicadores]
-	dx=900,208
-	expanded=t
-	parent=Indicadores
-	x=10,292
-[NM Sistema informacional DHyF - DFB - Resumido].[Sociedades - Modelo 220 - Indicadores]
-	dx=1022,208
-	expanded=t
-	parent=Indicadores
-	x=10,57
-[NM Sistema informacional DHyF - DFB - Resumido].[Indicadores]
-	c=99b2c7
-	dx=1042,510
-	expanded=t
-	parent=NM Sistema informacional DHyF - DFB - Resumido
-	view=0,0
-	x=10,57
-	zoom=1.000000
-[NM Sistema informacional DHyF - DFB - Resumido]
-	c=d8a77d
-	dx=1062,1114
-	expanded=t
-	parent=DWH_DHYF
-	x=70,84
-[Modelo Lógico - Piloto].[Contribuyentes]
-	dx=231,208
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1070,1384
-[Modelo Lógico - Piloto].[Documentos IVA]
-	dx=192,208
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1070,1619
-[Modelo Lógico - Piloto].[Documentos Sociedades]
-	dx=207,208
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1341,1384
-[Modelo Lógico - Piloto].[Visión NIF-Ejercicio]
-	dx=677,208
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1070,1149
-[Modelo Lógico - Piloto].[Cuota ingresada]
-	dx=156,136
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1090,1471
-[Modelo Lógico - Piloto].[Deudas]
-	dx=313,208
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1538,1295
-[Modelo Lógico - Piloto].[Epígrafe]
-	dx=175,100
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1538,1295
-[Modelo Lógico - Piloto].[Padrón]
-	dx=174,136
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1538,1295
-[Modelo Lógico - Piloto].[Régimen]
-	dx=155,136
-	expanded=t
-	parent=Modelo Lógico - Piloto
-	x=1745,1173
 [Modelo Lógico - Piloto].[Epígrafes IRPF]
 	dx=361,208
 	expanded=t
@@ -7229,79 +6986,186 @@
 	expanded=t
 	parent=Identificación
 	x=10,202
-[Visión NIF-Ejercicio].[Domicilio Fiscal del Contribuyente]
-	dx=262,118
-	expanded=t
-	parent=Identificación
-	x=404,57
-[Visión NIF-Ejercicio].[Baja Maestro]
-	dx=136,46
-	expanded=t
-	parent=Identificación
-	x=10,329
-[Visión NIF-Ejercicio].[Domicilio de Empadronamiento del Contribuyente]
-	dx=354,118
-	expanded=t
-	parent=Identificación
-	x=10,57
-[Visión NIF-Ejercicio].[Identificación]
-	c=d8a77d
-	dx=676,385
-	expanded=t
-	parent=Visión NIF-Ejercicio
-	x=813,1563
-[Visión NIF-Ejercicio].[Marcas Generales]
-	dx=401,208
-	expanded=t
-	parent=Filtros de Selección de Contribuyentes
-	x=10,57
-[Visión NIF-Ejercicio].[Marcas de Selección de Personas Físicas]
-	dx=334,118
-	expanded=t
-	parent=Filtros de Selección de Contribuyentes
-	x=10,292
-[Visión NIF-Ejercicio].[Marcas de Selección de Personas Jurídicas y Entidades]
-	dx=389,208
-	expanded=t
-	parent=Filtros de Selección de Contribuyentes
-	x=451,57
-[Visión NIF-Ejercicio].[Valores de Selección]
-	dx=366,100
-	expanded=t
-	parent=Filtros de Selección de Contribuyentes
-	x=384,292
-[Visión NIF-Ejercicio].[Filtros de Selección de Contribuyentes]
-	c=89c6fd
-	dx=850,420
-	expanded=t
-	parent=Visión NIF-Ejercicio
-	x=1221,896
-[Visión NIF-Ejercicio].[IRPF]
-	dx=662,208
-	expanded=t
-	parent=Impuestos
-	x=10,57
-[Visión NIF-Ejercicio].[Valor Mínimo Atribuible]
-	dx=357,208
-	expanded=t
-	parent=Impuesto de Patrimonio
-	x=1254,518
-[Visión NIF-Ejercicio].[Patrimonio]
-	dx=239,46
-	expanded=t
-	parent=Impuesto de Patrimonio
-	x=10,42
-[Visión NIF-Ejercicio].[Detalles Patrimonio]
-	dx=282,82
-	expanded=t
-	parent=Impuesto de Patrimonio
-	x=40,72
-[Visión NIF-Ejercicio].[Impuesto de Patrimonio]
+[NM Sistema Informacional DHyF - DFB].[Modelo 714]
 	c=bf8cbc
-	dx=1621,736
+	dx=806,320
 	expanded=t
-	parent=Impuestos
-	x=10,527
+	parent=Patrimonio
+	view=0,0
+	x=4743,2625
+	zoom=1.000000
+[NM Sistema Informacional DHyF - DFB].[Patrimonio]
+	c=bf8cbc
+	dx=5559,2955
+	expanded=t
+	parent=NM Sistema Informacional DHyF - DFB
+	x=2123,2360
+[NM Sistema Informacional DHyF - DFB]
+	c=9bdfc4
+	dx=10999,9091
+	expanded=t
+	parent=DWH_DHYF
+	view=0,0
+	x=10,24
+	zoom=1.000000
+[NM Sistema informacional DHyF - DFB - Resumido].[Sociedades - Modelo 200 - Indicadores]
+	dx=900,208
+	expanded=t
+	parent=Indicadores
+	x=10,292
+[NM Sistema Informacional DHyF - DFB].[Patrimonio - Modelo 714 - Carátula]
+	dx=459,208
+	expanded=t
+	parent=Modelo 714
+	x=10,42
+[NM Sistema Informacional DHyF - DFB].[Patrimonio - Modelo 714 - Detalles]
+	dx=756,208
+	expanded=t
+	parent=Modelo 714
+	x=40,72
+[NM Sistema Informacional DHyF - DFB].[Patrimonio - Modelo 714 - Anexos]
+	dx=373,208
+	expanded=t
+	parent=Modelo 714
+	x=70,102
+[NM Sistema Informacional DHyF - DFB].[Patrimonio - Modelo 714 - Todas las casillas]
+	dx=319,154
+	expanded=t
+	parent=Modelo 714
+	x=100,132
+[NM Sistema Informacional DHyF - DFB - Volumen de operaciones].[Estudios Tributarios - Información con cifra]
+	dx=964,208
+	expanded=t
+	parent=NM Sistema Informacional DHyF - DFB - Volumen de operaciones
+	x=10,57
+[NM Sistema Informacional DHyF - DFB - Volumen de operaciones]
+	c=9bdfc4
+	dx=984,275
+	expanded=t
+	parent=DWH_DHYF
+	view=0,0
+	x=10,24
+	zoom=1.000000
+[NM Sistema informacional DHyF - DFB - Resumido].[Contribuyentes]
+	dx=205,208
+	expanded=t
+	parent=NM Sistema informacional DHyF - DFB - Resumido
+	x=288,594
+[NM Sistema informacional DHyF - DFB - Resumido].[Documentos]
+	dx=184,208
+	expanded=t
+	parent=NM Sistema informacional DHyF - DFB - Resumido
+	x=10,896
+[NM Sistema informacional DHyF - DFB - Resumido].[Sociedades - Carátula]
+	dx=218,208
+	expanded=t
+	parent=Carátula
+	x=10,57
+[NM Sistema informacional DHyF - DFB - Resumido].[Requerimientos]
+	dx=254,208
+	expanded=t
+	parent=Carátula
+	x=740,156
+[NM Sistema informacional DHyF - DFB - Resumido].[Carátula]
+	c=89c6fd
+	dx=1004,374
+	expanded=t
+	parent=NM Sistema informacional DHyF - DFB - Resumido
+	x=10,594
+[Modelo Lógico - Piloto].[Visión NIF-Ejercicio]
+	dx=677,208
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1070,1149
+[Modelo Lógico - Piloto].[Cuota ingresada]
+	dx=156,136
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1090,1471
+[Modelo Lógico - Piloto].[Deudas]
+	dx=313,208
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1538,1295
+[Modelo Lógico - Piloto].[Epígrafe]
+	dx=175,100
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1538,1295
+[Modelo Lógico - Piloto].[Padrón]
+	dx=174,136
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1538,1295
+[Modelo Lógico - Piloto].[Régimen]
+	dx=155,136
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1745,1173
+[NM Sistema informacional DHyF - DFB - Resumido].[Sociedades - Modelo 220 - Indicadores]
+	dx=1022,208
+	expanded=t
+	parent=Indicadores
+	x=10,57
+[NM Sistema informacional DHyF - DFB - Resumido].[Indicadores]
+	c=99b2c7
+	dx=1042,510
+	expanded=t
+	parent=NM Sistema informacional DHyF - DFB - Resumido
+	view=0,0
+	x=10,57
+	zoom=1.000000
+[NM Sistema informacional DHyF - DFB - Resumido]
+	c=d8a77d
+	dx=1062,1114
+	expanded=t
+	parent=DWH_DHYF
+	x=70,84
+[Modelo Lógico - Piloto].[Contribuyentes]
+	dx=231,208
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1070,1384
+[Modelo Lógico - Piloto].[Documentos IVA]
+	dx=192,208
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1070,1619
+[Modelo Lógico - Piloto].[Documentos Sociedades]
+	dx=207,208
+	expanded=t
+	parent=Modelo Lógico - Piloto
+	x=1341,1384
+[Entidades (En revisión)].[IAE - Actividades]
+	dx=246,208
+	expanded=t
+	parent=Actividad
+	x=507,57
+[Entidades (En revisión)].[IRPF - Actividades]
+	dx=457,208
+	expanded=t
+	parent=Actividad
+	x=10,57
+[Entidades (En revisión)].[Actividad]
+	c=89c6fd
+	dx=763,275
+	expanded=t
+	parent=Entidades (En revisión)
+	x=10,57
+[Entidades (En revisión)]
+	c=d8a77d
+	dx=783,577
+	expanded=t
+	parent=DWH_DHYF
+	x=2440,2454
+[DWH_DHYF]
+	c=89c6fd
+	dx=10299,7501
+	expanded=t
+	parent=Project
+	view=13911,8509
+	x=10,57
+	zoom=1.000000
 [Visión NIF-Ejercicio].[Sociedades]
 	dx=522,208
 	expanded=t
@@ -7452,6 +7316,97 @@
 	expanded=t
 	parent=Retenciones e Ingresos a Cuenta
 	x=629,511
+[Visión NIF-Ejercicio (En revisión)].[Vision NIF-Ejercicio]
+	dx=652,208
+	expanded=t
+	parent=Visión NIF-Ejercicio (En revisión)
+	x=10,42
+[Visión NIF-Ejercicio (En revisión)]
+	c=99b2c7
+	dx=672,260
+	expanded=t
+	parent=DWH_DHYF
+	view=0,0
+	x=7150,7164
+	zoom=1.000000
+[Entidades (En revisión)].[Documentos SICO]
+	dx=262,208
+	expanded=t
+	parent=Entidades (En revisión)
+	x=10,359
+[Visión NIF-Ejercicio].[Domicilio Fiscal del Contribuyente]
+	dx=262,118
+	expanded=t
+	parent=Identificación
+	x=404,57
+[Visión NIF-Ejercicio].[Baja Maestro]
+	dx=136,46
+	expanded=t
+	parent=Identificación
+	x=10,329
+[Visión NIF-Ejercicio].[Domicilio de Empadronamiento del Contribuyente]
+	dx=354,118
+	expanded=t
+	parent=Identificación
+	x=10,57
+[Visión NIF-Ejercicio].[Identificación]
+	c=d8a77d
+	dx=676,385
+	expanded=t
+	parent=Visión NIF-Ejercicio
+	x=813,1563
+[Visión NIF-Ejercicio].[Marcas Generales]
+	dx=401,208
+	expanded=t
+	parent=Filtros de Selección de Contribuyentes
+	x=10,57
+[Visión NIF-Ejercicio].[Marcas de Selección de Personas Físicas]
+	dx=334,118
+	expanded=t
+	parent=Filtros de Selección de Contribuyentes
+	x=10,292
+[Visión NIF-Ejercicio].[Marcas de Selección de Personas Jurídicas y Entidades]
+	dx=389,208
+	expanded=t
+	parent=Filtros de Selección de Contribuyentes
+	x=451,57
+[Visión NIF-Ejercicio].[Valores de Selección]
+	dx=366,100
+	expanded=t
+	parent=Filtros de Selección de Contribuyentes
+	x=384,292
+[Visión NIF-Ejercicio].[Filtros de Selección de Contribuyentes]
+	c=89c6fd
+	dx=850,420
+	expanded=t
+	parent=Visión NIF-Ejercicio
+	x=1221,896
+[Visión NIF-Ejercicio].[IRPF]
+	dx=662,208
+	expanded=t
+	parent=Impuestos
+	x=10,57
+[Visión NIF-Ejercicio].[Valor Mínimo Atribuible]
+	dx=357,208
+	expanded=t
+	parent=Impuesto de Patrimonio
+	x=1254,518
+[Visión NIF-Ejercicio].[Patrimonio]
+	dx=239,46
+	expanded=t
+	parent=Impuesto de Patrimonio
+	x=10,42
+[Visión NIF-Ejercicio].[Detalles Patrimonio]
+	dx=282,82
+	expanded=t
+	parent=Impuesto de Patrimonio
+	x=40,72
+[Visión NIF-Ejercicio].[Impuesto de Patrimonio]
+	c=bf8cbc
+	dx=1621,736
+	expanded=t
+	parent=Impuestos
+	x=10,527
 [Visión NIF-Ejercicio].[Modelo 190 - Rendimientos del Trabajo y de Actividades Económicas, Premios y Determinadas Ganancias Patrimoniales e Imputaciones de Rentas]
 	dx=992,208
 	expanded=t
@@ -7592,383 +7547,38 @@
 	view=0,0
 	x=100,114
 	zoom=1.000000
-[Visión NIF-Ejercicio (En revisión)].[Vision NIF-Ejercicio]
-	dx=652,208
-	expanded=t
-	parent=Visión NIF-Ejercicio (En revisión)
-	x=10,42
-[Visión NIF-Ejercicio (En revisión)]
+[].[packages].[NM Sistema Informacional DHyF - DFB]
 	c=99b2c7
-	dx=672,260
+	dx=110,37
 	expanded=t
-	parent=DWH_DHYF
-	view=0,0
-	x=7150,7164
-	zoom=1.000000
-[Entidades (En revisión)].[Documentos SICO]
-	dx=262,208
-	expanded=t
-	parent=Entidades (En revisión)
-	x=10,359
-[Entidades (En revisión)].[IAE - Actividades]
-	dx=246,208
-	expanded=t
-	parent=Actividad
-	x=507,57
-[Entidades (En revisión)].[IRPF - Actividades]
-	dx=457,208
-	expanded=t
-	parent=Actividad
+	parent=Paquetes
 	x=10,57
-[Entidades (En revisión)].[Actividad]
-	c=89c6fd
-	dx=763,275
-	expanded=t
-	parent=Entidades (En revisión)
-	x=10,57
-[Entidades (En revisión)]
-	c=d8a77d
-	dx=783,577
-	expanded=t
-	parent=DWH_DHYF
-	x=2440,2454
-[DWH_DHYF]
-	c=89c6fd
-	dx=10299,7501
-	expanded=t
-	parent=Project
-	view=13911,8509
-	x=10,57
-	zoom=1.000000
-[Fisica].[tbn1_det_200_deducciones_cuenta_corriente]
-	dx=328,208
-	expanded=f
-	parent=modelo 200
-	x=10138,1202
-[Fisica].[tbn1_det_200_deducciones_negativas_pendientes]
-	dx=358,154
-	expanded=f
-	parent=modelo 200
-	x=9988,1907
-[Fisica].[tbn1_det_200_operaciones_entidades_vinculadas]
-	dx=354,208
-	expanded=f
-	parent=modelo 200
-	x=9368,1202
-[Fisica].[tbn1_det_200_operaciones_paraisos_fiscales]
-	dx=329,190
-	expanded=f
-	parent=modelo 200
-	x=10059,1437
-[Fisica].[tbn1_det_200_partic_directas]
-	dx=234,208
-	expanded=f
-	parent=modelo 200
-	x=10386,1907
-[Fisica].[tbn1_det_200_partic_directas_otras_entidades]
-	dx=336,208
-	expanded=f
-	parent=modelo 200
-	x=9762,1202
-[Fisica].[tbn1_det_200_perdida_beneficios_fiscales]
-	dx=311,154
-	expanded=f
-	parent=modelo 200
-	x=9646,2142
-[Fisica].[tbn1_det_200_regimen_imputacion_rentas]
-	dx=311,208
-	expanded=f
-	parent=modelo 200
-	x=9708,1437
-[Fisica].[tbn1_det_200_regimenes_especiales]
-	dx=277,208
-	expanded=f
-	parent=modelo 200
-	x=10068,1672
-[Fisica].[tbn1_det_200_reinversion_beneficios_extraordinarios]
-	dx=378,208
-	expanded=f
-	parent=modelo 200
-	x=10296,967
-[Fisica].[tbn1_det_200_relacion_administradores]
-	dx=296,190
-	expanded=t
-	parent=modelo 200
-	x=9368,1907
-[Fisica].[tbn1_det_200_relacion_establecimientos]
-	dx=300,208
-	expanded=f
-	parent=modelo 200
-	x=9368,1437
-[Fisica].[tbn1_det_200_relacion_socios_fecha_cierre]
-	dx=319,208
-	expanded=f
-	parent=modelo 200
-	x=10506,1202
-[Fisica].[tbn1_det_200_tenencia_paraisos_fiscales]
-	dx=306,190
-	expanded=f
-	parent=modelo 200
-	x=9722,1672
-[Fisica].[tbn1_det_200_transparencia_fiscal_internacional_admin]
-	dx=393,136
-	expanded=f
-	parent=modelo 200
-	x=9368,804
-[Fisica].[tbn1_det_200_transparencia_fiscal_internacional_cab]
-	dx=378,172
-	expanded=f
-	parent=modelo 200
-	x=9801,786
-[Fisica].[tbn1_det_200_anexo_8_referap]
-	dx=244,208
-	expanded=t
-	parent=modelo 200
-	x=9704,1907
-[Fisica].[tbn1_mi_159_dim_periodos]
-	dx=223,154
-	expanded=t
-	parent=159
-	x=950,2094
-[Fisica].[tbn1_mi_159_dim_detalles_domi]
-	dx=251,172
-	expanded=t
-	parent=159
-	x=1189,1955
-[Fisica].[tbn1_mi_159_fact]
-	dx=163,208
-	expanded=t
-	parent=159
-	x=840,1483
-[Fisica].[159]
-	c=9bdfc4
-	dx=1224,1170
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6086,4204
-	zoom=0.250000
-[Fisica].[180]
-	c=568ef6
-	dx=1055,263
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,5586
-	zoom=0.500000
-[Fisica].[vwn1_mi_181_dim_datos_caratula]
-	dx=263,208
-	expanded=t
-	parent=181
-	x=737,423
-[Fisica].[vwn1_mi_181_dim_datos_detalle]
-	dx=254,208
-	expanded=t
-	parent=181
-	x=609,708
-[Fisica].[vwn1_mi_181_dim_declarados]
-	dx=241,172
-	expanded=t
-	parent=181
-	x=626,165
-[Fisica].[vwn1_mi_181_dim_declarantes]
-	dx=244,190
-	expanded=t
-	parent=181
-	x=351,58
-[Fisica].[vwn1_mi_181_dim_documentos]
-	dx=249,100
-	expanded=t
-	parent=181
-	x=95,222
-[Fisica].[vwn1_mi_181_dim_marcas]
-	dx=218,208
-	expanded=t
-	parent=181
-	x=10,425
-[Fisica].[tbn1_mi_181_dim_periodos]
-	dx=223,172
-	expanded=t
-	parent=181
-	x=115,703
-[Fisica].[tbn1_mi_181_dim_prestamistas]
-	dx=247,82
-	expanded=t
-	parent=181
-	x=344,860
-[Fisica].[tbn1_mi_181_fact]
-	dx=197,208
-	expanded=t
-	parent=181
-	x=395,423
-[Fisica].[181]
-	c=99f7ff
-	dx=954,648
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,15463
-	zoom=0.250000
-[Fisica].[182]
-	c=527ca5
-	dx=765,256
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,5876
-	zoom=0.250000
-[Fisica].[vwn1_mi_184_dim_datos_caratula]
-	dx=263,208
-	expanded=t
-	parent=184
-	x=1314,702
-[Fisica].[tbn1_mi_184_dim_declarantes]
-	dx=239,172
-	expanded=t
-	parent=184
-	x=97,399
-[Fisica].[vwn1_mi_184_dim_declarantes]
-	dx=244,208
-	expanded=t
-	parent=184
-	x=10,678
-[Fisica].[vwn1_mi_184_dim_declarantes_2]
-	dx=258,82
-	expanded=t
-	parent=184
-	x=1101,1250
-[Fisica].[vwn1_mi_184_dim_datos_economicos_declarante]
-	dx=356,190
-	expanded=t
-	parent=184
-	x=543,58
-[Fisica].[vwn1_mi_184_dim_marcas_declarante]
-	dx=287,172
-	expanded=t
-	parent=184
-	x=538,1368
-[Fisica].[vwn1_mi_184_dim_marcas]
-	dx=218,82
-	expanded=t
-	parent=184
-	x=1273,1044
-[Fisica].[tbn1_mi_184_dim_periodos]
-	dx=223,172
-	expanded=t
-	parent=184
-	x=877,1345
-[Fisica].[tbn1_mi_184_dim_documentos]
-	dx=244,82
-	expanded=t
-	parent=184
-	x=64,1026
-[Fisica].[vwn1_mi_184_dim_datos_detalle]
-	dx=254,208
-	expanded=t
-	parent=184
-	x=1234,382
-[Fisica].[tbn1_mi_184_dim_declarados]
-	dx=236,136
-	expanded=t
-	parent=184
-	x=289,203
-[Fisica].[vwn1_mi_184_dim_datos_economicos_declarado]
-	dx=353,190
-	expanded=t
-	parent=184
-	x=930,137
-[Fisica].[vwn1_mi_184_dim_marcas_declarado]
-	dx=284,208
-	expanded=t
-	parent=184
-	x=228,1208
-[Fisica].[tbn1_mi_184_fact]
-	dx=221,208
-	expanded=t
-	parent=184
-	x=678,702
-[Fisica].[184]
-	c=99b2c7
-	dx=632,1932
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,20582
-	zoom=0.250000
-[Fisica].[187]
-	c=9bdfc4
-	dx=895,120
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=0,0
-	x=6212,4130
-	zoom=0.250000
-[Fisica].[188]
-	c=d8a77d
-	dx=789,115
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=125,0
-	x=6212,4277
-	zoom=0.500000
-[Fisica].[vwn1_mi_189_dim_datos_caratula]
-	dx=263,208
-	expanded=t
-	parent=189
-	x=502,101
-[Fisica].[vwn1_mi_189_dim_declarantes]
-	dx=244,208
-	expanded=t
-	parent=189
-	x=10,276
-[Fisica].[vwn1_mi_189_dim_documentos]
-	dx=249,118
-	expanded=t
-	parent=189
-	x=54,594
-[Fisica].[vwn1_mi_189_dim_marcas]
-	dx=218,208
-	expanded=t
-	parent=189
-	x=303,685
-[Fisica].[tbn1_mi_189_dim_periodos]
-	dx=223,118
-	expanded=t
-	parent=189
-	x=548,648
-[Fisica].[vwn1_mi_189_dim_datos_detalle]
-	dx=254,208
-	expanded=t
-	parent=189
-	x=207,58
-[Fisica].[vwn1_mi_189_dim_declarados]
-	dx=241,190
-	expanded=t
-	parent=189
-	x=647,372
-[Fisica].[tbn1_mi_189_fact]
-	dx=163,208
-	expanded=t
-	parent=189
-	x=362,363
-[Fisica].[189]
+[].[packages].[NM Sistema Informacional DHyF - DFB - Volumen de operaciones]
 	c=bf8cbc
-	dx=965,710
+	dx=110,37
 	expanded=t
-	parent=Informativos - Liquidativos
+	parent=Paquetes
+	x=160,57
+[].[packages].[NM Sistema Informacional DHyF - DFB - Resumido]
+	c=758698
+	dx=110,37
+	expanded=t
+	parent=Paquetes
+	x=10,121
+[].[packages]
 	view=0,0
-	x=6212,12231
-	zoom=0.500000
-[Fisica].[tbn1_mi_170_dim_periodos]
-	dx=223,118
-	expanded=t
-	parent=170
-	x=133,1194
-[Fisica].[tbn1_mi_170_dim_comercios]
-	dx=232,64
-	expanded=t
-	parent=170
-	x=930,897
+	zoom=1.000000
+[]
+	NavigationRect=0,0,300,343
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial Narrow
+	lod=33
+	tc=323232
+	view=0,0
+	viewStyle=2
+	zoom=1.000000
 [Fisica].[tbn1_mi_170_fact]
 	dx=163,208
 	expanded=t
@@ -8025,56 +7635,566 @@
 	view=0,0
 	x=6212,7779
 	zoom=0.250000
-[Fisica].[tbn1_dim_contribuyentes]
-	dx=357,216
-	expanded=t
-	parent=Fisica
-	x=2903,622
-[Fisica].[tbn1_dim_expedientes]
-	dx=193,208
+[Fisica].[182]
+	c=527ca5
+	dx=765,256
 	expanded=t
 	parent=Informativos - Liquidativos
-	x=7295,7513
-[Fisica].[tbn1_dim_documentos]
-	dx=162,208
+	view=0,0
+	x=6212,5876
+	zoom=0.250000
+[Fisica].[vwn1_mi_184_dim_datos_caratula]
+	dx=263,208
+	expanded=t
+	parent=184
+	x=1314,702
+[Fisica].[tbn1_mi_184_dim_declarantes]
+	dx=239,172
+	expanded=t
+	parent=184
+	x=97,399
+[Fisica].[vwn1_mi_184_dim_declarantes]
+	dx=244,208
+	expanded=t
+	parent=184
+	x=10,678
+[Fisica].[vwn1_mi_184_dim_declarantes_2]
+	dx=258,82
+	expanded=t
+	parent=184
+	x=1101,1250
+[Fisica].[vwn1_mi_184_dim_datos_economicos_declarante]
+	dx=356,190
+	expanded=t
+	parent=184
+	x=543,58
+[Fisica].[vwn1_mi_184_dim_marcas_declarante]
+	dx=287,172
+	expanded=t
+	parent=184
+	x=538,1368
+[Fisica].[vwn1_mi_184_dim_marcas]
+	dx=218,82
+	expanded=t
+	parent=184
+	x=1273,1044
+[Fisica].[tbn1_mi_184_dim_periodos]
+	dx=223,172
+	expanded=t
+	parent=184
+	x=877,1345
+[Fisica].[vwn1_mi_184_dim_datos_detalle]
+	dx=254,208
+	expanded=t
+	parent=184
+	x=1234,382
+[Fisica].[tbn1_mi_184_dim_declarados]
+	dx=236,136
+	expanded=t
+	parent=184
+	x=289,203
+[Fisica].[vwn1_mi_184_dim_datos_economicos_declarado]
+	dx=353,190
+	expanded=t
+	parent=184
+	x=930,137
+[Fisica].[vwn1_mi_184_dim_marcas_declarado]
+	dx=284,208
+	expanded=t
+	parent=184
+	x=228,1208
+[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_datos_operacion]
+	dx=390,190
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=560,58
+[Fisica].[vwn1_lroe_ope_intracomunitarias_dim_declarados]
+	dx=356,100
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=213,204
+[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_declarantes]
+	dx=360,82
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=10,503
+[Fisica].[vwn1_lroe_ope_intracomunitarias_dim_documentos]
+	dx=364,118
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=33,843
+[Fisica].[vwn1_lroe_ope_intracomunitarias_dim_operaciones]
+	dx=364,64
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=279,1132
+[Fisica].[tbn1_lroe_ope_intracomunitarias_fact]
+	dx=284,208
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=565,583
+[Fisica].[operaciones_vwn1_mae_presentaciones_lroe]
+	dx=329,208
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=654,1108
+[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_actividades]
+	dx=358,64
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=945,992
+[Fisica].[Operaciones intracomunitarias]
+	c=bf8cbc
+	dx=6229,9042
+	expanded=t
+	parent=140
+	view=197,523
+	x=900,5393
+	zoom=0.750000
+[Fisica].[140]
+	c=9bdfc4
+	dx=7735,14445
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=178,389
+	x=40,72
+	zoom=0.500000
+[Fisica].[tbn1_mi_159_dim_periodos]
+	dx=223,154
+	expanded=t
+	parent=159
+	x=950,2094
+[Fisica].[tbn1_mi_159_dim_detalles_domi]
+	dx=251,172
+	expanded=t
+	parent=159
+	x=1189,1955
+[Fisica].[tbn1_mi_159_fact]
+	dx=163,208
+	expanded=t
+	parent=159
+	x=840,1483
+[Fisica].[159]
+	c=9bdfc4
+	dx=1224,1170
+	expanded=t
+	parent=Informativos - Liquidativos
+	view=0,0
+	x=6086,4204
+	zoom=0.250000
+[Fisica].[tbn1_mi_170_dim_periodos]
+	dx=223,118
+	expanded=t
+	parent=170
+	x=133,1194
+[Fisica].[tbn1_mi_170_dim_comercios]
+	dx=232,64
+	expanded=t
+	parent=170
+	x=930,897
+[Fisica].[vwn1_mae_presentaciones_lroe]
+	dx=245,208
+	expanded=t
+	parent=140
+	x=648,6739
+[Fisica].[vwn1_lroe_gastos_dim_asiento_resumen]
+	dx=300,82
+	expanded=f
+	parent=Gastos
+	x=5936,3612
+[Fisica].[tbn1_lroe_gastos_dim_datos_caratula]
+	dx=285,82
+	expanded=f
+	parent=Gastos
+	x=5795,3710
+[Fisica].[vwn1_lroe_gastos_dim_datos_impuestos]
+	dx=300,136
+	expanded=f
+	parent=Gastos
+	x=5508,3749
+[Fisica].[vwn1_lroe_gastos_dim_declarado_proveedor]
+	dx=324,208
+	expanded=f
+	parent=Gastos
+	x=5594,3923
+[Fisica].[tbn1_lroe_gastos_dim_declarantes]
+	dx=267,82
+	expanded=f
+	parent=Gastos
+	x=5748,4060
+[Fisica].[vwn1_lroe_gastos_dim_detalle_factura]
+	dx=285,208
+	expanded=f
+	parent=Gastos
+	x=6286,3887
+[Fisica].[tbn1_lroe_gastos_dim_factura]
+	dx=239,82
+	expanded=f
+	parent=Gastos
+	x=6289,3981
+[Fisica].[tbn1_lroe_gastos_dim_gastos]
+	dx=238,82
+	expanded=f
+	parent=Gastos
+	x=6082,4064
+[Fisica].[tbn1_lroe_gastos_fact]
+	dx=191,208
+	expanded=t
+	parent=Gastos
+	x=5981,3835
+[Fisica].[gastos_vwn1_mae_presentaciones_lroe]
+	dx=296,208
+	expanded=f
+	parent=Gastos
+	x=6428,3712
+[Fisica].[vwn1_lroe_gastos_dim_actividad]
+	dx=256,208
+	expanded=t
+	parent=Gastos
+	x=10,42
+[Fisica].[Gastos]
+	c=9bdfc4
+	dx=6734,4156
+	expanded=t
+	parent=140
+	view=0,210
+	x=991,470
+	zoom=0.750000
+[Fisica].[vwn1_lroe_ingresos_dim_asientos_resumen]
+	dx=311,64
+	expanded=t
+	parent=Ingresos
+	x=5453,8254
+[Fisica].[tbn1_lroe_ingresos_dim_datos_caratula]
+	dx=297,82
+	expanded=t
+	parent=Ingresos
+	x=5321,8029
+[Fisica].[vwn1_lroe_ingresos_dim_datos_impuestos]
+	dx=311,136
+	expanded=t
+	parent=Ingresos
+	x=4992,7953
+[Fisica].[vwn1_lroe_ingresos_dim_datos_inmueble]
+	dx=304,82
+	expanded=t
+	parent=Ingresos
+	x=4629,8139
+[Fisica].[vwn1_lroe_ingresos_dim_declarado_proveedor]
+	dx=335,208
+	expanded=t
+	parent=Ingresos
+	x=4506,8364
+[Fisica].[tbn1_lroe_ingresos_dim_declarantes]
+	dx=278,82
+	expanded=t
+	parent=Ingresos
+	x=4569,8766
+[Fisica].[vwn1_lroe_ingresos_dim_detalle_factura]
+	dx=297,208
+	expanded=t
+	parent=Ingresos
+	x=4773,8954
+[Fisica].[tbn1_lroe_ingresos_dim_factura]
+	dx=251,82
+	expanded=t
+	parent=Ingresos
+	x=5399,9024
+[Fisica].[tbn1_lroe_ingresos_dim_ingresos]
+	dx=280,82
+	expanded=t
+	parent=Ingresos
+	x=5456,8770
+[Fisica].[vwn1_lroe_bienes_dim_documentos]
+	dx=271,118
+	expanded=t
+	parent=Bienes
+	x=5607,7157
+[Fisica].[tbn1_lroe_bienes_dim_domicilios]
+	dx=258,100
+	expanded=t
+	parent=Bienes
+	x=5607,7302
+[Fisica].[tbn1_lroe_bienes_dim_facturas]
+	dx=245,82
+	expanded=t
+	parent=Bienes
+	x=5607,7429
+[Fisica].[tbn1_lroe_bienes_fact]
+	dx=190,208
+	expanded=t
+	parent=Bienes
+	x=5377,6623
+[Fisica].[bienes_vwn1_mae_presentaciones_lroe]
+	dx=296,208
+	expanded=t
+	parent=Bienes
+	x=5890,5922
+[Fisica].[tbn1_lroe_bienes_dim_actividades]
+	dx=265,100
+	expanded=t
+	parent=Bienes
+	x=10,42
+[Fisica].[Bienes]
+	c=89c6fd
+	dx=6196,7521
+	expanded=t
+	parent=140
+	view=0,412
+	x=911,3269
+	zoom=0.500000
+[Fisica].[tbn1_lroe_fondos_dim_datos_caratula]
+	dx=287,82
+	expanded=t
+	parent=Fondos
+	x=5659,4785
+[Fisica].[tbn1_lroe_fondos_dim_datos_fondo]
+	dx=273,82
+	expanded=t
+	parent=Fondos
+	x=5659,4894
+[Fisica].[tbn1_lroe_fondos_dim_declarados]
+	dx=265,208
+	expanded=t
+	parent=Fondos
+	x=5659,5003
+[Fisica].[tbn1_lroe_fondos_dim_declarantes]
+	dx=268,82
+	expanded=t
+	parent=Fondos
+	x=5659,5238
+[Fisica].[tbn1_lroe_fondos_dim_detalles_factura]
+	dx=293,82
+	expanded=t
+	parent=Fondos
+	x=5659,5347
+[Fisica].[vwn1_lroe_fondos_dim_documentos]
+	dx=273,118
+	expanded=t
+	parent=Fondos
+	x=5659,5456
+[Fisica].[vwn1_lroe_fondos_dim_fondos]
+	dx=240,118
+	expanded=t
+	parent=Fondos
+	x=5659,5601
+[Fisica].[tbn1_lroe_fondos_fact]
+	dx=192,208
+	expanded=t
+	parent=Fondos
+	x=5427,5084
+[Fisica].[fondos_vwn1_mae_presentaciones_lroe]
+	dx=298,208
+	expanded=t
+	parent=Fondos
+	x=5890,5922
+[Fisica].[tbn1_lroe_fondos_dim_actividades]
+	dx=267,100
+	expanded=t
+	parent=Fondos
+	x=10,42
+[Fisica].[Fondos]
+	c=99b2c7
+	dx=6198,6140
+	expanded=t
+	parent=140
+	x=991,2014
+[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_datos_caratula]
+	dx=378,82
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=1055,646
+[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_datos_declarado]
+	dx=389,136
+	expanded=t
+	parent=Operaciones intracomunitarias
+	x=916,265
+[Fisica].[tbn1_fact_detalles_estudios_tributarios_con_cifra]
+	dx=273,164
+	expanded=t
+	parent=Sociedades
+	x=17119,3340
+[Fisica].[tbn1_lroe_ingresos_fact]
+	dx=203,208
+	expanded=t
+	parent=Ingresos
+	x=5127,8478
+[Fisica].[ingresos_vwn1_mae_presentaciones_lroe]
+	dx=308,208
+	expanded=t
+	parent=Ingresos
+	x=5890,5922
+[Fisica].[vwn1_lroe_ingresos_dim_actividad]
+	dx=268,208
+	expanded=t
+	parent=Ingresos
+	x=10,42
+[Fisica].[Ingresos]
+	c=d8a77d
+	dx=6208,9172
+	expanded=t
+	parent=140
+	view=0,0
+	x=10,2831
+	zoom=1.000000
+[Fisica].[vwn1_lroe_bienes_dim_agrupaciones]
+	dx=278,64
+	expanded=t
+	parent=Bienes
+	x=5607,6070
+[Fisica].[vwn1_lroe_bienes_dim_bienes]
+	dx=236,154
+	expanded=t
+	parent=Bienes
+	x=5607,6161
+[Fisica].[vwn1_lroe_bienes_dim_datos_bien]
+	dx=263,208
+	expanded=t
+	parent=Bienes
+	x=5607,6342
+[Fisica].[tbn1_lroe_bienes_dim_datos_caratula]
+	dx=285,82
+	expanded=t
+	parent=Bienes
+	x=5607,6577
+[Fisica].[tbn1_lroe_bienes_dim_datos_domicilio]
+	dx=291,154
+	expanded=t
+	parent=Bienes
+	x=5607,6686
+[Fisica].[vwn1_lroe_bienes_dim_datos_economicos]
+	dx=309,154
+	expanded=t
+	parent=Bienes
+	x=5607,6867
+[Fisica].[tbn1_lroe_bienes_dim_declarantes]
+	dx=266,82
+	expanded=t
+	parent=Bienes
+	x=5607,7048
+[Fisica].[tbn1_mae_documentos_sociedades]
+	dx=310,208
+	expanded=t
+	parent=Sociedades
+	x=6748,42
+[Fisica].[Sociedades]
+	c=9bdfc4
+	dx=19019,3828
 	expanded=t
 	parent=Fisica
-	x=6056,504
-[Fisica].[tbn1_dim_fechas]
-	dx=128,136
-	expanded=f
+	view=146,1320
+	x=9308,683
+	zoom=0.500000
+[Fisica].[tbn1_ml_retenciones_dim_datos_caratula]
+	dx=307,190
+	expanded=t
+	parent=Retenciones
+	x=401,316
+[Fisica].[tbn1_ml_retenciones_dim_datos_fiscales]
+	dx=305,172
+	expanded=t
+	parent=Retenciones
+	x=861,575
+[Fisica].[tbn1_ml_retenciones_dim_declarantes]
+	dx=288,64
+	expanded=t
+	parent=Retenciones
+	x=1380,319
+[Fisica].[tbn1_ml_retenciones_dim_documentos]
+	dx=293,100
+	expanded=t
+	parent=Retenciones
+	x=856,58
+[Fisica].[tbn1_ml_retenciones_fact]
+	dx=212,136
+	expanded=t
+	parent=Retenciones
+	x=810,339
+[Fisica].[Reteciones - tbn1_dim_tipos_periodo]
+	dx=280,100
+	expanded=t
+	parent=Retenciones
+	x=227,95
+[Fisica].[Reteciones - tbn1_dim_fases_liquidacion]
+	dx=302,136
+	expanded=t
+	parent=Retenciones
+	x=10,327
+[Fisica].[Reteciones - tbn1_dim_periodos]
+	dx=251,136
+	expanded=t
+	parent=Retenciones
+	x=247,569
+[Fisica].[Retenciones]
+	c=d8a77d
+	dx=924,883
+	expanded=t
+	parent=Modelos liquidativos
+	view=0,0
+	x=10,30
+	zoom=0.250000
+[Fisica].[No residentes - Censo]
+	c=89c6fd
+	dx=869,1353
+	expanded=t
+	parent=Modelos liquidativos
+	view=0,0
+	x=10,940
+	zoom=0.250000
+[Fisica].[vwn1_ml_nr_dim_datos_caratula]
+	dx=254,208
+	expanded=t
+	parent=No residentes
+	x=642,374
+[Fisica].[tbn1_ml_nr_dim_datos_cuenta]
+	dx=242,190
+	expanded=t
+	parent=No residentes
+	x=511,115
+[Fisica].[vwn1_ml_nr_dim_datos_fiscales]
+	dx=252,208
+	expanded=t
+	parent=No residentes
+	x=211,58
+[Fisica].[vwn1_ml_nr_dim_declarantes]
+	dx=236,136
+	expanded=t
+	parent=No residentes
+	x=10,291
+[Fisica].[vwn1_ml_nr_dim_documentos]
+	dx=240,208
+	expanded=t
+	parent=No residentes
+	x=29,537
+[Fisica].[vwn1_ml_nr_dim_otros_datos]
+	dx=238,208
+	expanded=t
+	parent=No residentes
+	x=280,703
+[Fisica].[tbn1_ml_nr_dim_periodos]
+	dx=214,100
+	expanded=t
+	parent=No residentes
+	x=548,677
+[Fisica].[tbn1_ml_nr_fact]
+	dx=155,190
+	expanded=t
+	parent=No residentes
+	x=360,383
+[Fisica].[No residentes]
+	c=99b2c7
+	dx=464,1154
+	expanded=t
+	parent=Modelos liquidativos
+	view=0,18
+	x=919,940
+	zoom=0.680827
+[Fisica].[Modelos liquidativos]
+	c=9bdfc4
+	dx=1393,2303
+	expanded=t
 	parent=Fisica
-	x=4905,393
-[Fisica].[tbn1_dim_nemotecnicos]
-	dx=137,82
-	expanded=f
-	parent=Fisica
-	x=20,42
-[Fisica].[tbn1_det_200_anexo_7_gastos_derivados_vehiculos]
-	dx=392,208
-	expanded=t
-	parent=modelo 200
-	x=9864,967
-[Fisica].[tbn1_det_200_integracion_reservas]
-	dx=270,208
-	expanded=t
-	parent=modelo 200
-	x=10428,1437
-[Fisica].[tbn1_det_200_perdida_beneficios_por_reinversion_extraordinarios]
-	dx=456,190
-	expanded=t
-	parent=modelo 200
-	x=9368,967
-[Fisica].[tbn1_det_200_buques_afectos]
-	dx=240,154
-	expanded=f
-	parent=modelo 200
-	x=9997,2142
-[Fisica].[tbn1_det_200_compromisos_reinversiones]
-	dx=314,190
-	expanded=f
-	parent=modelo 200
-	x=9368,1672
+	x=90,131
 [Fisica].[tbn1_det_200_anexo_8_renive]
 	dx=238,190
 	expanded=t
@@ -8191,473 +8311,60 @@
 	expanded=t
 	parent=modelo 220
 	x=10326,1621
-[Fisica].[vwn1_mae_presentaciones_lroe]
+[Fisica].[tbn1_det_220_anexo_6_focaem]
 	dx=245,208
 	expanded=t
-	parent=140
-	x=648,6739
-[Fisica].[vwn1_lroe_gastos_dim_asiento_resumen]
-	dx=300,82
-	expanded=f
-	parent=Gastos
-	x=5936,3612
-[Fisica].[tbn1_lroe_gastos_dim_datos_caratula]
-	dx=285,82
-	expanded=f
-	parent=Gastos
-	x=5795,3710
-[Fisica].[vwn1_lroe_gastos_dim_datos_impuestos]
-	dx=300,136
-	expanded=f
-	parent=Gastos
-	x=5508,3749
-[Fisica].[vwn1_lroe_gastos_dim_declarado_proveedor]
-	dx=324,208
-	expanded=f
-	parent=Gastos
-	x=5594,3923
-[Fisica].[tbn1_lroe_gastos_dim_declarantes]
-	dx=267,82
-	expanded=f
-	parent=Gastos
-	x=5748,4060
-[Fisica].[vwn1_lroe_gastos_dim_detalle_factura]
-	dx=285,208
-	expanded=f
-	parent=Gastos
-	x=6286,3887
-[Fisica].[tbn1_lroe_gastos_dim_factura]
-	dx=239,82
-	expanded=f
-	parent=Gastos
-	x=6289,3981
-[Fisica].[tbn1_lroe_gastos_dim_gastos]
-	dx=238,82
-	expanded=f
-	parent=Gastos
-	x=6082,4064
-[Fisica].[tbn1_lroe_gastos_fact]
-	dx=191,208
+	parent=modelo 220
+	x=10456,2561
+[Fisica].[tbn1_det_220_anexo_6_referap]
+	dx=244,208
 	expanded=t
-	parent=Gastos
-	x=5981,3835
-[Fisica].[gastos_vwn1_mae_presentaciones_lroe]
-	dx=296,208
-	expanded=f
-	parent=Gastos
-	x=6428,3712
-[Fisica].[vwn1_lroe_gastos_dim_actividad]
-	dx=256,208
+	parent=modelo 220
+	x=10741,2561
+[Fisica].[tbn1_det_220_anexo_6_renive]
+	dx=238,190
 	expanded=t
-	parent=Gastos
+	parent=modelo 220
+	x=10409,2796
+[Fisica].[tbn1_det_220_integracion_reservas]
+	dx=270,208
+	expanded=t
+	parent=modelo 220
+	x=10711,2326
+[Fisica].[tbn1_det_220_anexo_6_datos]
+	dx=235,208
+	expanded=t
+	parent=modelo 220
 	x=10,42
-[Fisica].[Gastos]
-	c=9bdfc4
-	dx=6734,4156
-	expanded=t
-	parent=140
-	view=0,210
-	x=991,470
-	zoom=0.750000
-[Fisica].[vwn1_lroe_ingresos_dim_asientos_resumen]
-	dx=311,64
-	expanded=t
-	parent=Ingresos
-	x=5453,8254
-[Fisica].[tbn1_lroe_ingresos_dim_datos_caratula]
-	dx=297,82
-	expanded=t
-	parent=Ingresos
-	x=5321,8029
-[Fisica].[vwn1_lroe_ingresos_dim_datos_impuestos]
-	dx=311,136
-	expanded=t
-	parent=Ingresos
-	x=4992,7953
-[Fisica].[vwn1_lroe_ingresos_dim_datos_inmueble]
-	dx=304,82
-	expanded=t
-	parent=Ingresos
-	x=4629,8139
-[Fisica].[vwn1_lroe_ingresos_dim_declarado_proveedor]
-	dx=335,208
-	expanded=t
-	parent=Ingresos
-	x=4506,8364
-[Fisica].[tbn1_lroe_ingresos_dim_declarantes]
-	dx=278,82
-	expanded=t
-	parent=Ingresos
-	x=4569,8766
-[Fisica].[vwn1_lroe_bienes_dim_documentos]
-	dx=271,118
-	expanded=t
-	parent=Bienes
-	x=5607,7157
-[Fisica].[tbn1_lroe_bienes_dim_domicilios]
-	dx=258,100
-	expanded=t
-	parent=Bienes
-	x=5607,7302
-[Fisica].[tbn1_lroe_bienes_dim_facturas]
-	dx=245,82
-	expanded=t
-	parent=Bienes
-	x=5607,7429
-[Fisica].[tbn1_lroe_bienes_fact]
-	dx=190,208
-	expanded=t
-	parent=Bienes
-	x=5377,6623
-[Fisica].[bienes_vwn1_mae_presentaciones_lroe]
-	dx=296,208
-	expanded=t
-	parent=Bienes
-	x=5890,5922
-[Fisica].[tbn1_lroe_bienes_dim_actividades]
-	dx=265,100
-	expanded=t
-	parent=Bienes
-	x=10,42
-[Fisica].[Bienes]
-	c=89c6fd
-	dx=6196,7521
-	expanded=t
-	parent=140
-	view=0,412
-	x=911,3269
-	zoom=0.500000
-[Fisica].[tbn1_lroe_fondos_dim_datos_caratula]
-	dx=287,82
-	expanded=t
-	parent=Fondos
-	x=5659,4785
-[Fisica].[tbn1_lroe_fondos_dim_datos_fondo]
-	dx=273,82
-	expanded=t
-	parent=Fondos
-	x=5659,4894
-[Fisica].[tbn1_lroe_fondos_dim_declarados]
-	dx=265,208
-	expanded=t
-	parent=Fondos
-	x=5659,5003
-[Fisica].[tbn1_lroe_fondos_dim_declarantes]
-	dx=268,82
-	expanded=t
-	parent=Fondos
-	x=5659,5238
-[Fisica].[tbn1_lroe_fondos_dim_detalles_factura]
-	dx=293,82
-	expanded=t
-	parent=Fondos
-	x=5659,5347
-[Fisica].[vwn1_lroe_fondos_dim_documentos]
-	dx=273,118
-	expanded=t
-	parent=Fondos
-	x=5659,5456
-[Fisica].[vwn1_lroe_fondos_dim_fondos]
-	dx=240,118
-	expanded=t
-	parent=Fondos
-	x=5659,5601
-[Fisica].[tbn1_lroe_fondos_fact]
-	dx=192,208
-	expanded=t
-	parent=Fondos
-	x=5427,5084
-[Fisica].[tbn1_fact_detalles_estudios_tributarios_con_cifra]
-	dx=273,164
-	expanded=t
-	parent=Sociedades
-	x=17119,3340
-[Fisica].[tbn1_mae_documentos_sociedades]
-	dx=310,208
-	expanded=t
-	parent=Sociedades
-	x=6748,42
-[Fisica].[Sociedades]
-	c=9bdfc4
-	dx=19019,3828
-	expanded=t
-	parent=Fisica
-	view=146,1320
-	x=9308,683
-	zoom=0.500000
-[Fisica].[tbn1_ml_retenciones_dim_datos_caratula]
-	dx=307,190
-	expanded=t
-	parent=Retenciones
-	x=401,316
-[Fisica].[tbn1_ml_retenciones_dim_datos_fiscales]
-	dx=305,172
-	expanded=t
-	parent=Retenciones
-	x=861,575
-[Fisica].[tbn1_ml_retenciones_dim_declarantes]
-	dx=288,64
-	expanded=t
-	parent=Retenciones
-	x=1380,319
-[Fisica].[tbn1_ml_retenciones_dim_documentos]
-	dx=293,100
-	expanded=t
-	parent=Retenciones
-	x=856,58
-[Fisica].[tbn1_ml_retenciones_fact]
-	dx=212,136
-	expanded=t
-	parent=Retenciones
-	x=810,339
-[Fisica].[Reteciones - tbn1_dim_tipos_periodo]
-	dx=280,100
-	expanded=t
-	parent=Retenciones
-	x=227,95
-[Fisica].[Reteciones - tbn1_dim_fases_liquidacion]
-	dx=302,136
-	expanded=t
-	parent=Retenciones
-	x=10,327
-[Fisica].[Reteciones - tbn1_dim_periodos]
-	dx=251,136
-	expanded=t
-	parent=Retenciones
-	x=247,569
-[Fisica].[Retenciones]
+[Fisica].[modelo 220]
 	c=d8a77d
-	dx=924,883
+	dx=11481,2996
 	expanded=t
-	parent=Modelos liquidativos
-	view=0,0
-	x=10,30
-	zoom=0.250000
-[Fisica].[tbn1_ml_nr_censo_dim_datos_direccion]
-	dx=300,190
+	parent=Sociedades
+	x=7528,822
+[Fisica].[tbn1_fact_detalles]
+	dx=134,172
+	expanded=f
+	parent=Sociedades
+	x=16787,1783
+[Fisica].[tbn1_dim_actividades_economicas]
+	dx=267,208
 	expanded=t
-	parent=No residentes - Censo
-	x=1336,1040
-[Fisica].[tbn1_ml_nr_censo_dim_datos_direccion_f2]
-	dx=318,154
-	expanded=t
-	parent=No residentes - Censo
-	x=1192,732
-[Fisica].[tbn1_ml_nr_censo_dim_datos_sujeto]
+	parent=Sociedades
+	x=17164,2761
+[Fisica].[tbn1_dim_actividades_economicas_2]
 	dx=281,208
 	expanded=t
-	parent=No residentes - Censo
-	x=749,586
-[Fisica].[tbn1_ml_nr_censo_dim_documentos]
-	dx=278,100
+	parent=Sociedades
+	x=10,1938
+[Fisica].[tbn1_dim_actividades_economicas_3]
+	dx=281,208
 	expanded=t
-	parent=No residentes - Censo
-	x=427,994
-[Fisica].[tbn1_ml_nr_censo_dim_domicilios]
-	dx=266,136
+	parent=Sociedades
+	x=40,1968
+[Fisica].[tbn1_dim_actividades_economicas_4]
+	dx=281,208
 	expanded=t
-	parent=No residentes - Censo
-	x=577,1412
-[Fisica].[tbn1_ml_nr_censo_dim_marcas]
-	dx=248,82
-	expanded=t
-	parent=No residentes - Censo
-	x=992,1549
-[Fisica].[tbn1_ml_nr_censo_dim_periodos]
-	dx=257,154
-	expanded=t
-	parent=No residentes - Censo
-	x=1240,1367
-[Fisica].[tbn1_ml_nr_censo_fact]
-	dx=198,208
-	expanded=t
-	parent=No residentes - Censo
-	x=922,1031
-[Fisica].[vwn1_lroe_ingresos_dim_detalle_factura]
-	dx=297,208
-	expanded=t
-	parent=Ingresos
-	x=4773,8954
-[Fisica].[tbn1_lroe_ingresos_dim_factura]
-	dx=251,82
-	expanded=t
-	parent=Ingresos
-	x=5399,9024
-[Fisica].[tbn1_lroe_ingresos_dim_ingresos]
-	dx=280,82
-	expanded=t
-	parent=Ingresos
-	x=5456,8770
-[Fisica].[tbn1_lroe_ingresos_fact]
-	dx=203,208
-	expanded=t
-	parent=Ingresos
-	x=5127,8478
-[Fisica].[ingresos_vwn1_mae_presentaciones_lroe]
-	dx=308,208
-	expanded=t
-	parent=Ingresos
-	x=5890,5922
-[Fisica].[vwn1_lroe_ingresos_dim_actividad]
-	dx=268,208
-	expanded=t
-	parent=Ingresos
-	x=10,42
-[Fisica].[Ingresos]
-	c=d8a77d
-	dx=6208,9172
-	expanded=t
-	parent=140
-	view=0,0
-	x=10,2831
-	zoom=1.000000
-[Fisica].[vwn1_lroe_bienes_dim_agrupaciones]
-	dx=278,64
-	expanded=t
-	parent=Bienes
-	x=5607,6070
-[Fisica].[vwn1_lroe_bienes_dim_bienes]
-	dx=236,154
-	expanded=t
-	parent=Bienes
-	x=5607,6161
-[Fisica].[vwn1_lroe_bienes_dim_datos_bien]
-	dx=263,208
-	expanded=t
-	parent=Bienes
-	x=5607,6342
-[Fisica].[tbn1_lroe_bienes_dim_datos_caratula]
-	dx=285,82
-	expanded=t
-	parent=Bienes
-	x=5607,6577
-[Fisica].[tbn1_lroe_bienes_dim_datos_domicilio]
-	dx=291,154
-	expanded=t
-	parent=Bienes
-	x=5607,6686
-[Fisica].[vwn1_lroe_bienes_dim_datos_economicos]
-	dx=309,154
-	expanded=t
-	parent=Bienes
-	x=5607,6867
-[Fisica].[tbn1_lroe_bienes_dim_declarantes]
-	dx=266,82
-	expanded=t
-	parent=Bienes
-	x=5607,7048
-[Fisica].[fondos_vwn1_mae_presentaciones_lroe]
-	dx=298,208
-	expanded=t
-	parent=Fondos
-	x=5890,5922
-[Fisica].[tbn1_lroe_fondos_dim_actividades]
-	dx=267,100
-	expanded=t
-	parent=Fondos
-	x=10,42
-[Fisica].[Fondos]
-	c=99b2c7
-	dx=6198,6140
-	expanded=t
-	parent=140
-	x=991,2014
-[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_datos_caratula]
-	dx=378,82
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=1055,646
-[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_datos_declarado]
-	dx=389,136
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=916,265
-[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_datos_operacion]
-	dx=390,190
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=560,58
-[Fisica].[vwn1_lroe_ope_intracomunitarias_dim_declarados]
-	dx=356,100
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=213,204
-[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_declarantes]
-	dx=360,82
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=10,503
-[Fisica].[vwn1_lroe_ope_intracomunitarias_dim_documentos]
-	dx=364,118
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=33,843
-[Fisica].[vwn1_lroe_ope_intracomunitarias_dim_operaciones]
-	dx=364,64
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=279,1132
-[Fisica].[tbn1_lroe_ope_intracomunitarias_fact]
-	dx=284,208
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=565,583
-[Fisica].[operaciones_vwn1_mae_presentaciones_lroe]
-	dx=329,208
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=654,1108
-[Fisica].[tbn1_lroe_ope_intracomunitarias_dim_actividades]
-	dx=358,64
-	expanded=t
-	parent=Operaciones intracomunitarias
-	x=945,992
-[Fisica].[Operaciones intracomunitarias]
-	c=bf8cbc
-	dx=6229,9042
-	expanded=t
-	parent=140
-	view=197,523
-	x=900,5393
-	zoom=0.750000
-[Fisica].[140]
-	c=9bdfc4
-	dx=7735,14445
-	expanded=t
-	parent=Informativos - Liquidativos
-	view=178,389
-	x=40,72
-	zoom=0.500000
-[].[packages].[NM Sistema Informacional DHyF - DFB]
-	c=99b2c7
-	dx=110,37
-	expanded=t
-	parent=Paquetes
-	x=10,57
-[].[packages].[NM Sistema Informacional DHyF - DFB - Volumen de operaciones]
-	c=bf8cbc
-	dx=110,37
-	expanded=t
-	parent=Paquetes
-	x=160,57
-[].[packages].[NM Sistema Informacional DHyF - DFB - Resumido]
-	c=758698
-	dx=110,37
-	expanded=t
-	parent=Paquetes
-	x=10,121
-[].[packages]
-	view=0,0
-	zoom=1.000000
-[]
-	NavigationRect=0,0,300,343
-	Notation=4
-	ShowGrid=1
-	Snap=1
-	font=Arial Narrow
-	lod=33
-	tc=323232
-	view=0,0
-	viewStyle=2
-	zoom=1.000000
+	parent=Sociedades
+	x=70,1998
 ]]></property></object></namespace></bmtcustomdata>
