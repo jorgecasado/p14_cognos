@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:341</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:348</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
 	dx=312,208
 	expanded=t
 	parent=IVA
@@ -2915,4 +2915,27 @@
 	expanded=t
 	parent=Sin hacer aún
 	x=381,1467
+[Normalizado].[Conceptos Transversales]
+	view=0,0
+	zoom=1.000000
+[Normalizado].[tbn1_ctrans_ds_familia_irpf]
+	dx=279,208
+	expanded=t
+	parent=Conceptos Transversales
+	x=10,292
+[Normalizado].[tbn1_ctrans_ds_familia_iva]
+	dx=276,208
+	expanded=t
+	parent=Conceptos Transversales
+	x=329,292
+[Normalizado].[tbn1_ctrans_ds_familia_sociedades]
+	dx=327,208
+	expanded=t
+	parent=Conceptos Transversales
+	x=605,57
+[Normalizado].[tbn1_ctrans_ds_valores]
+	dx=555,208
+	expanded=t
+	parent=Conceptos Transversales
+	x=10,57
 ]]></property></object></namespace></bmtcustomdata>
