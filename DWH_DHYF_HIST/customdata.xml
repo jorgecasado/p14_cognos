@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:478</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:514</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
 	dx=312,208
 	expanded=t
 	parent=IVA
@@ -2073,38 +2073,34 @@
 	view=0,0
 	x=1641,116
 	zoom=1.000000
-[Normalizado].[tbn1_ml_ds_retenciones_tracelog]
+[Normalizado].[tbn1_ml_ds_retenciones]
 	dx=260,208
-	expanded=t
-	parent=Sin hacer aun
-	x=10,57
-[Normalizado].[tbn1_ml_ds_irpf_130_tracelog]
-	dx=238,208
-	expanded=t
-	parent=Sin hacer aun
-	x=10,292
-[Normalizado].[tbn1_ml_ds_nr_censo_tracelog]
-	dx=251,208
-	expanded=t
-	parent=Sin hacer aun
-	x=310,57
-[Normalizado].[tbn1_ml_ds_nr_tracelog]
-	dx=203,208
-	expanded=t
-	parent=Sin hacer aun
-	x=288,292
-[Normalizado].[Sin hacer aun]
-	c=99b2c7
-	dx=571,510
 	expanded=t
 	parent=Modelos Liquidativos
 	x=10,57
+[Normalizado].[tbn1_ml_ds_irpf_130]
+	dx=238,208
+	expanded=t
+	parent=Modelos Liquidativos
+	x=10,292
+[Normalizado].[tbn1_ml_ds_nr_censo]
+	dx=251,208
+	expanded=t
+	parent=Modelos Liquidativos
+	x=310,57
+[Normalizado].[tbn1_ml_ds_nr]
+	dx=203,208
+	expanded=t
+	parent=Modelos Liquidativos
+	x=288,292
 [Normalizado].[Modelos Liquidativos]
 	c=89c6fd
 	dx=591,577
 	expanded=t
 	parent=Normalizado
+	view=0,0
 	x=2630,760
+	zoom=1.000000
 [Normalizado].[tbn1_derivaciones_ds_expedientes_cobros]
 	dx=371,208
 	expanded=t
@@ -2797,76 +2793,66 @@
 	expanded=t
 	parent=Normalizado
 	x=2810,940
-[Normalizado].[tbn1_irpf_ds_Anexo_A_tracelog]
+[Normalizado].[tbn1_irpf_ds_Anexo_A]
 	dx=249,208
 	expanded=t
-	parent=Normalizado
-	x=2150,280
-[Normalizado].[tbn1_irpf_ds_Anexo_B_tracelog]
+	parent=IRPF
+	x=301,527
+[Normalizado].[tbn1_irpf_ds_Anexo_B]
 	dx=298,208
 	expanded=t
-	parent=Normalizado
-	x=2180,310
-[Normalizado].[tbn1_irpf_ds_Anexo_C_tracelog]
+	parent=IRPF
+	x=10,292
+[Normalizado].[tbn1_irpf_ds_Anexo_C]
 	dx=249,208
 	expanded=t
-	parent=Normalizado
-	x=2210,340
-[Normalizado].[tbn1_irpf_ds_Anexo_C4_hist]
-	dx=230,208
-	expanded=t
-	parent=Normalizado
-	x=800,822
-[Normalizado].[tbn1_irpf_ds_Anexo_C4_tracelog]
+	parent=IRPF
+	x=590,527
+[Normalizado].[tbn1_irpf_ds_Anexo_C4]
 	dx=256,208
 	expanded=t
-	parent=Normalizado
-	x=2240,370
-[Normalizado].[tbn1_irpf_ds_Anexo_D_arrendamiento_inmuebles_tracelog]
+	parent=IRPF
+	x=990,292
+[Normalizado].[tbn1_irpf_ds_Anexo_D_arrendamiento_inmuebles]
 	dx=411,208
 	expanded=t
-	parent=Normalizado
-	x=2270,400
-[Normalizado].[tbn1_irpf_ds_Anexo_I_tracelog]
+	parent=IRPF
+	x=10,57
+[Normalizado].[tbn1_irpf_ds_Anexo_I]
 	dx=244,208
 	expanded=t
-	parent=Normalizado
-	x=2300,430
-[Normalizado].[tbn1_irpf_ds_Anexo_M_tracelog]
+	parent=IRPF
+	x=10,762
+[Normalizado].[tbn1_irpf_ds_Anexo_M]
 	dx=251,208
 	expanded=t
-	parent=Normalizado
-	x=2330,460
-[Normalizado].[tbn1_irpf_ds_Anexo_M3_detalles_tracelog]
+	parent=IRPF
+	x=10,527
+[Normalizado].[tbn1_irpf_ds_Anexo_M3_detalles]
 	dx=311,208
 	expanded=t
-	parent=Normalizado
-	x=2360,490
-[Normalizado].[tbn1_irpf_ds_Anexo_M3_tracelog]
+	parent=IRPF
+	x=1216,57
+[Normalizado].[tbn1_irpf_ds_Anexo_M3]
 	dx=284,208
 	expanded=t
-	parent=Normalizado
-	x=2390,520
-[Normalizado].[tbn1_irpf_ds_declaraciones_tracelog]
+	parent=IRPF
+	x=348,292
+[Normalizado].[tbn1_irpf_ds_declaraciones]
 	dx=278,208
 	expanded=t
-	parent=Normalizado
-	x=2420,550
-[Normalizado].[tbn1_irpf_ds_personas_relacionadas_tracelog]
+	parent=IRPF
+	x=672,292
+[Normalizado].[tbn1_irpf_ds_personas_relacionadas]
 	dx=333,208
 	expanded=t
-	parent=Normalizado
-	x=2450,580
+	parent=IRPF
+	x=843,57
 [Normalizado].[tbn1_mi_codigos_aplicaciones_iva_tracelog]
 	dx=322,190
 	expanded=t
 	parent=Normalizado
 	x=830,852
-[Normalizado].[tbn1_mi_ds_170_tarjetas_credito_debito_tracelog]
-	dx=354,208
-	expanded=t
-	parent=Normalizado
-	x=2480,610
 [Normalizado].[tbn1_mi_tipos_factura_iva_tracelog]
 	dx=271,154
 	expanded=t
@@ -3989,4 +3975,138 @@
 	lod=33
 	tc=323232
 	viewStyle=2
+[Dimensional].[Modelos Liquidativos]
+	view=0,0
+	zoom=1.000000
+[Dimensional].[tbn1_mae_componentes]
+	dx=205,208
+	expanded=t
+	parent=Modelos Liquidativos
+	x=257,57
+[Dimensional].[tbn1_mae_nemotecnicos]
+	dx=207,208
+	expanded=t
+	parent=Modelos Liquidativos
+	x=10,57
+[Normalizado].[tbn1_mi_administracion_hacienda]
+	dx=263,208
+	expanded=t
+	parent=Modelos Informativos
+	x=365,181
+[Dimensional].[tbn1_mae_actua_como_nr]
+	dx=216,136
+	expanded=t
+	parent=Modelos Liquidativos
+	x=10,292
+[Dimensional].[tbn1_mae_sujetos_nr]
+	dx=187,136
+	expanded=t
+	parent=Modelos Liquidativos
+	x=10,455
+[Dimensional].[tbn1_mae_tipos_datos]
+	dx=194,136
+	expanded=t
+	parent=Modelos Liquidativos
+	x=266,292
+[Normalizado].[tbn1_mi_clave_donacion]
+	dx=262,208
+	expanded=t
+	parent=Modelos Informativos
+	x=365,181
+[Normalizado].[tbn1_mi_clave_identificacion_fondo]
+	dx=328,208
+	expanded=t
+	parent=Modelos Informativos
+	x=365,181
+[Normalizado].[tbn1_mi_clave_mercado]
+	dx=258,208
+	expanded=t
+	parent=Modelos Informativos
+	x=365,181
+[Normalizado].[181 - tbn1_mi_clave_operacion_181]
+	dx=294,154
+	expanded=t
+	parent=Modelos Informativos
+	x=365,181
+[Normalizado].[tbn1_mi_clave_codigo]
+	dx=247,208
+	expanded=t
+	parent=Modelos Informativos
+	x=365,181
+[Normalizado].[181 - tbn1_mi_clave_intervencion_operacion_181]
+	dx=374,154
+	expanded=t
+	parent=Modelos Informativos
+	x=365,181
+[Normalizado].[tbn1_claves_declarante]
+	dx=199,136
+	expanded=t
+	parent=IRPF
+	x=687,997
+[Normalizado].[tbn1_claves_residencia]
+	dx=199,136
+	expanded=t
+	parent=IRPF
+	x=10,1214
+[Normalizado].[tbn1_mi_clave_operacion]
+	dx=211,208
+	expanded=t
+	parent=Modelos Informativos
+	x=425,241
+[Normalizado].[tbn1_mi_clave_alta]
+	dx=173,190
+	expanded=t
+	parent=Modelos Informativos
+	x=395,211
+[Normalizado].[tbn1_mi_clave_declarado]
+	dx=265,208
+	expanded=t
+	parent=Modelos Informativos
+	x=365,181
+[Normalizado].[IRPF]
+	view=0,0
+	zoom=1.000000
+[Dimensional].[Sin hacer aún]
+	view=0,0
+	zoom=1.000000
+[Normalizado].[tbn1_irpf_ds_3dcl_hr]
+	dx=185,190
+	expanded=t
+	parent=IRPF
+	x=240,997
+[Normalizado].[tbn1_irpf_ds_3dfi_hr]
+	dx=182,190
+	expanded=t
+	parent=IRPF
+	x=465,997
+[Normalizado].[tbn1_irpf_ds_3dno_hr]
+	dx=190,190
+	expanded=t
+	parent=IRPF
+	x=10,997
+[Normalizado].[tbn1_irpf_ds_Anexo_D]
+	dx=342,208
+	expanded=t
+	parent=IRPF
+	x=461,57
+[Normalizado].[tbn1_irpf_ds_Anexo_E]
+	dx=230,208
+	expanded=t
+	parent=IRPF
+	x=576,762
+[Normalizado].[tbn1_irpf_ds_Anexo_F]
+	dx=242,208
+	expanded=t
+	parent=IRPF
+	x=294,762
+[Normalizado].[tbn1_irpf_ds_Anexo_M_detalles]
+	dx=249,208
+	expanded=t
+	parent=IRPF
+	x=879,527
+[Normalizado].[tbn1_irpf_ds_3dci_hr]
+	dx=185,208
+	expanded=t
+	parent=IRPF
+	x=846,762
 ]]></property></object></namespace></bmtcustomdata>
