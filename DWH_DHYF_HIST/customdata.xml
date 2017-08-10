@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:514</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:577</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
 	dx=312,208
 	expanded=t
 	parent=IVA
@@ -1664,7 +1664,7 @@
 	view=0,0
 	x=2540,670
 	zoom=1.000000
-[Normalizado].[PENDIENTE - tbn1titu_cu_tracelog]
+[Staging].[PENDIENTE - tbn1titu_cu_tracelog]
 	dx=263,208
 	expanded=t
 	parent=Catastro
@@ -1674,7 +1674,9 @@
 	dx=283,275
 	expanded=t
 	parent=Normalizado
+	view=0,0
 	x=2570,700
+	zoom=1.000000
 [Normalizado].[198 - tbn1_mi_ds_198_activos_financieros]
 	dx=333,208
 	expanded=t
@@ -3940,7 +3942,7 @@
 	expanded=t
 	parent=Modelos Informativos
 	x=1009,2457
-[Dimensional].[tbn1_mae_clave_naturaleza_declarante_tracelog]
+[Dimensional].[tbn1_mae_clave_naturaleza_declarante]
 	dx=347,172
 	expanded=t
 	parent=Modelos Informativos
@@ -4109,4 +4111,314 @@
 	expanded=t
 	parent=IRPF
 	x=846,762
+[Dimensional].[tbn1_mae_irpf_Anexo_A]
+	dx=260,208
+	expanded=t
+	parent=IRPF
+	x=708,527
+[Dimensional].[tbn1_mae_irpf_Anexo_B]
+	dx=260,208
+	expanded=t
+	parent=IRPF
+	x=1008,527
+[Dimensional].[tbn1_mae_irpf_Anexo_C]
+	dx=260,208
+	expanded=t
+	parent=IRPF
+	x=10,762
+[Dimensional].[tbn1_mae_irpf_Anexo_D]
+	dx=260,208
+	expanded=t
+	parent=IRPF
+	x=310,762
+[Dimensional].[tbn1_mae_irpf_Anexo_E]
+	dx=259,208
+	expanded=t
+	parent=IRPF
+	x=610,762
+[Dimensional].[tbn1_mae_irpf_Anexo_F]
+	dx=258,208
+	expanded=t
+	parent=IRPF
+	x=909,762
+[Dimensional].[tbn1_mae_irpf_Anexo_I]
+	dx=254,208
+	expanded=t
+	parent=IRPF
+	x=10,997
+[Dimensional].[tbn1_mae_irpf_Anexo_M]
+	dx=261,208
+	expanded=t
+	parent=IRPF
+	x=407,527
+[Dimensional].[tbn1_mae_irpf_Anexo_M3]
+	dx=268,208
+	expanded=t
+	parent=IRPF
+	x=984,292
+[Dimensional].[tbn1_mae_irpf_asignaciones]
+	dx=285,154
+	expanded=t
+	parent=IRPF
+	x=655,997
+[Dimensional].[tbn1_mae_irpf_canal]
+	dx=238,154
+	expanded=t
+	parent=IRPF
+	x=10,1232
+[Dimensional].[tbn1_mae_irpf_componentes]
+	dx=287,208
+	expanded=t
+	parent=IRPF
+	x=339,292
+[Dimensional].[tbn1_mae_irpf_declaraciones]
+	dx=289,208
+	expanded=t
+	parent=IRPF
+	x=1155,57
+[Dimensional].[tbn1_mae_irpf_detalles_inspeccion]
+	dx=324,208
+	expanded=t
+	parent=IRPF
+	x=10,57
+[Dimensional].[tbn1_mae_irpf_expedientes]
+	dx=278,208
+	expanded=t
+	parent=IRPF
+	x=666,292
+[Dimensional].[tbn1_mae_irpf_nemotecnicos]
+	dx=289,208
+	expanded=t
+	parent=IRPF
+	x=10,292
+[Dimensional].[tbn1_mae_irpf_perceptores]
+	dx=277,154
+	expanded=t
+	parent=IRPF
+	x=980,997
+[Dimensional].[tbn1_mae_irpf_tipo_importe_declaracion]
+	dx=357,154
+	expanded=t
+	parent=IRPF
+	x=10,527
+[Dimensional].[tbn1_mae_irpf_tipos_declaracion]
+	dx=311,154
+	expanded=t
+	parent=IRPF
+	x=304,997
+[Dimensional].[tbn1_mae_irpf_tramos_base_liquidable]
+	dx=347,190
+	expanded=t
+	parent=IRPF
+	x=768,57
+[Dimensional].[tbn1_mae_irpf_tramos_ingresos_trabajo]
+	dx=354,190
+	expanded=t
+	parent=IRPF
+	x=374,57
+[Dimensional].[tbn1_mae_claves_declarante]
+	dx=286,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Dimensional].[184 - tbn1_mae_claves_184]
+	dx=245,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Dimensional].[tbn1_mae_claves_personalidad_tracelog]
+	dx=301,154
+	expanded=t
+	parent=Modelos Liquidativos
+	x=475,57
+[Dimensional].[tbn1_mae_claves_residencia]
+	dx=285,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,238
+[Dimensional].[tbn1_mae_claves_tipos_bienes_muebles_inmuebles]
+	dx=425,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Dimensional].[tbn1_mae_claves_caracteres_intervencion]
+	dx=367,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Dimensional].[tbn1_mae_claves_pago]
+	dx=254,154
+	expanded=t
+	parent=Modelos Informativos
+	x=417,57
+[Dimensional].[tbn1_mae_claves_titularidad]
+	dx=284,154
+	expanded=t
+	parent=IRPF
+	x=10,57
+[Dimensional].[tbn1_mae_claves_tipos_renta]
+	dx=291,154
+	expanded=t
+	parent=IRPF
+	x=10,57
+[Dimensional].[Sin hacer aún - SOC]
+	view=0,0
+	zoom=1.000000
+[Dimensional].[MF - tbn1_mae_claves_actividad_ppal_mf]
+	dx=332,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Dimensional].[tbn1_mae_claves_cuenta]
+	dx=264,154
+	expanded=t
+	parent=Modelos Informativos
+	x=382,57
+[Dimensional].[720 - tbn1_mae_claves_bienes_720]
+	dx=291,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Dimensional].[tbn1_mae_tipos_perceptor]
+	dx=273,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Dimensional].[tbn1_mae_claves_identificacion_valor_accion]
+	dx=386,154
+	expanded=t
+	parent=Modelos Informativos
+	x=10,57
+[Normalizado].[Patrimonio]
+	view=0,0
+	zoom=1.000000
+[Normalizado].[Sin hacer aún - Patrimonio]
+	c=73d3ac
+	dx=110,37
+	expanded=t
+	parent=Patrimonio
+	x=10,57
+[Normalizado].[Sin hacer aún - Catastro]
+	c=568ef6
+	dx=781,740
+	expanded=t
+	parent=Catastro
+	view=0,0
+	x=10,57
+	zoom=1.000000
+[Normalizado].[tbn1_kr_clases_cultivo_real_tracelog]
+	dx=280,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=20,101
+[Normalizado].[KR - tbn1_kr_clases_cultivo]
+	dx=251,154
+	expanded=t
+	parent=Catastro
+	x=50,131
+[Normalizado].[tbn1_kr_ds_objetos_titular_tracelog]
+	dx=273,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=80,161
+[Normalizado].[KR - tbn1_kr_parcelas]
+	dx=216,208
+	expanded=t
+	parent=Catastro
+	x=110,191
+[Normalizado].[KR - tbn1_kr_sistemas_explotacion_parcela]
+	dx=345,154
+	expanded=t
+	parent=Catastro
+	x=140,162
+[Normalizado].[tbn1_kr_subparcelas_tracelog]
+	dx=238,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=170,251
+[Normalizado].[tbn1_kr_sistemas_explotacion_parcela_tracelog]
+	dx=345,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=20,42
+[Normalizado].[tbn1_kre_ds_tracelog]
+	dx=187,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=50,72
+[Normalizado].[tbn1_ku_altura_libre_local_comercial_tracelog]
+	dx=336,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=80,102
+[Normalizado].[KU - tbn1_ku_altura_local_rasante_comercial]
+	dx=353,154
+	expanded=t
+	parent=Catastro
+	x=110,132
+[Normalizado].[KU - tbn1_ku_calles]
+	dx=203,208
+	expanded=t
+	parent=Catastro
+	x=140,162
+[Normalizado].[tbn1_ku_clases_tracelog]
+	dx=207,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=170,192
+[Normalizado].[tbn1_ku_conceptos_edificios_tracelog]
+	dx=288,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=200,222
+[Normalizado].[tbn1_ku_ds_objetos_titular_tracelog]
+	dx=276,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=230,252
+[Normalizado].[tbn1_ku_edificios_tracelog]
+	dx=219,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=260,282
+[Normalizado].[tbn1_ku_modalidades_tracelog]
+	dx=245,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=290,312
+[Normalizado].[tbn1_ku_parcelas_tracelog]
+	dx=219,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=320,342
+[Normalizado].[tbn1_ku_portales_tracelog]
+	dx=217,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=350,372
+[Normalizado].[tbn1_ku_usos_tracelog]
+	dx=198,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=380,402
+[Normalizado].[tbn1_kue_ds_tracelog]
+	dx=190,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=410,432
+[Normalizado].[tbn1_kw_ds_actuaciones_tracelog]
+	dx=264,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=440,462
+[Normalizado].[tbn1_kw_ds_expedientes_tracelog]
+	dx=264,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=470,492
+[Normalizado].[tbn1_kwh_ds_expedientes_tracelog]
+	dx=271,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=500,522
 ]]></property></object></namespace></bmtcustomdata>
