@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:602</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:618</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
 	dx=312,208
 	expanded=t
 	parent=IVA
@@ -4298,13 +4298,8 @@
 	expanded=t
 	parent=Patrimonio
 	x=10,57
-[Normalizado].[Sin hacer aún - Catastro]
-	c=568ef6
-	dx=781,740
-	expanded=t
-	parent=Catastro
+[Dimensional].[Sin hacer aún - Catastro]
 	view=0,0
-	x=10,57
 	zoom=1.000000
 [Normalizado].[KR - tbn1_kr_clases_cultivo_real]
 	dx=280,154
@@ -4436,4 +4431,164 @@
 	expanded=t
 	parent=Catastro
 	x=425,241
+[Dimensional].[KR - tbn1_kr_mae_clases_cultivo_real]
+	dx=311,154
+	expanded=t
+	parent=Catastro
+	x=952,762
+[Dimensional].[KR - tbn1_kr_mae_clases_cultivo]
+	dx=283,154
+	expanded=t
+	parent=Catastro
+	x=887,1178
+[Dimensional].[KR - tbn1_kr_mae_parcelas]
+	dx=248,208
+	expanded=t
+	parent=Catastro
+	x=301,762
+[Dimensional].[KR - tbn1_kr_mae_sistemas_explotacion_parcela]
+	dx=377,154
+	expanded=t
+	parent=Catastro
+	x=10,292
+[Dimensional].[KR - tbn1_kr_mae_subparcelas]
+	dx=270,208
+	expanded=t
+	parent=Catastro
+	x=10,527
+[Dimensional].[tbn1_ku_mae_altura_libre_local_comercial_tracelog]
+	dx=367,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=1057,292
+[Dimensional].[KU - tbn1_ku_mae_altura_local_rasante_comercial]
+	dx=385,154
+	expanded=t
+	parent=Catastro
+	x=1115,57
+[Dimensional].[KU - tbn1_ku_mae_calles]
+	dx=235,190
+	expanded=t
+	parent=Catastro
+	x=288,1178
+[Dimensional].[tbn1_ku_mae_clases_tracelog]
+	dx=238,190
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=10,1178
+[Dimensional].[tbn1_ku_mae_conceptos_edificios_tracelog]
+	dx=320,190
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=755,57
+[Dimensional].[tbn1_ku_mae_edificios_tracelog]
+	dx=251,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=1020,527
+[Dimensional].[tbn1_ku_mae_modalidades_tracelog]
+	dx=276,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=427,292
+[Dimensional].[tbn1_ku_mae_parcelas_tracelog]
+	dx=251,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=10,762
+[Dimensional].[tbn1_ku_mae_portales_tracelog]
+	dx=249,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=1163,1395
+[Dimensional].[tbn1_ku_mae_usos_tracelog]
+	dx=229,172
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=306,1395
+[Dimensional].[KW - tbn1_mae_kw_acciones]
+	dx=256,154
+	expanded=t
+	parent=Catastro
+	x=10,1395
+[Dimensional].[KW - tbn1_mae_kw_actuaciones_planeamiento]
+	dx=361,208
+	expanded=t
+	parent=Catastro
+	x=10,57
+[Dimensional].[KW - tbn1_mae_kw_entradas]
+	dx=254,154
+	expanded=t
+	parent=Catastro
+	x=575,1395
+[Dimensional].[KW - tbn1_mae_kw_estados]
+	dx=249,154
+	expanded=t
+	parent=Catastro
+	x=10,1594
+[Dimensional].[KW - tbn1_mae_kw_expedientes]
+	dx=274,208
+	expanded=t
+	parent=Catastro
+	x=743,292
+[Dimensional].[tbn1_mae_kw_grupos_tracelog]
+	dx=245,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=299,1594
+[Dimensional].[tbn1_mae_kw_origenes_adjunto_tracelog]
+	dx=306,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=10,997
+[Dimensional].[KW - tbn1_mae_kw_origenes]
+	dx=254,154
+	expanded=t
+	parent=Catastro
+	x=869,1395
+[Dimensional].[KW - tbn1_mae_kw_secciones]
+	dx=263,154
+	expanded=t
+	parent=Catastro
+	x=1210,1178
+[Dimensional].[KW - tbn1_mae_kw_tipos_actuacion]
+	dx=297,154
+	expanded=t
+	parent=Catastro
+	x=1040,997
+[Dimensional].[tbn1_mae_kw_tipos_adjunto_tracelog]
+	dx=284,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=563,1178
+[Dimensional].[KW - tbn1_mae_kw_tipos_expediente]
+	dx=304,154
+	expanded=t
+	parent=Catastro
+	x=356,997
+[Dimensional].[tbn1_mae_kw_tipos_tramite_tracelog]
+	dx=280,190
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=320,527
+[Dimensional].[tbn1_mae_ky_naturalezas_bien_tracelog]
+	dx=300,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=700,997
+[Dimensional].[tbn1_mae_ky_origenes_expediente_tracelog]
+	dx=323,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=589,762
+[Dimensional].[tbn1_mae_ky_situaciones_expediente_tracelog]
+	dx=340,154
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=640,527
+[Dimensional].[tbn1_mae_ky_zonas_valoracion_tracelog]
+	dx=304,208
+	expanded=t
+	parent=Sin hacer aún - Catastro
+	x=411,57
 ]]></property></object></namespace></bmtcustomdata>
