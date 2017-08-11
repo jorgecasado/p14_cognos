@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:577</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:602</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
 	dx=312,208
 	expanded=t
 	parent=IVA
@@ -296,7 +296,7 @@
 	expanded=t
 	parent=Modelos Informativos
 	x=411,616
-[Staging].[BW - tbn1hide_bw_tracelog]
+[Staging].[BW - tbn1hide_bw]
 	dx=498,208
 	expanded=t
 	parent=Modelos Informativos
@@ -4306,20 +4306,20 @@
 	view=0,0
 	x=10,57
 	zoom=1.000000
-[Normalizado].[tbn1_kr_clases_cultivo_real_tracelog]
+[Normalizado].[KR - tbn1_kr_clases_cultivo_real]
 	dx=280,154
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=20,101
 [Normalizado].[KR - tbn1_kr_clases_cultivo]
 	dx=251,154
 	expanded=t
 	parent=Catastro
 	x=50,131
-[Normalizado].[tbn1_kr_ds_objetos_titular_tracelog]
+[Normalizado].[KR - tbn1_kr_ds_objetos_titular]
 	dx=273,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=80,161
 [Normalizado].[KR - tbn1_kr_parcelas]
 	dx=216,208
@@ -4331,25 +4331,20 @@
 	expanded=t
 	parent=Catastro
 	x=140,162
-[Normalizado].[tbn1_kr_subparcelas_tracelog]
+[Normalizado].[KR - tbn1_kr_subparcelas]
 	dx=238,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=170,251
-[Normalizado].[tbn1_kr_sistemas_explotacion_parcela_tracelog]
-	dx=345,154
-	expanded=t
-	parent=Sin hacer aún - Catastro
-	x=20,42
-[Normalizado].[tbn1_kre_ds_tracelog]
+[Normalizado].[KRE - tbn1_kre_ds]
 	dx=187,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=50,72
-[Normalizado].[tbn1_ku_altura_libre_local_comercial_tracelog]
+[Normalizado].[KU - tbn1_ku_altura_libre_local_comercial]
 	dx=336,154
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=80,102
 [Normalizado].[KU - tbn1_ku_altura_local_rasante_comercial]
 	dx=353,154
@@ -4361,64 +4356,84 @@
 	expanded=t
 	parent=Catastro
 	x=140,162
-[Normalizado].[tbn1_ku_clases_tracelog]
+[Normalizado].[KU - tbn1_ku_clases]
 	dx=207,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=170,192
-[Normalizado].[tbn1_ku_conceptos_edificios_tracelog]
+[Normalizado].[KU - tbn1_ku_conceptos_edificios]
 	dx=288,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=200,222
-[Normalizado].[tbn1_ku_ds_objetos_titular_tracelog]
+[Normalizado].[KU - tbn1_ku_ds_objetos_titular]
 	dx=276,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=230,252
-[Normalizado].[tbn1_ku_edificios_tracelog]
+[Normalizado].[KU - tbn1_ku_edificios]
 	dx=219,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=260,282
-[Normalizado].[tbn1_ku_modalidades_tracelog]
+[Normalizado].[KU - tbn1_ku_modalidades]
 	dx=245,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=290,312
-[Normalizado].[tbn1_ku_parcelas_tracelog]
+[Normalizado].[KU - tbn1_ku_parcelas]
 	dx=219,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=320,342
-[Normalizado].[tbn1_ku_portales_tracelog]
+[Normalizado].[KU - tbn1_ku_portales]
 	dx=217,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=350,372
-[Normalizado].[tbn1_ku_usos_tracelog]
+[Normalizado].[KU - tbn1_ku_usos]
 	dx=198,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=380,402
-[Normalizado].[tbn1_kue_ds_tracelog]
+[Normalizado].[KUE - tbn1_kue_ds]
 	dx=190,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=410,432
-[Normalizado].[tbn1_kw_ds_actuaciones_tracelog]
+[Normalizado].[KW - tbn1_kw_ds_actuaciones]
 	dx=264,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=440,462
-[Normalizado].[tbn1_kw_ds_expedientes_tracelog]
+[Normalizado].[KW - tbn1_kw_ds_expedientes]
 	dx=264,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=470,492
-[Normalizado].[tbn1_kwh_ds_expedientes_tracelog]
+[Normalizado].[KWH - tbn1_kwh_ds_expedientes]
 	dx=271,208
 	expanded=t
-	parent=Sin hacer aún - Catastro
+	parent=Catastro
 	x=500,522
+[Normalizado].[KY - tbn1_ky_ds_expedientes]
+	dx=262,208
+	expanded=t
+	parent=Catastro
+	x=365,181
+[Normalizado].[KUH - tbn1_kuh_ds_edificios_historico]
+	dx=307,208
+	expanded=t
+	parent=Catastro
+	x=365,181
+[Normalizado].[KUH - tbn1_kuh_ds_objetos_historico]
+	dx=301,208
+	expanded=t
+	parent=Catastro
+	x=395,211
+[Normalizado].[KUH - tbn1_kuh_ds_parcelas_historico]
+	dx=307,208
+	expanded=t
+	parent=Catastro
+	x=425,241
 ]]></property></object></namespace></bmtcustomdata>
