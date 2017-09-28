@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:757</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:764</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
 	dx=312,208
 	expanded=t
 	parent=IVA
@@ -3151,170 +3151,170 @@
 	dx=283,154
 	expanded=t
 	parent=Catastro
-	x=958,961
+	x=958,1079
 [Dimensional].[KR - tbn1_kr_mae_clases_cultivo_real]
 	dx=311,154
 	expanded=t
 	parent=Catastro
-	x=660,762
+	x=660,880
 [Dimensional].[KR - tbn1_kr_mae_parcelas]
 	dx=248,208
 	expanded=t
 	parent=Catastro
-	x=725,292
+	x=725,410
 [Dimensional].[KR - tbn1_kr_mae_sistemas_explotacion_parcela]
 	dx=377,154
 	expanded=t
 	parent=Catastro
-	x=1013,292
+	x=1013,410
 [Dimensional].[KR - tbn1_kr_mae_subparcelas]
 	dx=270,208
 	expanded=t
 	parent=Catastro
-	x=1042,57
+	x=1042,175
 [Dimensional].[KU - tbn1_ku_mae_altura_libre_local_comercial]
 	dx=341,136
 	expanded=t
 	parent=Catastro
-	x=1136,527
+	x=1136,645
 [Dimensional].[KU - tbn1_ku_mae_altura_local_rasante_comercial]
 	dx=385,154
 	expanded=t
 	parent=Catastro
-	x=10,292
+	x=10,410
 [Dimensional].[KU - tbn1_ku_mae_calles]
 	dx=235,190
 	expanded=t
 	parent=Catastro
-	x=10,961
+	x=10,1079
 [Dimensional].[KU - tbn1_ku_mae_clases]
 	dx=212,172
 	expanded=t
 	parent=Catastro
-	x=646,1160
+	x=646,1278
 [Dimensional].[KU - tbn1_ku_mae_conceptos_edificios]
 	dx=293,172
 	expanded=t
 	parent=Catastro
-	x=10,527
+	x=10,645
 [Dimensional].[KU - tbn1_ku_mae_edificios]
 	dx=225,208
 	expanded=t
 	parent=Catastro
-	x=343,527
+	x=343,645
 [Dimensional].[KU - tbn1_ku_mae_modalidades]
 	dx=250,208
 	expanded=t
 	parent=Catastro
-	x=435,292
+	x=435,410
 [Dimensional].[KU - tbn1_ku_mae_parcelas]
 	dx=225,208
 	expanded=t
 	parent=Catastro
-	x=608,527
+	x=608,645
 [Dimensional].[KU - tbn1_ku_mae_portales]
 	dx=223,136
 	expanded=t
 	parent=Catastro
-	x=10,1540
+	x=10,1658
 [Dimensional].[KU - tbn1_ku_mae_usos]
 	dx=203,154
 	expanded=t
 	parent=Catastro
-	x=1183,1359
+	x=1183,1477
 [Dimensional].[KW - tbn1_mae_kw_acciones]
 	dx=256,154
 	expanded=t
 	parent=Catastro
-	x=10,1359
+	x=10,1477
 [Dimensional].[KW - tbn1_mae_kw_actuaciones_planeamiento]
 	dx=361,208
 	expanded=t
 	parent=Catastro
-	x=10,57
+	x=10,175
 [Dimensional].[KW - tbn1_mae_kw_entradas]
 	dx=254,154
 	expanded=t
 	parent=Catastro
-	x=306,1359
+	x=306,1477
 [Dimensional].[KW - tbn1_mae_kw_estados]
 	dx=249,154
 	expanded=t
 	parent=Catastro
-	x=894,1359
+	x=894,1477
 [Dimensional].[KW - tbn1_mae_kw_expedientes]
 	dx=274,208
 	expanded=t
 	parent=Catastro
-	x=728,57
+	x=728,175
 [Dimensional].[KW - tbn1_mae_kw_grupos]
 	dx=221,136
 	expanded=t
 	parent=Catastro
-	x=273,1540
+	x=273,1658
 [Dimensional].[KW - tbn1_mae_kw_origenes]
 	dx=254,154
 	expanded=t
 	parent=Catastro
-	x=600,1359
+	x=600,1477
 [Dimensional].[KW - tbn1_mae_kw_origenes_adjunto]
 	dx=282,136
 	expanded=t
 	parent=Catastro
-	x=10,1160
+	x=10,1278
 [Dimensional].[KW - tbn1_mae_kw_secciones]
 	dx=263,154
 	expanded=t
 	parent=Catastro
-	x=898,1160
+	x=898,1278
 [Dimensional].[KW - tbn1_mae_kw_tipos_actuacion]
 	dx=297,154
 	expanded=t
 	parent=Catastro
-	x=285,961
+	x=285,1079
 [Dimensional].[KW - tbn1_mae_kw_tipos_adjunto]
 	dx=260,136
 	expanded=t
 	parent=Catastro
-	x=1201,1160
+	x=1201,1278
 [Dimensional].[KW - tbn1_mae_kw_tipos_expediente]
 	dx=304,154
 	expanded=t
 	parent=Catastro
-	x=1011,762
+	x=1011,880
 [Dimensional].[KW - tbn1_mae_kw_tipos_tramite]
 	dx=257,172
 	expanded=t
 	parent=Catastro
-	x=10,762
+	x=10,880
 [Dimensional].[KY - tbn1_mae_ky_naturalezas_bien]
 	dx=274,136
 	expanded=t
 	parent=Catastro
-	x=332,1160
+	x=332,1278
 [Dimensional].[KY - tbn1_mae_ky_origenes_expediente]
 	dx=296,136
 	expanded=t
 	parent=Catastro
-	x=622,961
+	x=622,1079
 [Dimensional].[KY - tbn1_mae_ky_situaciones_expediente]
 	dx=313,136
 	expanded=t
 	parent=Catastro
-	x=307,762
+	x=307,880
 [Dimensional].[KY - tbn1_mae_ky_zonas_valoracion]
 	dx=277,208
 	expanded=t
 	parent=Catastro
-	x=411,57
+	x=411,175
 [Dimensional].[SU - tbn1_mae_su_notarios]
 	dx=223,208
 	expanded=t
 	parent=Catastro
-	x=873,527
+	x=873,645
 [Dimensional].[Catastro]
 	c=bf8cbc
-	dx=1487,1686
+	dx=1487,1804
 	expanded=t
 	parent=Dimensional
 	x=10,42
