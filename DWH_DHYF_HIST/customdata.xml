@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:764</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:771</property><property name="BMTFW_Layout"><![CDATA[string:[Staging].[YA - tbn1lid1_ya - Datos Fiscales Actas Iva]
 	dx=312,208
 	expanded=t
 	parent=IVA
@@ -625,141 +625,6 @@
 	expanded=t
 	parent=Recaudación
 	x=373,2172
-[Staging].[KU - tbn1edif_ku - Histórico de edificios]
-	dx=331,208
-	expanded=t
-	parent=Catastro
-	x=388,527
-[Staging].[KU - tbn1obje_ku - Histórico de objetos]
-	dx=292,208
-	expanded=t
-	parent=Catastro
-	x=697,997
-[Staging].[SU - tbn1nota_su - Notarios]
-	dx=267,208
-	expanded=t
-	parent=Catastro
-	x=650,1232
-[Staging].[TS - tbn1vexp_ts - Valoración de expedientes]
-	dx=326,208
-	expanded=t
-	parent=Catastro
-	x=10,762
-[Staging].[NR - tbn1domi_nr - Domicilios]
-	dx=328,208
-	expanded=t
-	parent=IRPF
-	x=1860,1467
-[Staging].[SI - tbn1rctr_si - Contribuyentes Relacionados]
-	dx=332,208
-	expanded=t
-	parent=IRPF
-	x=10,1467
-[Staging].[TS - tbn1vvma_ts - Valoración mínima atribuible]
-	dx=433,208
-	expanded=t
-	parent=IRPF
-	x=1890,57
-[Staging].[YA - tbn1lpd0_ya - Datos fiscales actas de patrimonio]
-	dx=411,208
-	expanded=t
-	parent=IRPF
-	x=918,292
-[Staging].[CU - tbn1obje_cu - Objetos Tributarios]
-	dx=287,208
-	expanded=t
-	parent=IRPF
-	x=1394,1937
-[Staging].[CU - tbn1parc_cu - Parcelas]
-	dx=238,208
-	expanded=t
-	parent=IRPF
-	x=704,2172
-[Staging].[CU - tbn1uso1_cu - Nombre usos catastro urbano]
-	dx=352,136
-	expanded=t
-	parent=IRPF
-	x=982,2172
-[Staging].[D4 - tbn1dcfi_d4 - Datos Fiscales Liquidación]
-	dx=184,154
-	expanded=t
-	parent=IRPF
-	x=323,2642
-[Staging].[HR - tbn119n_hr - Anexos Activ. Doc. de Renta]
-	dx=334,208
-	expanded=t
-	parent=IRPF
-	x=1919,1232
-[Staging].[HR - tbn11ap_hr - Relación Entre Mod. 195 y 100]
-	dx=344,136
-	expanded=t
-	parent=IRPF
-	x=1374,2172
-[Staging].[HR - tbn139n_hr - Anexos Activ. Liq. de Renta]
-	dx=329,208
-	expanded=t
-	parent=IRPF
-	x=753,1467
-[Staging].[HR - tbn13adi_hr - Tabla intermedia para TBHR3ADI con el campo adi_informacion transformado en varbinary]
-	dx=706,172
-	expanded=t
-	parent=IRPF
-	x=640,57
-[Staging].[HR - tbn13ap_hr - Relación Entre Mod. 195 y 100]
-	dx=344,136
-	expanded=t
-	parent=IRPF
-	x=1758,2172
-[Staging].[HR - tbn13df_hr - Datos Fiscales Irpf]
-	dx=273,136
-	expanded=t
-	parent=IRPF
-	x=10,2642
-[Staging].[HR - tbn13lp_hr - Cabecera Liq.Provisional]
-	dx=403,208
-	expanded=t
-	parent=IRPF
-	x=457,527
-[Staging].[HR - tbn15arr_hr - Datos Fiscales de Arrendadores]
-	dx=357,208
-	expanded=t
-	parent=IRPF
-	x=1419,762
-[Staging].[HR - tbn15art_hr - Datos Fiscales Arrendatarios]
-	dx=339,208
-	expanded=t
-	parent=IRPF
-	x=1162,1232
-[Staging].[HR - tbn15car_hr - Información Carátula]
-	dx=410,208
-	expanded=t
-	parent=IRPF
-	x=1369,292
-[Staging].[YA - tbn1lr11_ya - Datos fiscales actas IRPF 2011]
-	dx=349,208
-	expanded=t
-	parent=IRPF
-	x=1188,997
-[Staging].[YA - tbn1lr12_ya - Datos fiscales actas IRPF 2012]
-	dx=349,208
-	expanded=t
-	parent=IRPF
-	x=1577,997
-[Staging].[YA - tbn1lrdf_ya - Datos fiscales actas IRPF]
-	dx=316,208
-	expanded=t
-	parent=IRPF
-	x=1457,1702
-[Staging].[YA - tbn1ppd0_ya - Datos fiscales actas de patrimonio]
-	dx=415,208
-	expanded=t
-	parent=IRPF
-	x=10,292
-[Staging].[YA - tbn1pr11_ya - Datos fiscales actas IRPF 2011]
-	dx=353,208
-	expanded=t
-	parent=IRPF
-	x=10,997
 [Staging].[KA - tbn1wpla_ka - Actuaciones del planeamiento]
 	dx=352,208
 	expanded=t
@@ -825,57 +690,56 @@
 	expanded=t
 	parent=IRPF
 	x=10,57
-[Staging].[TS - tbn1vibr_ts - Valoración bienes rústicos]
-	dx=322,208
-	expanded=t
-	parent=Catastro
-	x=738,762
-[Staging].[TS - tbn1vide_ts - Identificación bienes valoración]
-	dx=354,208
-	expanded=t
-	parent=Catastro
-	x=836,292
-[Staging].[TS - tbn1vinm_ts - Valoración de inmuebles]
-	dx=316,208
-	expanded=t
-	parent=Catastro
-	x=1100,762
-[Staging].[YC - tbn1ediz_yc - Edificios en zonas]
-	dx=291,208
-	expanded=t
-	parent=Catastro
-	x=10,1232
-[Staging].[YC - tbn1vmar_yc - Carga anual valoración mínima rústica Bizkaia]
-	dx=448,208
-	expanded=t
-	parent=Catastro
-	x=522,57
-[Staging].[YC - tbn1vmas_yc - V.M.A. de Objetos de Bizkaia]
-	dx=346,208
-	expanded=t
-	parent=Catastro
-	x=1230,292
-[Staging].[YC - tbn1vmrs_yc - Carga anual VMA rústica subparcelas]
-	dx=397,208
-	expanded=t
-	parent=Catastro
-	x=1010,57
-[Staging].[YC - tbn1zona_yc - Zonas de un distrito]
-	dx=294,208
-	expanded=t
-	parent=Catastro
-	x=363,997
-[Staging].[Catastro]
-	c=9bdfc4
-	dx=1586,1450
-	expanded=t
-	parent=Staging
-	x=274,292
-[Staging].[CU - tbn1num2_cu - Números portal catastro urbano]
-	dx=368,208
+[Staging].[CU - tbn1obje_cu - Objetos Tributarios]
+	dx=287,208
 	expanded=t
 	parent=IRPF
-	x=10,762
+	x=1394,1937
+[Staging].[CU - tbn1parc_cu - Parcelas]
+	dx=238,208
+	expanded=t
+	parent=IRPF
+	x=704,2172
+[Staging].[CU - tbn1uso1_cu - Nombre usos catastro urbano]
+	dx=352,136
+	expanded=t
+	parent=IRPF
+	x=982,2172
+[Staging].[D4 - tbn1dcfi_d4 - Datos Fiscales Liquidación]
+	dx=184,154
+	expanded=t
+	parent=IRPF
+	x=323,2642
+[Staging].[HR - tbn119n_hr - Anexos Activ. Doc. de Renta]
+	dx=334,208
+	expanded=t
+	parent=IRPF
+	x=1919,1232
+[Staging].[HR - tbn11ap_hr - Relación Entre Mod. 195 y 100]
+	dx=344,136
+	expanded=t
+	parent=IRPF
+	x=1374,2172
+[Staging].[HR - tbn139n_hr - Anexos Activ. Liq. de Renta]
+	dx=329,208
+	expanded=t
+	parent=IRPF
+	x=753,1467
+[Staging].[HR - tbn13adi_hr - Tabla intermedia para TBHR3ADI con el campo adi_informacion transformado en varbinary]
+	dx=706,172
+	expanded=t
+	parent=IRPF
+	x=640,57
+[Staging].[HR - tbn13ap_hr - Relación Entre Mod. 195 y 100]
+	dx=344,136
+	expanded=t
+	parent=IRPF
+	x=1758,2172
+[Staging].[HR - tbn13df_hr - Datos Fiscales Irpf]
+	dx=273,136
+	expanded=t
+	parent=IRPF
+	x=10,2642
 [Staging].[KA - tbn1hexp_ka - Histórico de expedientes]
 	dx=322,208
 	expanded=t
@@ -891,6 +755,141 @@
 	expanded=t
 	parent=Catastro
 	x=10,57
+[Staging].[I4 - tbn1ingr_l4 - Ingresos modelo 140]
+	dx=399,208
+	expanded=t
+	parent=IRPF
+	x=900,527
+[Staging].[KA - tbn1plan_ka - Plantas de un edificio]
+	dx=299,172
+	expanded=t
+	parent=IRPF
+	x=365,2172
+[Staging].[KA - tbn1relc_ka - Relaciones entre objetos]
+	dx=315,208
+	expanded=t
+	parent=IRPF
+	x=1813,1702
+[Staging].[KA - tbn1tabl_ka - Control asuntos catastro urbano]
+	dx=360,118
+	expanded=t
+	parent=IRPF
+	x=1063,2407
+[Staging].[KA - tbn1tcon_ka - Conceptos constructivos edificios]
+	dx=375,154
+	expanded=t
+	parent=IRPF
+	x=2047,1937
+[Staging].[KA - tbn1valc_ka - Datos valoración de comercio]
+	dx=346,208
+	expanded=t
+	parent=IRPF
+	x=10,1232
+[Staging].[KA - tbn1valg_ka - Valorción especial garajes]
+	dx=327,208
+	expanded=t
+	parent=IRPF
+	x=10,1702
+[Staging].[KA - tbn1wdoe_ka - Documentos de entrada del expediente]
+	dx=408,208
+	expanded=t
+	parent=IRPF
+	x=1819,292
+[Staging].[KA - tbn1wnot_ka - Datos notarios de expedientes]
+	dx=355,208
+	expanded=t
+	parent=IRPF
+	x=1816,762
+[Staging].[YA - tbn1lrdf_ya - Datos fiscales actas IRPF]
+	dx=316,208
+	expanded=t
+	parent=IRPF
+	x=1457,1702
+[Staging].[YA - tbn1ppd0_ya - Datos fiscales actas de patrimonio]
+	dx=415,208
+	expanded=t
+	parent=IRPF
+	x=10,292
+[Staging].[YA - tbn1pr11_ya - Datos fiscales actas IRPF 2011]
+	dx=353,208
+	expanded=t
+	parent=IRPF
+	x=10,997
+[Staging].[NR - tbn1domi_nr - Domicilios]
+	dx=328,208
+	expanded=t
+	parent=IRPF
+	x=1860,1467
+[Staging].[SI - tbn1rctr_si - Contribuyentes Relacionados]
+	dx=332,208
+	expanded=t
+	parent=IRPF
+	x=10,1467
+[Staging].[TS - tbn1vvma_ts - Valoración mínima atribuible]
+	dx=433,208
+	expanded=t
+	parent=IRPF
+	x=1890,57
+[Staging].[YA - tbn1lpd0_ya - Datos fiscales actas de patrimonio]
+	dx=411,208
+	expanded=t
+	parent=IRPF
+	x=918,292
+[Staging].[CU - tbn1cal1_cu - Callejero de catastro urbano]
+	dx=338,208
+	expanded=t
+	parent=Catastro
+	x=10,527
+[Staging].[CU - tbn1cla2_cu - Nombre clases catastro urbano]
+	dx=356,154
+	expanded=t
+	parent=Catastro
+	x=957,1232
+[Staging].[CU - tbn1comu_cu - Documentos comunes]
+	dx=313,208
+	expanded=t
+	parent=Catastro
+	x=10,997
+[Staging].[CU - tbn1edif_cu - Edificios]
+	dx=329,208
+	expanded=t
+	parent=Catastro
+	x=759,527
+[Staging].[CU - tbn1mod3_cu - Nombre modalidad catastro urbano]
+	dx=389,190
+	expanded=t
+	parent=Catastro
+	x=407,292
+[Staging].[DC - tbn1elta_dc - Elementos de tablas de códigos]
+	dx=357,208
+	expanded=t
+	parent=Catastro
+	x=10,292
+[Staging].[KA - tbn1expe_ka - Expedientes]
+	dx=291,208
+	expanded=t
+	parent=Catastro
+	x=1029,997
+[Staging].[KU - tbn1edif_ku - Histórico de edificios]
+	dx=331,208
+	expanded=t
+	parent=Catastro
+	x=388,527
+[Staging].[KU - tbn1obje_ku - Histórico de objetos]
+	dx=292,208
+	expanded=t
+	parent=Catastro
+	x=697,997
+[Staging].[SU - tbn1nota_su - Notarios]
+	dx=267,208
+	expanded=t
+	parent=Catastro
+	x=650,1232
+[Staging].[TS - tbn1vexp_ts - Valoración de expedientes]
+	dx=326,208
+	expanded=t
+	parent=Catastro
+	x=10,762
 [Staging].[HR - tbn15ctr_hr - Información de Control]
 	dx=338,208
 	expanded=t
@@ -946,86 +945,87 @@
 	expanded=t
 	parent=IRPF
 	x=1019,762
-[Staging].[I4 - tbn1ingr_l4 - Ingresos modelo 140]
-	dx=399,208
+[Staging].[YA - tbn1lr11_ya - Datos fiscales actas IRPF 2011]
+	dx=349,208
 	expanded=t
 	parent=IRPF
-	x=900,527
-[Staging].[KA - tbn1plan_ka - Plantas de un edificio]
-	dx=299,172
+	x=1188,997
+[Staging].[YA - tbn1lr12_ya - Datos fiscales actas IRPF 2012]
+	dx=349,208
 	expanded=t
 	parent=IRPF
-	x=365,2172
-[Staging].[KA - tbn1relc_ka - Relaciones entre objetos]
-	dx=315,208
+	x=1577,997
+[Staging].[HR - tbn13lp_hr - Cabecera Liq.Provisional]
+	dx=403,208
 	expanded=t
 	parent=IRPF
-	x=1813,1702
-[Staging].[KA - tbn1tabl_ka - Control asuntos catastro urbano]
-	dx=360,118
-	expanded=t
-	parent=IRPF
-	x=1063,2407
-[Staging].[KA - tbn1tcon_ka - Conceptos constructivos edificios]
-	dx=375,154
-	expanded=t
-	parent=IRPF
-	x=2047,1937
-[Staging].[KA - tbn1valc_ka - Datos valoración de comercio]
-	dx=346,208
-	expanded=t
-	parent=IRPF
-	x=10,1232
-[Staging].[KA - tbn1valg_ka - Valorción especial garajes]
-	dx=327,208
-	expanded=t
-	parent=IRPF
-	x=10,1702
-[Staging].[KA - tbn1wdoe_ka - Documentos de entrada del expediente]
-	dx=408,208
-	expanded=t
-	parent=IRPF
-	x=1819,292
-[Staging].[KA - tbn1wnot_ka - Datos notarios de expedientes]
-	dx=355,208
-	expanded=t
-	parent=IRPF
-	x=1816,762
-[Staging].[CU - tbn1cal1_cu - Callejero de catastro urbano]
-	dx=338,208
-	expanded=t
-	parent=Catastro
-	x=10,527
-[Staging].[CU - tbn1cla2_cu - Nombre clases catastro urbano]
-	dx=356,154
-	expanded=t
-	parent=Catastro
-	x=957,1232
-[Staging].[CU - tbn1comu_cu - Documentos comunes]
-	dx=313,208
-	expanded=t
-	parent=Catastro
-	x=10,997
-[Staging].[CU - tbn1edif_cu - Edificios]
-	dx=329,208
-	expanded=t
-	parent=Catastro
-	x=759,527
-[Staging].[CU - tbn1mod3_cu - Nombre modalidad catastro urbano]
-	dx=389,190
-	expanded=t
-	parent=Catastro
-	x=407,292
-[Staging].[DC - tbn1elta_dc - Elementos de tablas de códigos]
+	x=457,527
+[Staging].[HR - tbn15arr_hr - Datos Fiscales de Arrendadores]
 	dx=357,208
 	expanded=t
+	parent=IRPF
+	x=1419,762
+[Staging].[HR - tbn15art_hr - Datos Fiscales Arrendatarios]
+	dx=339,208
+	expanded=t
+	parent=IRPF
+	x=1162,1232
+[Staging].[HR - tbn15car_hr - Información Carátula]
+	dx=410,208
+	expanded=t
+	parent=IRPF
+	x=1369,292
+[Staging].[TS - tbn1vibr_ts - Valoración bienes rústicos]
+	dx=322,208
+	expanded=t
 	parent=Catastro
-	x=10,292
-[Staging].[KA - tbn1expe_ka - Expedientes]
+	x=738,762
+[Staging].[TS - tbn1vide_ts - Identificación bienes valoración]
+	dx=354,208
+	expanded=t
+	parent=Catastro
+	x=836,292
+[Staging].[TS - tbn1vinm_ts - Valoración de inmuebles]
+	dx=316,208
+	expanded=t
+	parent=Catastro
+	x=1100,762
+[Staging].[YC - tbn1ediz_yc - Edificios en zonas]
 	dx=291,208
 	expanded=t
 	parent=Catastro
-	x=1029,997
+	x=10,1232
+[Staging].[YC - tbn1vmar_yc - Carga anual valoración mínima rústica Bizkaia]
+	dx=448,208
+	expanded=t
+	parent=Catastro
+	x=522,57
+[Staging].[YC - tbn1vmas_yc - V.M.A. de Objetos de Bizkaia]
+	dx=346,208
+	expanded=t
+	parent=Catastro
+	x=1230,292
+[Staging].[YC - tbn1vmrs_yc - Carga anual VMA rústica subparcelas]
+	dx=397,208
+	expanded=t
+	parent=Catastro
+	x=1010,57
+[Staging].[YC - tbn1zona_yc - Zonas de un distrito]
+	dx=294,208
+	expanded=t
+	parent=Catastro
+	x=363,997
+[Staging].[Catastro]
+	c=9bdfc4
+	dx=1586,1450
+	expanded=t
+	parent=Staging
+	x=274,292
+[Staging].[CU - tbn1num2_cu - Números portal catastro urbano]
+	dx=368,208
+	expanded=t
+	parent=IRPF
+	x=10,762
 [Staging].[YA - tbn1pr12_ya - Datos fiscales actas IRPF 2012]
 	dx=353,208
 	expanded=t
@@ -4975,11 +4975,6 @@
 	expanded=t
 	parent=Sociedades
 	x=260,282
-[Dimensional].[tbn1_mae_documentos_sociedades]
-	dx=327,208
-	expanded=t
-	parent=Sociedades
-	x=1863,1666
 [Dimensional].[tbn1_ssrs_fact_detalles_grupo]
 	dx=297,208
 	expanded=t
@@ -5028,4 +5023,49 @@
 	lod=33
 	tc=323232
 	viewStyle=2
+[Dimensional].[200 - tbn1_det_200_anexo_10_producciones_cinematograficas]
+	dx=454,208
+	expanded=t
+	parent=Sociedades
+	x=10,57
+[Dimensional].[200 - tbn1_det_200_anexo_7_bis_gastos_derivados_vehiculos]
+	dx=451,208
+	expanded=t
+	parent=Sociedades
+	x=504,57
+[Dimensional].[220 - tbn1_det_220_anexo_7_producciones_cinematograficas]
+	dx=447,208
+	expanded=t
+	parent=Sociedades
+	x=10,292
+[Dimensional].[tbn1_mae_documentos_sociedades]
+	dx=327,208
+	expanded=t
+	parent=Sociedades
+	x=10,527
+[Dimensional].[200 - tbn1_det_200_operaciones_entidades_vinculadas_reduccion_rentas]
+	dx=519,208
+	expanded=t
+	parent=Sociedades
+	x=126,156
+[Normalizado].[200 - tbn1_det_200_anexo_10_producciones_cinematograficas]
+	dx=454,208
+	expanded=t
+	parent=Sociedades
+	x=20,42
+[Normalizado].[200 - tbn1_det_200_operaciones_entidades_vinculadas_reduccion_rentas_]
+	dx=519,208
+	expanded=t
+	parent=Sociedades
+	x=80,102
+[Normalizado].[220 - tbn1_det_220_anexo_7_producciones_cinematograficas]
+	dx=447,208
+	expanded=t
+	parent=Sociedades
+	x=140,162
+[Normalizado].[200 - tbn1_det_200_anexo_7_bis_gastos_derivados_vehiculos]
+	dx=451,208
+	expanded=t
+	parent=Sociedades
+	x=10,57
 ]]></property></object></namespace></bmtcustomdata>
